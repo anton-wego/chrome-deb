@@ -1215,7 +1215,7 @@ KUL,ATQ,zm.wego.com,airport,false,*,*,true,*
 LKO,GIZ,zm.wego.com,airport,false,*,*,true,*
 MNL,BXU,zm.wego.com,airport,false,*,*,true,*
 AYT,SAW,zm.wego.com,airport,false,*,*,true,*
-CGK,,false,zm.wego.com,airport,false,*,*,true,*
+CGK,KNO,zm.wego.com,airport,false,*,*,true,*
 FRA,EBL,zm.wego.com,airport,false,*,*,true,*
 DMK,BLR,zm.wego.com,airport,false,*,*,true,*
 MCT,PEW,zm.wego.com,airport,false,*,*,true,*
@@ -1321,7 +1321,7 @@ DMM,DOH,zm.wego.com,airport,false,*,*,true,*
 CGN,SAW,zm.wego.com,airport,false,*,*,true,*
 CGK,LOP,zm.wego.com,airport,false,*,*,true,*
 DEL,BHO,zm.wego.com,airport,false,*,*,true,*
-,false,KUL,zm.wego.com,airport,false,*,*,true,*
+KNO,KUL,zm.wego.com,airport,false,*,*,true,*
 GZT,SAW,zm.wego.com,airport,false,*,*,true,*
 SHJ,CAI,zm.wego.com,airport,false,*,*,true,*
 BOM,KNU,zm.wego.com,airport,false,*,*,true,*
@@ -1502,7 +1502,7 @@ DXB,IXB,zm.wego.com,airport,false,*,*,true,*
 HAM,SAW,zm.wego.com,airport,false,*,*,true,*
 PEN,KUL,zm.wego.com,airport,false,*,*,true,*
 RUH,PZU,zm.wego.com,airport,false,*,*,true,*
-,false,CGK,zm.wego.com,airport,false,*,*,true,*
+KNO,CGK,zm.wego.com,airport,false,*,*,true,*
 MNL,DGT,zm.wego.com,airport,false,*,*,true,*
 KWI,MAD,zm.wego.com,airport,false,*,*,true,*
 AMD,IXC,zm.wego.com,airport,false,*,*,true,*
@@ -2050,7 +2050,7 @@ BKK,DXB,zm.wego.com,airport,false,*,*,true,*
 SXR,JED,zm.wego.com,airport,false,*,*,true,*
 CRL,BGW,zm.wego.com,airport,false,*,*,true,*
 MUC,JED,zm.wego.com,airport,false,*,*,true,*
-KUL,,false,zm.wego.com,airport,false,*,*,true,*
+KUL,KNO,zm.wego.com,airport,false,*,*,true,*
 VKO,BEY,zm.wego.com,airport,false,*,*,true,*
 FCO,BCN,zm.wego.com,airport,false,*,*,true,*
 KWI,SLL,zm.wego.com,airport,false,*,*,true,*
@@ -2473,7 +2473,7 @@ GAU,PNQ,zm.wego.com,airport,false,*,*,true,*
 BOM,DGH,zm.wego.com,airport,false,*,*,true,*
 BGW,AMS,zm.wego.com,airport,false,*,*,true,*
 HYD,HSR,zm.wego.com,airport,false,*,*,true,*
-PEN,,false,zm.wego.com,airport,false,*,*,true,*
+PEN,KNO,zm.wego.com,airport,false,*,*,true,*
 DPS,DMK,zm.wego.com,airport,false,*,*,true,*
 JAI,RUH,zm.wego.com,airport,false,*,*,true,*
 SPX,VIE,zm.wego.com,airport,false,*,*,true,*
@@ -2946,7 +2946,7 @@ DMK,CEI,zm.wego.com,airport,false,*,*,true,*
 DAC,EAM,zm.wego.com,airport,false,*,*,true,*
 GOX,CCU,zm.wego.com,airport,false,*,*,true,*
 JED,LYP,zm.wego.com,airport,false,*,*,true,*
-,false,PEN,zm.wego.com,airport,false,*,*,true,*
+KNO,PEN,zm.wego.com,airport,false,*,*,true,*
 BLR,RJA,zm.wego.com,airport,false,*,*,true,*
 DOH,PEW,zm.wego.com,airport,false,*,*,true,*
 KWI,GVA,zm.wego.com,airport,false,*,*,true,*
@@ -3053,7 +3053,7 @@ CCU,MCT,zm.wego.com,airport,false,*,*,true,*
 BGY,HBE,zm.wego.com,airport,false,*,*,true,*
 BEY,STR,zm.wego.com,airport,false,*,*,true,*
 JAI,STV,zm.wego.com,airport,false,*,*,true,*
-,false,DMK,zm.wego.com,airport,false,*,*,true,*
+KNO,DMK,zm.wego.com,airport,false,*,*,true,*
 DMM,LHR,zm.wego.com,airport,false,*,*,true,*
 KUL,BTJ,zm.wego.com,airport,false,*,*,true,*
 SAW,ATH,zm.wego.com,airport,false,*,*,true,*
@@ -3959,7 +3959,7 @@ JED,AQI,zm.wego.com,airport,false,*,*,true,*
 COK,CGK,zm.wego.com,airport,false,*,*,true,*
 LIN,AMS,zm.wego.com,airport,false,*,*,true,*
 TRV,AMD,zm.wego.com,airport,false,*,*,true,*
-,false,BTH,zm.wego.com,airport,false,*,*,true,*
+KNO,BTH,zm.wego.com,airport,false,*,*,true,*
 BOM,BHU,zm.wego.com,airport,false,*,*,true,*
 SHJ,ASM,zm.wego.com,airport,false,*,*,true,*
 HBE,SHJ,zm.wego.com,airport,false,*,*,true,*
@@ -4574,7 +4574,7 @@ AUH,GOX,zm.wego.com,airport,false,*,*,true,*
 RUH,BWA,zm.wego.com,airport,false,*,*,true,*
 RUH,VGA,zm.wego.com,airport,false,*,*,true,*
 DMM,AYJ,zm.wego.com,airport,false,*,*,true,*
-BTH,,false,zm.wego.com,airport,false,*,*,true,*
+BTH,KNO,zm.wego.com,airport,false,*,*,true,*
 EAM,CGK,zm.wego.com,airport,false,*,*,true,*
 SIN,SUB,zm.wego.com,airport,false,*,*,true,*
 PRG,AUH,zm.wego.com,airport,false,*,*,true,*
@@ -4776,7 +4776,7 @@ SHJ,BLR,zm.wego.com,airport,false,*,*,true,*
 CRL,SOF,zm.wego.com,airport,false,*,*,true,*
 KUL,BKK,zm.wego.com,airport,false,*,*,true,*
 AJF,MED,zm.wego.com,airport,false,*,*,true,*
-DMK,,false,zm.wego.com,airport,false,*,*,true,*
+DMK,KNO,zm.wego.com,airport,false,*,*,true,*
 SHL,CCU,zm.wego.com,airport,false,*,*,true,*
 HAN,MAA,zm.wego.com,airport,false,*,*,true,*
 TGG,KUL,zm.wego.com,airport,false,*,*,true,*
@@ -5164,7 +5164,7 @@ BER,MCT,zm.wego.com,airport,false,*,*,true,*
 DOH,GNY,zm.wego.com,airport,false,*,*,true,*
 PRG,BUD,zm.wego.com,airport,false,*,*,true,*
 BLR,GYD,zm.wego.com,airport,false,*,*,true,*
-,false,DPS,zm.wego.com,airport,false,*,*,true,*
+KNO,DPS,zm.wego.com,airport,false,*,*,true,*
 HKG,DPS,zm.wego.com,airport,false,*,*,true,*
 CRL,DXB,zm.wego.com,airport,false,*,*,true,*
 AGA,SAW,zm.wego.com,airport,false,*,*,true,*
@@ -5499,7 +5499,7 @@ CEI,HKT,zm.wego.com,airport,false,*,*,true,*
 SSH,TBS,zm.wego.com,airport,false,*,*,true,*
 CGK,MDC,zm.wego.com,airport,false,*,*,true,*
 DEL,TPE,zm.wego.com,airport,false,*,*,true,*
-AUH,,false,zm.wego.com,airport,false,*,*,true,*
+AUH,VNO,zm.wego.com,airport,false,*,*,true,*
 ICN,DEL,zm.wego.com,airport,false,*,*,true,*
 AGA,OUD,zm.wego.com,airport,false,*,*,true,*
 TLV,LCA,zm.wego.com,airport,false,*,*,true,*
@@ -5940,7 +5940,7 @@ IKA,AYT,zm.wego.com,airport,false,*,*,true,*
 TIA,JED,zm.wego.com,airport,false,*,*,true,*
 IXD,AUH,zm.wego.com,airport,false,*,*,true,*
 AMD,VTE,zm.wego.com,airport,false,*,*,true,*
-DMK,,false,zm.wego.com,airport,false,*,*,true,*
+DMK,SNO,zm.wego.com,airport,false,*,*,true,*
 RUH,CGY,zm.wego.com,airport,false,*,*,true,*
 VIE,CRL,zm.wego.com,airport,false,*,*,true,*
 HAM,COV,zm.wego.com,airport,false,*,*,true,*
@@ -7003,7 +7003,7 @@ SAW,EIN,zm.wego.com,airport,false,*,*,true,*
 YWG,YYZ,zm.wego.com,airport,false,*,*,true,*
 CCU,TIR,zm.wego.com,airport,false,*,*,true,*
 SPX,BEG,zm.wego.com,airport,false,*,*,true,*
-MCT,,false,zm.wego.com,airport,false,*,*,true,*
+MCT,VNO,zm.wego.com,airport,false,*,*,true,*
 NRN,AMM,zm.wego.com,airport,false,*,*,true,*
 VTZ,IXM,zm.wego.com,airport,false,*,*,true,*
 DUS,BGY,zm.wego.com,airport,false,*,*,true,*
@@ -7253,7 +7253,7 @@ BUD,ARN,zm.wego.com,airport,false,*,*,true,*
 ECN,DAC,zm.wego.com,airport,false,*,*,true,*
 DUB,BBI,zm.wego.com,airport,false,*,*,true,*
 JHB,SZB,zm.wego.com,airport,false,*,*,true,*
-,false,BCN,zm.wego.com,airport,false,*,*,true,*
+VNO,BCN,zm.wego.com,airport,false,*,*,true,*
 SZB,SIN,zm.wego.com,airport,false,*,*,true,*
 DOH,TIF,zm.wego.com,airport,false,*,*,true,*
 IXC,MCT,zm.wego.com,airport,false,*,*,true,*
@@ -7497,11 +7497,11 @@ TIF,CCU,zm.wego.com,airport,false,*,*,true,*
 DTM,EBL,zm.wego.com,airport,false,*,*,true,*
 AYT,BGW,zm.wego.com,airport,false,*,*,true,*
 ASR,KWI,zm.wego.com,airport,false,*,*,true,*
-MXP,,false,zm.wego.com,airport,false,*,*,true,*
+MXP,VNO,zm.wego.com,airport,false,*,*,true,*
 LTN,ISB,zm.wego.com,airport,false,*,*,true,*
 VIE,CMN,zm.wego.com,airport,false,*,*,true,*
 COK,IXB,zm.wego.com,airport,false,*,*,true,*
-,false,BVA,zm.wego.com,airport,false,*,*,true,*
+VNO,BVA,zm.wego.com,airport,false,*,*,true,*
 RKT,DBR,zm.wego.com,airport,false,*,*,true,*
 CCJ,DPS,zm.wego.com,airport,false,*,*,true,*
 DOH,TCR,zm.wego.com,airport,false,*,*,true,*
@@ -7664,7 +7664,7 @@ LTN,BOM,zm.wego.com,airport,false,*,*,true,*
 HYD,LAX,zm.wego.com,airport,false,*,*,true,*
 BGW,HKT,zm.wego.com,airport,false,*,*,true,*
 UDR,IXC,zm.wego.com,airport,false,*,*,true,*
-SUB,,false,zm.wego.com,airport,false,*,*,true,*
+SUB,KNO,zm.wego.com,airport,false,*,*,true,*
 IXU,GOI,zm.wego.com,airport,false,*,*,true,*
 ORD,IAH,zm.wego.com,airport,false,*,*,true,*
 STR,BUD,zm.wego.com,airport,false,*,*,true,*
@@ -8042,7 +8042,7 @@ HYD,BHX,zm.wego.com,airport,false,*,*,true,*
 IXJ,IDR,zm.wego.com,airport,false,*,*,true,*
 KYA,DOH,zm.wego.com,airport,false,*,*,true,*
 SHJ,BEY,zm.wego.com,airport,false,*,*,true,*
-BCN,,false,zm.wego.com,airport,false,*,*,true,*
+BCN,VNO,zm.wego.com,airport,false,*,*,true,*
 HAJ,GZT,zm.wego.com,airport,false,*,*,true,*
 IXE,IXD,zm.wego.com,airport,false,*,*,true,*
 ARN,SSH,zm.wego.com,airport,false,*,*,true,*
@@ -8128,7 +8128,7 @@ DAC,LHR,zm.wego.com,airport,false,*,*,true,*
 BEK,DMM,zm.wego.com,airport,false,*,*,true,*
 NUE,JED,zm.wego.com,airport,false,*,*,true,*
 OTP,FEZ,zm.wego.com,airport,false,*,*,true,*
-,false,BTJ,zm.wego.com,airport,false,*,*,true,*
+KNO,BTJ,zm.wego.com,airport,false,*,*,true,*
 WAW,NCE,zm.wego.com,airport,false,*,*,true,*
 MXP,PRN,zm.wego.com,airport,false,*,*,true,*
 HYD,MLA,zm.wego.com,airport,false,*,*,true,*
@@ -8244,7 +8244,7 @@ CAI,IKA,zm.wego.com,airport,false,*,*,true,*
 EIN,ATH,zm.wego.com,airport,false,*,*,true,*
 BAH,EDI,zm.wego.com,airport,false,*,*,true,*
 ADD,AJF,zm.wego.com,airport,false,*,*,true,*
-,false,SIN,zm.wego.com,airport,false,*,*,true,*
+KNO,SIN,zm.wego.com,airport,false,*,*,true,*
 VII,SGN,zm.wego.com,airport,false,*,*,true,*
 SYZ,BOM,zm.wego.com,airport,false,*,*,true,*
 HYD,BNE,zm.wego.com,airport,false,*,*,true,*
@@ -8351,7 +8351,7 @@ KHI,CAI,zm.wego.com,airport,false,*,*,true,*
 LCA,AMS,zm.wego.com,airport,false,*,*,true,*
 AHB,VIE,zm.wego.com,airport,false,*,*,true,*
 HPH,SGN,zm.wego.com,airport,false,*,*,true,*
-,false,JED,zm.wego.com,airport,false,*,*,true,*
+KNO,JED,zm.wego.com,airport,false,*,*,true,*
 DVO,BKK,zm.wego.com,airport,false,*,*,true,*
 HAN,CAI,zm.wego.com,airport,false,*,*,true,*
 WAW,KEF,zm.wego.com,airport,false,*,*,true,*
@@ -8742,9 +8742,9 @@ SAW,RBA,zm.wego.com,airport,false,*,*,true,*
 TSF,OTP,zm.wego.com,airport,false,*,*,true,*
 IXB,MCT,zm.wego.com,airport,false,*,*,true,*
 TIF,KHI,zm.wego.com,airport,false,*,*,true,*
-BPN,,false,zm.wego.com,airport,false,*,*,true,*
+BPN,KNO,zm.wego.com,airport,false,*,*,true,*
 BCN,STR,zm.wego.com,airport,false,*,*,true,*
-SAW,,false,zm.wego.com,airport,false,*,*,true,*
+SAW,VNO,zm.wego.com,airport,false,*,*,true,*
 HBE,EIN,zm.wego.com,airport,false,*,*,true,*
 FRU,DMM,zm.wego.com,airport,false,*,*,true,*
 KHI,BKK,zm.wego.com,airport,false,*,*,true,*
@@ -9190,7 +9190,7 @@ HKT,KBV,zm.wego.com,airport,false,*,*,true,*
 MAA,IST,zm.wego.com,airport,false,*,*,true,*
 DEL,BOS,zm.wego.com,airport,false,*,*,true,*
 CCU,GWL,zm.wego.com,airport,false,*,*,true,*
-,false,MXP,zm.wego.com,airport,false,*,*,true,*
+VNO,MXP,zm.wego.com,airport,false,*,*,true,*
 CMN,TUU,zm.wego.com,airport,false,*,*,true,*
 AUH,DAM,zm.wego.com,airport,false,*,*,true,*
 CGN,LHR,zm.wego.com,airport,false,*,*,true,*
@@ -9242,7 +9242,7 @@ DPS,RUH,zm.wego.com,airport,false,*,*,true,*
 FRU,AYT,zm.wego.com,airport,false,*,*,true,*
 GAU,DED,zm.wego.com,airport,false,*,*,true,*
 CAI,ISB,zm.wego.com,airport,false,*,*,true,*
-,false,BGY,zm.wego.com,airport,false,*,*,true,*
+VNO,BGY,zm.wego.com,airport,false,*,*,true,*
 GIZ,SPX,zm.wego.com,airport,false,*,*,true,*
 CTA,CMN,zm.wego.com,airport,false,*,*,true,*
 DEL,FRA,zm.wego.com,airport,false,*,*,true,*
@@ -9258,7 +9258,7 @@ KYA,CAI,zm.wego.com,airport,false,*,*,true,*
 SAW,RTM,zm.wego.com,airport,false,*,*,true,*
 ATQ,STV,zm.wego.com,airport,false,*,*,true,*
 IXU,NAG,zm.wego.com,airport,false,*,*,true,*
-,false,FCO,zm.wego.com,airport,false,*,*,true,*
+VNO,FCO,zm.wego.com,airport,false,*,*,true,*
 AMD,IXU,zm.wego.com,airport,false,*,*,true,*
 VNS,CJB,zm.wego.com,airport,false,*,*,true,*
 DAC,YNB,zm.wego.com,airport,false,*,*,true,*
@@ -9516,7 +9516,7 @@ PEW,KWI,zm.wego.com,airport,false,*,*,true,*
 TPE,CJJ,zm.wego.com,airport,false,*,*,true,*
 PQC,AMD,zm.wego.com,airport,false,*,*,true,*
 GVA,AMM,zm.wego.com,airport,false,*,*,true,*
-,false,YIA,zm.wego.com,airport,false,*,*,true,*
+KNO,YIA,zm.wego.com,airport,false,*,*,true,*
 AMD,KNU,zm.wego.com,airport,false,*,*,true,*
 BEG,MAA,zm.wego.com,airport,false,*,*,true,*
 DMM,BJV,zm.wego.com,airport,false,*,*,true,*
@@ -9896,7 +9896,7 @@ TRV,CGK,zm.wego.com,airport,false,*,*,true,*
 HGI,BOM,zm.wego.com,airport,false,*,*,true,*
 DEL,PUS,zm.wego.com,airport,false,*,*,true,*
 GIZ,EAM,zm.wego.com,airport,false,*,*,true,*
-DXB,,false,zm.wego.com,airport,false,*,*,true,*
+DXB,VNO,zm.wego.com,airport,false,*,*,true,*
 KIX,PVG,zm.wego.com,airport,false,*,*,true,*
 GVA,RAK,zm.wego.com,airport,false,*,*,true,*
 IXJ,LKO,zm.wego.com,airport,false,*,*,true,*
@@ -9937,7 +9937,7 @@ NUE,ATH,zm.wego.com,airport,false,*,*,true,*
 BOM,HGH,zm.wego.com,airport,false,*,*,true,*
 MAA,GAY,zm.wego.com,airport,false,*,*,true,*
 JED,DAD,zm.wego.com,airport,false,*,*,true,*
-BTJ,,false,zm.wego.com,airport,false,*,*,true,*
+BTJ,KNO,zm.wego.com,airport,false,*,*,true,*
 DEL,VIE,zm.wego.com,airport,false,*,*,true,*
 MAA,UTP,zm.wego.com,airport,false,*,*,true,*
 ORY,RAK,zm.wego.com,airport,false,*,*,true,*
@@ -10011,7 +10011,7 @@ CRA,BGY,zm.wego.com,airport,false,*,*,true,*
 GDN,TRF,zm.wego.com,airport,false,*,*,true,*
 KRK,LYS,zm.wego.com,airport,false,*,*,true,*
 VIE,MAN,zm.wego.com,airport,false,*,*,true,*
-SIN,,false,zm.wego.com,airport,false,*,*,true,*
+SIN,KNO,zm.wego.com,airport,false,*,*,true,*
 DTW,MIA,zm.wego.com,airport,false,*,*,true,*
 AMS,DEL,zm.wego.com,airport,false,*,*,true,*
 FCO,SVQ,zm.wego.com,airport,false,*,*,true,*
@@ -10074,7 +10074,7 @@ SIN,BBI,zm.wego.com,airport,false,*,*,true,*
 KRK,AYT,zm.wego.com,airport,false,*,*,true,*
 IXR,BKK,zm.wego.com,airport,false,*,*,true,*
 HKG,TAG,zm.wego.com,airport,false,*,*,true,*
-YIA,,false,zm.wego.com,airport,false,*,*,true,*
+YIA,KNO,zm.wego.com,airport,false,*,*,true,*
 ASR,VIE,zm.wego.com,airport,false,*,*,true,*
 BKI,MNL,zm.wego.com,airport,false,*,*,true,*
 GVA,CAI,zm.wego.com,airport,false,*,*,true,*
@@ -10267,7 +10267,7 @@ IXG,RKT,zm.wego.com,airport,false,*,*,true,*
 OSL,AMS,zm.wego.com,airport,false,*,*,true,*
 SAW,CZL,zm.wego.com,airport,false,*,*,true,*
 BCN,LYS,zm.wego.com,airport,false,*,*,true,*
-PLM,,false,zm.wego.com,airport,false,*,*,true,*
+PLM,KNO,zm.wego.com,airport,false,*,*,true,*
 ZRH,DAM,zm.wego.com,airport,false,*,*,true,*
 TRV,MNL,zm.wego.com,airport,false,*,*,true,*
 AOR,SZB,zm.wego.com,airport,false,*,*,true,*
@@ -10282,7 +10282,7 @@ BAH,BLR,zm.wego.com,airport,false,*,*,true,*
 GOT,EBL,zm.wego.com,airport,false,*,*,true,*
 CJB,BBI,zm.wego.com,airport,false,*,*,true,*
 UTP,KUL,zm.wego.com,airport,false,*,*,true,*
-PDG,,false,zm.wego.com,airport,false,*,*,true,*
+PDG,KNO,zm.wego.com,airport,false,*,*,true,*
 DIU,AMD,zm.wego.com,airport,false,*,*,true,*
 PRN,AMM,zm.wego.com,airport,false,*,*,true,*
 LTN,BCN,zm.wego.com,airport,false,*,*,true,*
@@ -10353,7 +10353,7 @@ BNE,BKK,zm.wego.com,airport,false,*,*,true,*
 MEL,MCT,zm.wego.com,airport,false,*,*,true,*
 DXB,GVA,zm.wego.com,airport,false,*,*,true,*
 ELQ,ISB,zm.wego.com,airport,false,*,*,true,*
-,false,TKG,zm.wego.com,airport,false,*,*,true,*
+KNO,TKG,zm.wego.com,airport,false,*,*,true,*
 PRG,VCE,zm.wego.com,airport,false,*,*,true,*
 ALG,AMM,zm.wego.com,airport,false,*,*,true,*
 GOP,STV,zm.wego.com,airport,false,*,*,true,*
@@ -10362,7 +10362,7 @@ NRT,LAX,zm.wego.com,airport,false,*,*,true,*
 PAT,IXL,zm.wego.com,airport,false,*,*,true,*
 CEB,BUD,zm.wego.com,airport,false,*,*,true,*
 TUU,TUN,zm.wego.com,airport,false,*,*,true,*
-DEL,,false,zm.wego.com,airport,false,*,*,true,*
+DEL,VNO,zm.wego.com,airport,false,*,*,true,*
 VGA,SIN,zm.wego.com,airport,false,*,*,true,*
 RUH,SPU,zm.wego.com,airport,false,*,*,true,*
 DMM,RQY,zm.wego.com,airport,false,*,*,true,*
@@ -10599,7 +10599,7 @@ BGW,LED,zm.wego.com,airport,false,*,*,true,*
 IXA,BBI,zm.wego.com,airport,false,*,*,true,*
 IXJ,VNS,zm.wego.com,airport,false,*,*,true,*
 SOF,HHN,zm.wego.com,airport,false,*,*,true,*
-MNL,,false,zm.wego.com,airport,false,*,*,true,*
+MNL,VNO,zm.wego.com,airport,false,*,*,true,*
 STV,DED,zm.wego.com,airport,false,*,*,true,*
 KTW,ATH,zm.wego.com,airport,false,*,*,true,*
 SHJ,DSE,zm.wego.com,airport,false,*,*,true,*
@@ -10812,7 +10812,7 @@ CGK,BAH,zm.wego.com,airport,false,*,*,true,*
 IXC,YYZ,zm.wego.com,airport,false,*,*,true,*
 BRU,HRG,zm.wego.com,airport,false,*,*,true,*
 CRL,AGP,zm.wego.com,airport,false,*,*,true,*
-,false,MAA,zm.wego.com,airport,false,*,*,true,*
+KNO,MAA,zm.wego.com,airport,false,*,*,true,*
 MAN,CRL,zm.wego.com,airport,false,*,*,true,*
 BOM,CDP,zm.wego.com,airport,false,*,*,true,*
 GOX,LKO,zm.wego.com,airport,false,*,*,true,*
@@ -10959,7 +10959,7 @@ KUL,KWL,zm.wego.com,airport,false,*,*,true,*
 ATH,NAP,zm.wego.com,airport,false,*,*,true,*
 SHJ,TIA,zm.wego.com,airport,false,*,*,true,*
 SRG,MDC,zm.wego.com,airport,false,*,*,true,*
-,false,PNK,zm.wego.com,airport,false,*,*,true,*
+KNO,PNK,zm.wego.com,airport,false,*,*,true,*
 GWL,SXR,zm.wego.com,airport,false,*,*,true,*
 HAM,BSL,zm.wego.com,airport,false,*,*,true,*
 ADD,SAW,zm.wego.com,airport,false,*,*,true,*
@@ -11029,7 +11029,7 @@ IXG,DOH,zm.wego.com,airport,false,*,*,true,*
 ARN,CMN,zm.wego.com,airport,false,*,*,true,*
 IST,CMB,zm.wego.com,airport,false,*,*,true,*
 CLJ,AUH,zm.wego.com,airport,false,*,*,true,*
-DPS,,false,zm.wego.com,airport,false,*,*,true,*
+DPS,KNO,zm.wego.com,airport,false,*,*,true,*
 SPX,WAW,zm.wego.com,airport,false,*,*,true,*
 HEL,AMM,zm.wego.com,airport,false,*,*,true,*
 EDI,DXB,zm.wego.com,airport,false,*,*,true,*
@@ -11076,7 +11076,7 @@ JAI,GOP,zm.wego.com,airport,false,*,*,true,*
 HAN,KIX,zm.wego.com,airport,false,*,*,true,*
 CPH,GDN,zm.wego.com,airport,false,*,*,true,*
 TIF,ADD,zm.wego.com,airport,false,*,*,true,*
-BGY,,false,zm.wego.com,airport,false,*,*,true,*
+BGY,VNO,zm.wego.com,airport,false,*,*,true,*
 AUH,IXU,zm.wego.com,airport,false,*,*,true,*
 DMM,WAW,zm.wego.com,airport,false,*,*,true,*
 DXB,NCE,zm.wego.com,airport,false,*,*,true,*
@@ -11123,7 +11123,7 @@ DMM,DUB,zm.wego.com,airport,false,*,*,true,*
 DMM,LYP,zm.wego.com,airport,false,*,*,true,*
 LYS,MBA,zm.wego.com,airport,false,*,*,true,*
 BHO,SHJ,zm.wego.com,airport,false,*,*,true,*
-,false,CTA,zm.wego.com,airport,false,*,*,true,*
+VNO,CTA,zm.wego.com,airport,false,*,*,true,*
 BER,DUS,zm.wego.com,airport,false,*,*,true,*
 ATH,LHE,zm.wego.com,airport,false,*,*,true,*
 WRO,LTN,zm.wego.com,airport,false,*,*,true,*
@@ -11260,7 +11260,7 @@ KLO,DXB,zm.wego.com,airport,false,*,*,true,*
 DED,RPR,zm.wego.com,airport,false,*,*,true,*
 LGW,ABZ,zm.wego.com,airport,false,*,*,true,*
 SHJ,VGA,zm.wego.com,airport,false,*,*,true,*
-,false,SUB,zm.wego.com,airport,false,*,*,true,*
+KNO,SUB,zm.wego.com,airport,false,*,*,true,*
 MCT,LHW,zm.wego.com,airport,false,*,*,true,*
 CMH,MCO,zm.wego.com,airport,false,*,*,true,*
 JED,YVR,zm.wego.com,airport,false,*,*,true,*
@@ -11649,7 +11649,7 @@ JED,GIG,zm.wego.com,airport,false,*,*,true,*
 BVA,AGP,zm.wego.com,airport,false,*,*,true,*
 TLS,ALC,zm.wego.com,airport,false,*,*,true,*
 SUB,AMQ,zm.wego.com,airport,false,*,*,true,*
-,false,AMM,zm.wego.com,airport,false,*,*,true,*
+KNO,AMM,zm.wego.com,airport,false,*,*,true,*
 HBE,JED,zm.wego.com,airport,false,*,*,true,*
 IXM,KUL,zm.wego.com,airport,false,*,*,true,*
 YYZ,FLL,zm.wego.com,airport,false,*,*,true,*
@@ -11731,7 +11731,7 @@ BGY,HHN,zm.wego.com,airport,false,*,*,true,*
 MED,CDP,zm.wego.com,airport,false,*,*,true,*
 DWC,GYD,zm.wego.com,airport,false,*,*,true,*
 RUH,MLA,zm.wego.com,airport,false,*,*,true,*
-JED,,false,zm.wego.com,airport,false,*,*,true,*
+JED,VNO,zm.wego.com,airport,false,*,*,true,*
 PEN,TPE,zm.wego.com,airport,false,*,*,true,*
 KWI,DTM,zm.wego.com,airport,false,*,*,true,*
 CLJ,BSL,zm.wego.com,airport,false,*,*,true,*
@@ -12295,7 +12295,7 @@ CCU,HBX,zm.wego.com,airport,false,*,*,true,*
 IXB,UDR,zm.wego.com,airport,false,*,*,true,*
 BGW,AUH,zm.wego.com,airport,false,*,*,true,*
 MED,FCO,zm.wego.com,airport,false,*,*,true,*
-DEL,,false,zm.wego.com,airport,false,*,*,true,*
+DEL,KNO,zm.wego.com,airport,false,*,*,true,*
 PEN,HAN,zm.wego.com,airport,false,*,*,true,*
 AMS,STN,zm.wego.com,airport,false,*,*,true,*
 MCT,SZX,zm.wego.com,airport,false,*,*,true,*
@@ -12420,7 +12420,7 @@ HHN,BEY,zm.wego.com,airport,false,*,*,true,*
 AUH,LGK,zm.wego.com,airport,false,*,*,true,*
 EAM,CMB,zm.wego.com,airport,false,*,*,true,*
 MAN,MLA,zm.wego.com,airport,false,*,*,true,*
-MAA,,false,zm.wego.com,airport,false,*,*,true,*
+MAA,KNO,zm.wego.com,airport,false,*,*,true,*
 MAA,PNH,zm.wego.com,airport,false,*,*,true,*
 VGA,IXB,zm.wego.com,airport,false,*,*,true,*
 ABZ,LGW,zm.wego.com,airport,false,*,*,true,*
@@ -12797,7 +12797,7 @@ AJF,HTY,zm.wego.com,airport,false,*,*,true,*
 GZT,CRL,zm.wego.com,airport,false,*,*,true,*
 CPH,DAC,zm.wego.com,airport,false,*,*,true,*
 AGP,TTU,zm.wego.com,airport,false,*,*,true,*
-,false,PDG,zm.wego.com,airport,false,*,*,true,*
+KNO,PDG,zm.wego.com,airport,false,*,*,true,*
 AMS,TOS,zm.wego.com,airport,false,*,*,true,*
 GIZ,MXP,zm.wego.com,airport,false,*,*,true,*
 DMM,ZAM,zm.wego.com,airport,false,*,*,true,*
@@ -12835,7 +12835,7 @@ KTM,HYD,zm.wego.com,airport,false,*,*,true,*
 SPX,BVA,zm.wego.com,airport,false,*,*,true,*
 DIU,JAI,zm.wego.com,airport,false,*,*,true,*
 FCO,MAN,zm.wego.com,airport,false,*,*,true,*
-PNK,,false,zm.wego.com,airport,false,*,*,true,*
+PNK,KNO,zm.wego.com,airport,false,*,*,true,*
 AMM,VOG,zm.wego.com,airport,false,*,*,true,*
 OKA,ICN,zm.wego.com,airport,false,*,*,true,*
 CCU,AGR,zm.wego.com,airport,false,*,*,true,*
@@ -12931,7 +12931,7 @@ KTM,WAW,zm.wego.com,airport,false,*,*,true,*
 TUU,SPX,zm.wego.com,airport,false,*,*,true,*
 JED,SKZ,zm.wego.com,airport,false,*,*,true,*
 TGG,LKO,zm.wego.com,airport,false,*,*,true,*
-DTM,,false,zm.wego.com,airport,false,*,*,true,*
+DTM,VNO,zm.wego.com,airport,false,*,*,true,*
 DXB,GAY,zm.wego.com,airport,false,*,*,true,*
 AYJ,VTZ,zm.wego.com,airport,false,*,*,true,*
 LGK,DMK,zm.wego.com,airport,false,*,*,true,*
@@ -12953,7 +12953,7 @@ CJB,MLE,zm.wego.com,airport,false,*,*,true,*
 IXR,BAH,zm.wego.com,airport,false,*,*,true,*
 RBA,DMM,zm.wego.com,airport,false,*,*,true,*
 AMS,BOM,zm.wego.com,airport,false,*,*,true,*
-,false,DTM,zm.wego.com,airport,false,*,*,true,*
+VNO,DTM,zm.wego.com,airport,false,*,*,true,*
 ELQ,AMM,zm.wego.com,airport,false,*,*,true,*
 HBE,SOF,zm.wego.com,airport,false,*,*,true,*
 JLR,JED,zm.wego.com,airport,false,*,*,true,*
@@ -13328,7 +13328,7 @@ KHI,CGN,zm.wego.com,airport,false,*,*,true,*
 SYR,MCO,zm.wego.com,airport,false,*,*,true,*
 CIA,CRL,zm.wego.com,airport,false,*,*,true,*
 JDH,IDR,zm.wego.com,airport,false,*,*,true,*
-,false,BPN,zm.wego.com,airport,false,*,*,true,*
+KNO,BPN,zm.wego.com,airport,false,*,*,true,*
 DXB,MRU,zm.wego.com,airport,false,*,*,true,*
 HAJ,MCT,zm.wego.com,airport,false,*,*,true,*
 MRS,BEY,zm.wego.com,airport,false,*,*,true,*
@@ -13386,7 +13386,7 @@ GOT,MAN,zm.wego.com,airport,false,*,*,true,*
 BHO,IXM,zm.wego.com,airport,false,*,*,true,*
 CMB,SHJ,zm.wego.com,airport,false,*,*,true,*
 KYA,SHJ,zm.wego.com,airport,false,*,*,true,*
-,false,KUT,zm.wego.com,airport,false,*,*,true,*
+VNO,KUT,zm.wego.com,airport,false,*,*,true,*
 ATL,BOS,zm.wego.com,airport,false,*,*,true,*
 AUH,DHM,zm.wego.com,airport,false,*,*,true,*
 SAW,ASM,zm.wego.com,airport,false,*,*,true,*
@@ -13907,7 +13907,7 @@ ALG,VKO,zm.wego.com,airport,false,*,*,true,*
 BOM,VIE,zm.wego.com,airport,false,*,*,true,*
 SAI,TRV,zm.wego.com,airport,false,*,*,true,*
 DEN,PHX,zm.wego.com,airport,false,*,*,true,*
-AMD,,false,zm.wego.com,airport,false,*,*,true,*
+AMD,KNO,zm.wego.com,airport,false,*,*,true,*
 KLO,HKG,zm.wego.com,airport,false,*,*,true,*
 BWI,FLL,zm.wego.com,airport,false,*,*,true,*
 BSL,CPH,zm.wego.com,airport,false,*,*,true,*
@@ -14699,7 +14699,7 @@ SZF,DUS,zm.wego.com,airport,false,*,*,true,*
 ADL,BOM,zm.wego.com,airport,false,*,*,true,*
 IXJ,STV,zm.wego.com,airport,false,*,*,true,*
 BFS,HRE,zm.wego.com,airport,false,*,*,true,*
-HYD,,false,zm.wego.com,airport,false,*,*,true,*
+HYD,VNO,zm.wego.com,airport,false,*,*,true,*
 DEL,MIA,zm.wego.com,airport,false,*,*,true,*
 DRP,RUH,zm.wego.com,airport,false,*,*,true,*
 CLT,EWR,zm.wego.com,airport,false,*,*,true,*
@@ -14840,7 +14840,7 @@ FAO,HHN,zm.wego.com,airport,false,*,*,true,*
 SOF,JED,zm.wego.com,airport,false,*,*,true,*
 SSH,VIE,zm.wego.com,airport,false,*,*,true,*
 LPL,GVA,zm.wego.com,airport,false,*,*,true,*
-PKU,,false,zm.wego.com,airport,false,*,*,true,*
+PKU,KNO,zm.wego.com,airport,false,*,*,true,*
 AUH,JAF,zm.wego.com,airport,false,*,*,true,*
 CGK,LOS,zm.wego.com,airport,false,*,*,true,*
 BOM,AKL,zm.wego.com,airport,false,*,*,true,*
@@ -14903,7 +14903,7 @@ EDI,BER,zm.wego.com,airport,false,*,*,true,*
 BLQ,EBL,zm.wego.com,airport,false,*,*,true,*
 RBA,CIA,zm.wego.com,airport,false,*,*,true,*
 TPA,LAS,zm.wego.com,airport,false,*,*,true,*
-BVA,,false,zm.wego.com,airport,false,*,*,true,*
+BVA,VNO,zm.wego.com,airport,false,*,*,true,*
 AMD,SAG,zm.wego.com,airport,false,*,*,true,*
 CCU,EBB,zm.wego.com,airport,false,*,*,true,*
 IST,FCO,zm.wego.com,airport,false,*,*,true,*
@@ -15052,7 +15052,7 @@ OTP,AMS,zm.wego.com,airport,false,*,*,true,*
 BCN,SOF,zm.wego.com,airport,false,*,*,true,*
 LAX,CPH,zm.wego.com,airport,false,*,*,true,*
 HBE,CGN,zm.wego.com,airport,false,*,*,true,*
-JED,,false,zm.wego.com,airport,false,*,*,true,*
+JED,KNO,zm.wego.com,airport,false,*,*,true,*
 DEL,AMQ,zm.wego.com,airport,false,*,*,true,*
 GZT,TZX,zm.wego.com,airport,false,*,*,true,*
 SPX,BHX,zm.wego.com,airport,false,*,*,true,*
@@ -15151,7 +15151,7 @@ LTN,IKA,zm.wego.com,airport,false,*,*,true,*
 CVG,DXB,zm.wego.com,airport,false,*,*,true,*
 SLL,TUN,zm.wego.com,airport,false,*,*,true,*
 BER,YUL,zm.wego.com,airport,false,*,*,true,*
-,false,PKU,zm.wego.com,airport,false,*,*,true,*
+KNO,PKU,zm.wego.com,airport,false,*,*,true,*
 CLJ,HHN,zm.wego.com,airport,false,*,*,true,*
 SUB,TRK,zm.wego.com,airport,false,*,*,true,*
 DGT,BLR,zm.wego.com,airport,false,*,*,true,*
@@ -15512,7 +15512,7 @@ AYJ,STV,zm.wego.com,airport,false,*,*,true,*
 ATH,KHI,zm.wego.com,airport,false,*,*,true,*
 DUB,FAO,zm.wego.com,airport,false,*,*,true,*
 GOI,UDR,zm.wego.com,airport,false,*,*,true,*
-,false,ISB,zm.wego.com,airport,false,*,*,true,*
+VNO,ISB,zm.wego.com,airport,false,*,*,true,*
 JED,AER,zm.wego.com,airport,false,*,*,true,*
 SAW,YUL,zm.wego.com,airport,false,*,*,true,*
 ADB,COV,zm.wego.com,airport,false,*,*,true,*
@@ -15576,7 +15576,7 @@ TIA,DTM,zm.wego.com,airport,false,*,*,true,*
 CAI,ALA,zm.wego.com,airport,false,*,*,true,*
 PMI,NUE,zm.wego.com,airport,false,*,*,true,*
 SKG,LIS,zm.wego.com,airport,false,*,*,true,*
-,false,DEL,zm.wego.com,airport,false,*,*,true,*
+VNO,DEL,zm.wego.com,airport,false,*,*,true,*
 CMN,IST,zm.wego.com,airport,false,*,*,true,*
 RMO,LTN,zm.wego.com,airport,false,*,*,true,*
 SBW,SIN,zm.wego.com,airport,false,*,*,true,*
@@ -15605,7 +15605,7 @@ HYD,PVG,zm.wego.com,airport,false,*,*,true,*
 DMM,SKP,zm.wego.com,airport,false,*,*,true,*
 EBL,SZF,zm.wego.com,airport,false,*,*,true,*
 BGY,CMN,zm.wego.com,airport,false,*,*,true,*
-,false,NUE,zm.wego.com,airport,false,*,*,true,*
+VNO,NUE,zm.wego.com,airport,false,*,*,true,*
 AKL,DPS,zm.wego.com,airport,false,*,*,true,*
 TUU,MBA,zm.wego.com,airport,false,*,*,true,*
 MSY,CUN,zm.wego.com,airport,false,*,*,true,*
@@ -16307,7 +16307,7 @@ FCO,OLB,zm.wego.com,airport,false,*,*,true,*
 CEB,YQR,zm.wego.com,airport,false,*,*,true,*
 DXB,JER,zm.wego.com,airport,false,*,*,true,*
 MRS,VIE,zm.wego.com,airport,false,*,*,true,*
-UPG,,false,zm.wego.com,airport,false,*,*,true,*
+UPG,KNO,zm.wego.com,airport,false,*,*,true,*
 AMM,YWG,zm.wego.com,airport,false,*,*,true,*
 AUH,SYD,zm.wego.com,airport,false,*,*,true,*
 TFU,BKK,zm.wego.com,airport,false,*,*,true,*
@@ -16461,7 +16461,7 @@ CLT,DFW,zm.wego.com,airport,false,*,*,true,*
 STR,OSL,zm.wego.com,airport,false,*,*,true,*
 ZAZ,PMI,zm.wego.com,airport,false,*,*,true,*
 ATH,MJT,zm.wego.com,airport,false,*,*,true,*
-,false,PLM,zm.wego.com,airport,false,*,*,true,*
+KNO,PLM,zm.wego.com,airport,false,*,*,true,*
 BEK,DEL,zm.wego.com,airport,false,*,*,true,*
 KEF,BUD,zm.wego.com,airport,false,*,*,true,*
 FAO,BER,zm.wego.com,airport,false,*,*,true,*
@@ -16613,7 +16613,7 @@ VCE,FEZ,zm.wego.com,airport,false,*,*,true,*
 ARN,MLA,zm.wego.com,airport,false,*,*,true,*
 DIB,AMD,zm.wego.com,airport,false,*,*,true,*
 SGN,CJU,zm.wego.com,airport,false,*,*,true,*
-,false,PGK,zm.wego.com,airport,false,*,*,true,*
+KNO,PGK,zm.wego.com,airport,false,*,*,true,*
 PRG,HYD,zm.wego.com,airport,false,*,*,true,*
 BER,HKT,zm.wego.com,airport,false,*,*,true,*
 HEL,DOH,zm.wego.com,airport,false,*,*,true,*
@@ -16803,7 +16803,7 @@ VIE,CNN,zm.wego.com,airport,false,*,*,true,*
 DAC,GYD,zm.wego.com,airport,false,*,*,true,*
 MAD,LCA,zm.wego.com,airport,false,*,*,true,*
 TLV,LGW,zm.wego.com,airport,false,*,*,true,*
-,false,JED,zm.wego.com,airport,false,*,*,true,*
+VNO,JED,zm.wego.com,airport,false,*,*,true,*
 RAK,SHJ,zm.wego.com,airport,false,*,*,true,*
 OZC,AUH,zm.wego.com,airport,false,*,*,true,*
 BEG,BCN,zm.wego.com,airport,false,*,*,true,*
@@ -17227,7 +17227,7 @@ MAN,ELQ,zm.wego.com,airport,false,*,*,true,*
 IDR,CCJ,zm.wego.com,airport,false,*,*,true,*
 FAO,AMS,zm.wego.com,airport,false,*,*,true,*
 AMS,ORN,zm.wego.com,airport,false,*,*,true,*
-,false,SRG,zm.wego.com,airport,false,*,*,true,*
+KNO,SRG,zm.wego.com,airport,false,*,*,true,*
 CTA,BLQ,zm.wego.com,airport,false,*,*,true,*
 CEB,CCU,zm.wego.com,airport,false,*,*,true,*
 JGB,IDR,zm.wego.com,airport,false,*,*,true,*
@@ -17448,7 +17448,7 @@ TAO,BKK,zm.wego.com,airport,false,*,*,true,*
 ECN,AHB,zm.wego.com,airport,false,*,*,true,*
 FKB,ARN,zm.wego.com,airport,false,*,*,true,*
 SSH,BRU,zm.wego.com,airport,false,*,*,true,*
-,false,IST,zm.wego.com,airport,false,*,*,true,*
+KNO,IST,zm.wego.com,airport,false,*,*,true,*
 HYD,AUS,zm.wego.com,airport,false,*,*,true,*
 GIZ,IXJ,zm.wego.com,airport,false,*,*,true,*
 ULH,EAM,zm.wego.com,airport,false,*,*,true,*
@@ -17631,7 +17631,7 @@ BGO,CDG,zm.wego.com,airport,false,*,*,true,*
 NBE,BRS,zm.wego.com,airport,false,*,*,true,*
 EBB,YNB,zm.wego.com,airport,false,*,*,true,*
 VGA,UDR,zm.wego.com,airport,false,*,*,true,*
-,false,CAN,zm.wego.com,airport,false,*,*,true,*
+KNO,CAN,zm.wego.com,airport,false,*,*,true,*
 IXC,IXU,zm.wego.com,airport,false,*,*,true,*
 DHM,MCT,zm.wego.com,airport,false,*,*,true,*
 TNG,VIE,zm.wego.com,airport,false,*,*,true,*
@@ -17823,7 +17823,7 @@ PAT,IXD,zm.wego.com,airport,false,*,*,true,*
 TPA,AMM,zm.wego.com,airport,false,*,*,true,*
 VIE,ATQ,zm.wego.com,airport,false,*,*,true,*
 SYD,ZQN,zm.wego.com,airport,false,*,*,true,*
-AMQ,,false,zm.wego.com,airport,false,*,*,true,*
+AMQ,KNO,zm.wego.com,airport,false,*,*,true,*
 IXS,SXR,zm.wego.com,airport,false,*,*,true,*
 NBO,TNA,zm.wego.com,airport,false,*,*,true,*
 KTM,TLS,zm.wego.com,airport,false,*,*,true,*
@@ -17857,7 +17857,7 @@ DVO,CAN,zm.wego.com,airport,false,*,*,true,*
 SYD,CAN,zm.wego.com,airport,false,*,*,true,*
 BRS,BER,zm.wego.com,airport,false,*,*,true,*
 DOH,BSL,zm.wego.com,airport,false,*,*,true,*
-IST,,false,zm.wego.com,airport,false,*,*,true,*
+IST,VNO,zm.wego.com,airport,false,*,*,true,*
 STN,ELQ,zm.wego.com,airport,false,*,*,true,*
 LKO,CMB,zm.wego.com,airport,false,*,*,true,*
 VCE,ATQ,zm.wego.com,airport,false,*,*,true,*
@@ -17875,7 +17875,7 @@ RUH,DGT,zm.wego.com,airport,false,*,*,true,*
 ARN,SZF,zm.wego.com,airport,false,*,*,true,*
 DMK,AKL,zm.wego.com,airport,false,*,*,true,*
 SWA,KUL,zm.wego.com,airport,false,*,*,true,*
-PKY,,false,zm.wego.com,airport,false,*,*,true,*
+PKY,KNO,zm.wego.com,airport,false,*,*,true,*
 HSR,RUH,zm.wego.com,airport,false,*,*,true,*
 TNG,TIA,zm.wego.com,airport,false,*,*,true,*
 BSL,KGS,zm.wego.com,airport,false,*,*,true,*
@@ -18093,7 +18093,7 @@ DUB,MRU,zm.wego.com,airport,false,*,*,true,*
 AYT,LHE,zm.wego.com,airport,false,*,*,true,*
 DOH,HND,zm.wego.com,airport,false,*,*,true,*
 PRG,CRL,zm.wego.com,airport,false,*,*,true,*
-PVG,,false,zm.wego.com,airport,false,*,*,true,*
+PVG,KNO,zm.wego.com,airport,false,*,*,true,*
 IXC,IXE,zm.wego.com,airport,false,*,*,true,*
 AMM,SHA,zm.wego.com,airport,false,*,*,true,*
 FMM,IST,zm.wego.com,airport,false,*,*,true,*
@@ -18247,7 +18247,7 @@ NAP,AMS,zm.wego.com,airport,false,*,*,true,*
 MEM,LAS,zm.wego.com,airport,false,*,*,true,*
 BOM,LOS,zm.wego.com,airport,false,*,*,true,*
 GVA,LED,zm.wego.com,airport,false,*,*,true,*
-,false,HND,zm.wego.com,airport,false,*,*,true,*
+KNO,HND,zm.wego.com,airport,false,*,*,true,*
 KCH,SYD,zm.wego.com,airport,false,*,*,true,*
 EAM,AQI,zm.wego.com,airport,false,*,*,true,*
 OUD,FEZ,zm.wego.com,airport,false,*,*,true,*
@@ -18270,9 +18270,9 @@ ATQ,IXD,zm.wego.com,airport,false,*,*,true,*
 MUC,HYD,zm.wego.com,airport,false,*,*,true,*
 STN,BLQ,zm.wego.com,airport,false,*,*,true,*
 ESB,DIY,zm.wego.com,airport,false,*,*,true,*
-,false,MNL,zm.wego.com,airport,false,*,*,true,*
+KNO,MNL,zm.wego.com,airport,false,*,*,true,*
 ALG,TNG,zm.wego.com,airport,false,*,*,true,*
-,false,DMK,zm.wego.com,airport,false,*,*,true,*
+SNO,DMK,zm.wego.com,airport,false,*,*,true,*
 HAN,KHH,zm.wego.com,airport,false,*,*,true,*
 ORD,SAN,zm.wego.com,airport,false,*,*,true,*
 BKK,IXS,zm.wego.com,airport,false,*,*,true,*
@@ -18283,7 +18283,7 @@ DUS,GVA,zm.wego.com,airport,false,*,*,true,*
 COK,TBS,zm.wego.com,airport,false,*,*,true,*
 MLE,IXB,zm.wego.com,airport,false,*,*,true,*
 ALG,KUL,zm.wego.com,airport,false,*,*,true,*
-DOH,,false,zm.wego.com,airport,false,*,*,true,*
+DOH,VNO,zm.wego.com,airport,false,*,*,true,*
 DTW,JED,zm.wego.com,airport,false,*,*,true,*
 HGI,IXC,zm.wego.com,airport,false,*,*,true,*
 TIR,COK,zm.wego.com,airport,false,*,*,true,*
@@ -18316,7 +18316,7 @@ LPL,WAW,zm.wego.com,airport,false,*,*,true,*
 TIR,AYJ,zm.wego.com,airport,false,*,*,true,*
 BBI,IXE,zm.wego.com,airport,false,*,*,true,*
 KHI,TBS,zm.wego.com,airport,false,*,*,true,*
-SGN,,false,zm.wego.com,airport,false,*,*,true,*
+SGN,KNO,zm.wego.com,airport,false,*,*,true,*
 BBI,KNU,zm.wego.com,airport,false,*,*,true,*
 TRZ,KBV,zm.wego.com,airport,false,*,*,true,*
 VAR,BER,zm.wego.com,airport,false,*,*,true,*
@@ -18532,7 +18532,7 @@ YVR,CAI,zm.wego.com,airport,false,*,*,true,*
 LGW,KUL,zm.wego.com,airport,false,*,*,true,*
 RQY,COK,zm.wego.com,airport,false,*,*,true,*
 GOP,AJF,zm.wego.com,airport,false,*,*,true,*
-,false,AGA,zm.wego.com,airport,false,*,*,true,*
+VNO,AGA,zm.wego.com,airport,false,*,*,true,*
 AYT,TUN,zm.wego.com,airport,false,*,*,true,*
 NTL,AMD,zm.wego.com,airport,false,*,*,true,*
 GYD,OTP,zm.wego.com,airport,false,*,*,true,*
@@ -18540,7 +18540,7 @@ TLL,OPO,zm.wego.com,airport,false,*,*,true,*
 CDG,BFS,zm.wego.com,airport,false,*,*,true,*
 SKG,FMM,zm.wego.com,airport,false,*,*,true,*
 COK,TUU,zm.wego.com,airport,false,*,*,true,*
-KIX,,false,zm.wego.com,airport,false,*,*,true,*
+KIX,KNO,zm.wego.com,airport,false,*,*,true,*
 CLJ,EIN,zm.wego.com,airport,false,*,*,true,*
 GOT,AMS,zm.wego.com,airport,false,*,*,true,*
 PVG,DPS,zm.wego.com,airport,false,*,*,true,*
@@ -18551,7 +18551,7 @@ IXC,KLH,zm.wego.com,airport,false,*,*,true,*
 IXC,CMB,zm.wego.com,airport,false,*,*,true,*
 RBA,STN,zm.wego.com,airport,false,*,*,true,*
 MLA,CNN,zm.wego.com,airport,false,*,*,true,*
-AMM,,false,zm.wego.com,airport,false,*,*,true,*
+AMM,VNO,zm.wego.com,airport,false,*,*,true,*
 BGW,LTN,zm.wego.com,airport,false,*,*,true,*
 HAM,AMS,zm.wego.com,airport,false,*,*,true,*
 TKG,DPS,zm.wego.com,airport,false,*,*,true,*
@@ -18654,7 +18654,7 @@ GOX,TUU,zm.wego.com,airport,false,*,*,true,*
 AMM,SJU,zm.wego.com,airport,false,*,*,true,*
 ALA,CAI,zm.wego.com,airport,false,*,*,true,*
 DOH,SHW,zm.wego.com,airport,false,*,*,true,*
-,false,LAX,zm.wego.com,airport,false,*,*,true,*
+RNO,LAX,zm.wego.com,airport,false,*,*,true,*
 ALG,BIO,zm.wego.com,airport,false,*,*,true,*
 CAI,DWD,zm.wego.com,airport,false,*,*,true,*
 DIB,DXB,zm.wego.com,airport,false,*,*,true,*
@@ -18675,7 +18675,7 @@ TRZ,IXD,zm.wego.com,airport,false,*,*,true,*
 BOM,SAG,zm.wego.com,airport,false,*,*,true,*
 BOM,ILO,zm.wego.com,airport,false,*,*,true,*
 CMB,DVO,zm.wego.com,airport,false,*,*,true,*
-,false,TUN,zm.wego.com,airport,false,*,*,true,*
+VNO,TUN,zm.wego.com,airport,false,*,*,true,*
 MED,SZG,zm.wego.com,airport,false,*,*,true,*
 BTS,CAI,zm.wego.com,airport,false,*,*,true,*
 BGG,MED,zm.wego.com,airport,false,*,*,true,*
@@ -18895,7 +18895,7 @@ LIS,BLR,zm.wego.com,airport,false,*,*,true,*
 GIZ,FCO,zm.wego.com,airport,false,*,*,true,*
 RUH,KAN,zm.wego.com,airport,false,*,*,true,*
 EBB,RAE,zm.wego.com,airport,false,*,*,true,*
-SPX,,false,zm.wego.com,airport,false,*,*,true,*
+SPX,VNO,zm.wego.com,airport,false,*,*,true,*
 HRG,SBZ,zm.wego.com,airport,false,*,*,true,*
 CDG,BKK,zm.wego.com,airport,false,*,*,true,*
 IXD,NAG,zm.wego.com,airport,false,*,*,true,*
@@ -18976,7 +18976,7 @@ IXE,VIE,zm.wego.com,airport,false,*,*,true,*
 VKO,SHJ,zm.wego.com,airport,false,*,*,true,*
 IST,AGP,zm.wego.com,airport,false,*,*,true,*
 IXB,PAT,zm.wego.com,airport,false,*,*,true,*
-,false,BER,zm.wego.com,airport,false,*,*,true,*
+VNO,BER,zm.wego.com,airport,false,*,*,true,*
 BRU,NCE,zm.wego.com,airport,false,*,*,true,*
 PNQ,PNY,zm.wego.com,airport,false,*,*,true,*
 EIN,GRO,zm.wego.com,airport,false,*,*,true,*
@@ -19292,7 +19292,7 @@ STR,PRN,zm.wego.com,airport,false,*,*,true,*
 EAM,HKT,zm.wego.com,airport,false,*,*,true,*
 BWI,SEA,zm.wego.com,airport,false,*,*,true,*
 AUH,GES,zm.wego.com,airport,false,*,*,true,*
-ALG,,false,zm.wego.com,airport,false,*,*,true,*
+ALG,VNO,zm.wego.com,airport,false,*,*,true,*
 ORK,DMM,zm.wego.com,airport,false,*,*,true,*
 MCT,BTS,zm.wego.com,airport,false,*,*,true,*
 BKK,IXC,zm.wego.com,airport,false,*,*,true,*
@@ -19308,7 +19308,7 @@ LYS,DEL,zm.wego.com,airport,false,*,*,true,*
 DMU,MAA,zm.wego.com,airport,false,*,*,true,*
 MDW,SAN,zm.wego.com,airport,false,*,*,true,*
 CAN,CMN,zm.wego.com,airport,false,*,*,true,*
-MED,,false,zm.wego.com,airport,false,*,*,true,*
+MED,KNO,zm.wego.com,airport,false,*,*,true,*
 MLE,DBR,zm.wego.com,airport,false,*,*,true,*
 ATH,AYT,zm.wego.com,airport,false,*,*,true,*
 NAG,TRV,zm.wego.com,airport,false,*,*,true,*
@@ -19703,7 +19703,7 @@ SLL,SGN,zm.wego.com,airport,false,*,*,true,*
 HND,RUH,zm.wego.com,airport,false,*,*,true,*
 BAH,NUE,zm.wego.com,airport,false,*,*,true,*
 HAM,LPA,zm.wego.com,airport,false,*,*,true,*
-,false,DJB,zm.wego.com,airport,false,*,*,true,*
+KNO,DJB,zm.wego.com,airport,false,*,*,true,*
 EVN,IST,zm.wego.com,airport,false,*,*,true,*
 ATL,RDU,zm.wego.com,airport,false,*,*,true,*
 ADB,KRK,zm.wego.com,airport,false,*,*,true,*
@@ -19762,7 +19762,7 @@ TLL,AYT,zm.wego.com,airport,false,*,*,true,*
 PNH,TFU,zm.wego.com,airport,false,*,*,true,*
 TIA,CIA,zm.wego.com,airport,false,*,*,true,*
 IXU,TRZ,zm.wego.com,airport,false,*,*,true,*
-BER,,false,zm.wego.com,airport,false,*,*,true,*
+BER,VNO,zm.wego.com,airport,false,*,*,true,*
 BOD,LYS,zm.wego.com,airport,false,*,*,true,*
 GOP,TAS,zm.wego.com,airport,false,*,*,true,*
 HND,KHH,zm.wego.com,airport,false,*,*,true,*
@@ -19861,7 +19861,7 @@ PEN,BLR,zm.wego.com,airport,false,*,*,true,*
 SKD,MAA,zm.wego.com,airport,false,*,*,true,*
 HAM,INN,zm.wego.com,airport,false,*,*,true,*
 SKP,DTM,zm.wego.com,airport,false,*,*,true,*
-BKS,,false,zm.wego.com,airport,false,*,*,true,*
+BKS,KNO,zm.wego.com,airport,false,*,*,true,*
 FCO,KRK,zm.wego.com,airport,false,*,*,true,*
 COK,PVG,zm.wego.com,airport,false,*,*,true,*
 DUS,BOM,zm.wego.com,airport,false,*,*,true,*
@@ -19898,7 +19898,7 @@ SVQ,MRS,zm.wego.com,airport,false,*,*,true,*
 LGW,LYS,zm.wego.com,airport,false,*,*,true,*
 PLM,PGK,zm.wego.com,airport,false,*,*,true,*
 SXV,DXB,zm.wego.com,airport,false,*,*,true,*
-CJB,,false,zm.wego.com,airport,false,*,*,true,*
+CJB,KNO,zm.wego.com,airport,false,*,*,true,*
 MCT,GUA,zm.wego.com,airport,false,*,*,true,*
 MCT,PNH,zm.wego.com,airport,false,*,*,true,*
 EAM,HND,zm.wego.com,airport,false,*,*,true,*
@@ -20020,7 +20020,7 @@ PDX,MEM,zm.wego.com,airport,false,*,*,true,*
 STN,VCE,zm.wego.com,airport,false,*,*,true,*
 VGA,ORD,zm.wego.com,airport,false,*,*,true,*
 AMM,BGO,zm.wego.com,airport,false,*,*,true,*
-,false,GYD,zm.wego.com,airport,false,*,*,true,*
+VNO,GYD,zm.wego.com,airport,false,*,*,true,*
 RBA,ORY,zm.wego.com,airport,false,*,*,true,*
 LGK,SYD,zm.wego.com,airport,false,*,*,true,*
 SZB,AMM,zm.wego.com,airport,false,*,*,true,*
@@ -20071,7 +20071,7 @@ SVQ,TFN,zm.wego.com,airport,false,*,*,true,*
 TIR,NAG,zm.wego.com,airport,false,*,*,true,*
 NAG,ALA,zm.wego.com,airport,false,*,*,true,*
 BSR,VIE,zm.wego.com,airport,false,*,*,true,*
-,false,MLA,zm.wego.com,airport,false,*,*,true,*
+VNO,MLA,zm.wego.com,airport,false,*,*,true,*
 DEN,DEL,zm.wego.com,airport,false,*,*,true,*
 BHX,LKO,zm.wego.com,airport,false,*,*,true,*
 TRZ,NRT,zm.wego.com,airport,false,*,*,true,*
@@ -20223,7 +20223,7 @@ FCO,CIY,zm.wego.com,airport,false,*,*,true,*
 MAA,KZN,zm.wego.com,airport,false,*,*,true,*
 IXC,ADL,zm.wego.com,airport,false,*,*,true,*
 BNE,HKT,zm.wego.com,airport,false,*,*,true,*
-KHI,,false,zm.wego.com,airport,false,*,*,true,*
+KHI,VNO,zm.wego.com,airport,false,*,*,true,*
 DMM,YYZ,zm.wego.com,airport,false,*,*,true,*
 BCN,DBV,zm.wego.com,airport,false,*,*,true,*
 TBS,FRA,zm.wego.com,airport,false,*,*,true,*
@@ -20374,7 +20374,7 @@ AUH,JRH,zm.wego.com,airport,false,*,*,true,*
 VIE,MLE,zm.wego.com,airport,false,*,*,true,*
 FKB,FAO,zm.wego.com,airport,false,*,*,true,*
 BCN,PSA,zm.wego.com,airport,false,*,*,true,*
-,false,SYD,zm.wego.com,airport,false,*,*,true,*
+KNO,SYD,zm.wego.com,airport,false,*,*,true,*
 BKI,BLR,zm.wego.com,airport,false,*,*,true,*
 AMS,ISB,zm.wego.com,airport,false,*,*,true,*
 JED,NDC,zm.wego.com,airport,false,*,*,true,*
@@ -20431,7 +20431,7 @@ TBS,BSR,zm.wego.com,airport,false,*,*,true,*
 IXD,IXJ,zm.wego.com,airport,false,*,*,true,*
 GAY,NAG,zm.wego.com,airport,false,*,*,true,*
 COK,AHB,zm.wego.com,airport,false,*,*,true,*
-,false,CDG,zm.wego.com,airport,false,*,*,true,*
+VNO,CDG,zm.wego.com,airport,false,*,*,true,*
 CEB,RXS,zm.wego.com,airport,false,*,*,true,*
 DOH,IDR,zm.wego.com,airport,false,*,*,true,*
 JED,PNY,zm.wego.com,airport,false,*,*,true,*
@@ -20691,7 +20691,7 @@ DUS,HER,zm.wego.com,airport,false,*,*,true,*
 MCO,CLT,zm.wego.com,airport,false,*,*,true,*
 IST,MNL,zm.wego.com,airport,false,*,*,true,*
 JED,KLO,zm.wego.com,airport,false,*,*,true,*
-,false,BDJ,zm.wego.com,airport,false,*,*,true,*
+KNO,BDJ,zm.wego.com,airport,false,*,*,true,*
 LKO,HBX,zm.wego.com,airport,false,*,*,true,*
 SYZ,BKK,zm.wego.com,airport,false,*,*,true,*
 BKI,PKX,zm.wego.com,airport,false,*,*,true,*
@@ -20755,7 +20755,7 @@ ECN,ARN,zm.wego.com,airport,false,*,*,true,*
 BFS,BRS,zm.wego.com,airport,false,*,*,true,*
 AMS,AYT,zm.wego.com,airport,false,*,*,true,*
 MEL,PNH,zm.wego.com,airport,false,*,*,true,*
-,false,HDY,zm.wego.com,airport,false,*,*,true,*
+KNO,HDY,zm.wego.com,airport,false,*,*,true,*
 SPX,LIN,zm.wego.com,airport,false,*,*,true,*
 BLQ,MAD,zm.wego.com,airport,false,*,*,true,*
 BGY,ISB,zm.wego.com,airport,false,*,*,true,*
@@ -20844,7 +20844,7 @@ LAX,BWI,zm.wego.com,airport,false,*,*,true,*
 VLC,BLQ,zm.wego.com,airport,false,*,*,true,*
 IAO,USU,zm.wego.com,airport,false,*,*,true,*
 CLJ,RUH,zm.wego.com,airport,false,*,*,true,*
-RUH,,false,zm.wego.com,airport,false,*,*,true,*
+RUH,VNO,zm.wego.com,airport,false,*,*,true,*
 MED,BXU,zm.wego.com,airport,false,*,*,true,*
 COV,FRA,zm.wego.com,airport,false,*,*,true,*
 MAD,NKC,zm.wego.com,airport,false,*,*,true,*
@@ -20910,7 +20910,7 @@ AGA,OPO,zm.wego.com,airport,false,*,*,true,*
 JED,HRB,zm.wego.com,airport,false,*,*,true,*
 DAC,ARN,zm.wego.com,airport,false,*,*,true,*
 LEJ,JED,zm.wego.com,airport,false,*,*,true,*
-,false,DXB,zm.wego.com,airport,false,*,*,true,*
+KNO,DXB,zm.wego.com,airport,false,*,*,true,*
 DEL,NUM,zm.wego.com,airport,false,*,*,true,*
 MXP,LCA,zm.wego.com,airport,false,*,*,true,*
 KIX,CRK,zm.wego.com,airport,false,*,*,true,*
@@ -20938,7 +20938,7 @@ ARN,TIA,zm.wego.com,airport,false,*,*,true,*
 DAC,PER,zm.wego.com,airport,false,*,*,true,*
 ZAG,LPA,zm.wego.com,airport,false,*,*,true,*
 JGB,BOM,zm.wego.com,airport,false,*,*,true,*
-,false,LTN,zm.wego.com,airport,false,*,*,true,*
+VNO,LTN,zm.wego.com,airport,false,*,*,true,*
 ELQ,IXR,zm.wego.com,airport,false,*,*,true,*
 TLV,TRV,zm.wego.com,airport,false,*,*,true,*
 BVA,ALG,zm.wego.com,airport,false,*,*,true,*
@@ -21008,7 +21008,7 @@ TZX,IST,zm.wego.com,airport,false,*,*,true,*
 DUS,ALA,zm.wego.com,airport,false,*,*,true,*
 MAD,VIL,zm.wego.com,airport,false,*,*,true,*
 OTP,BAH,zm.wego.com,airport,false,*,*,true,*
-PGK,,false,zm.wego.com,airport,false,*,*,true,*
+PGK,KNO,zm.wego.com,airport,false,*,*,true,*
 GAY,VTZ,zm.wego.com,airport,false,*,*,true,*
 SXR,MRU,zm.wego.com,airport,false,*,*,true,*
 BKK,DBR,zm.wego.com,airport,false,*,*,true,*
@@ -21108,7 +21108,7 @@ AMS,IBZ,zm.wego.com,airport,false,*,*,true,*
 GZT,STN,zm.wego.com,airport,false,*,*,true,*
 PNQ,DME,zm.wego.com,airport,false,*,*,true,*
 PUS,SIN,zm.wego.com,airport,false,*,*,true,*
-,false,LIS,zm.wego.com,airport,false,*,*,true,*
+VNO,LIS,zm.wego.com,airport,false,*,*,true,*
 MCT,ABV,zm.wego.com,airport,false,*,*,true,*
 HTY,DUS,zm.wego.com,airport,false,*,*,true,*
 CGN,TIA,zm.wego.com,airport,false,*,*,true,*
@@ -21210,7 +21210,7 @@ SAW,KUN,zm.wego.com,airport,false,*,*,true,*
 LCA,MXP,zm.wego.com,airport,false,*,*,true,*
 BHX,HRE,zm.wego.com,airport,false,*,*,true,*
 SGN,HBX,zm.wego.com,airport,false,*,*,true,*
-MLA,,false,zm.wego.com,airport,false,*,*,true,*
+MLA,VNO,zm.wego.com,airport,false,*,*,true,*
 BBI,AHB,zm.wego.com,airport,false,*,*,true,*
 ALA,MEL,zm.wego.com,airport,false,*,*,true,*
 DMM,PQC,zm.wego.com,airport,false,*,*,true,*
@@ -21471,7 +21471,7 @@ AMD,KOW,zm.wego.com,airport,false,*,*,true,*
 SKP,ESB,zm.wego.com,airport,false,*,*,true,*
 HAJ,ARN,zm.wego.com,airport,false,*,*,true,*
 MAA,FRA,zm.wego.com,airport,false,*,*,true,*
-,false,ALG,zm.wego.com,airport,false,*,*,true,*
+VNO,ALG,zm.wego.com,airport,false,*,*,true,*
 DOH,TLS,zm.wego.com,airport,false,*,*,true,*
 HPH,PER,zm.wego.com,airport,false,*,*,true,*
 DMK,VVO,zm.wego.com,airport,false,*,*,true,*
@@ -21702,8 +21702,8 @@ PBI,CLE,zm.wego.com,airport,false,*,*,true,*
 SGN,CAN,zm.wego.com,airport,false,*,*,true,*
 DAC,YYZ,zm.wego.com,airport,false,*,*,true,*
 DOH,BVA,zm.wego.com,airport,false,*,*,true,*
-,false,ICN,zm.wego.com,airport,false,*,*,true,*
-ESB,,false,zm.wego.com,airport,false,*,*,true,*
+KNO,ICN,zm.wego.com,airport,false,*,*,true,*
+ESB,VNO,zm.wego.com,airport,false,*,*,true,*
 TRD,BEY,zm.wego.com,airport,false,*,*,true,*
 LKO,GAY,zm.wego.com,airport,false,*,*,true,*
 GYD,SKT,zm.wego.com,airport,false,*,*,true,*
@@ -22140,7 +22140,7 @@ SLC,EWR,zm.wego.com,airport,false,*,*,true,*
 CEB,PUS,zm.wego.com,airport,false,*,*,true,*
 TLS,SPX,zm.wego.com,airport,false,*,*,true,*
 NUM,BBI,zm.wego.com,airport,false,*,*,true,*
-DAC,,false,zm.wego.com,airport,false,*,*,true,*
+DAC,VNO,zm.wego.com,airport,false,*,*,true,*
 HBA,SYD,zm.wego.com,airport,false,*,*,true,*
 LGW,FNC,zm.wego.com,airport,false,*,*,true,*
 KWI,DEN,zm.wego.com,airport,false,*,*,true,*
@@ -22391,7 +22391,7 @@ ESB,EDI,zm.wego.com,airport,false,*,*,true,*
 SJC,YYZ,zm.wego.com,airport,false,*,*,true,*
 DXB,PER,zm.wego.com,airport,false,*,*,true,*
 OOL,DEL,zm.wego.com,airport,false,*,*,true,*
-GYD,,false,zm.wego.com,airport,false,*,*,true,*
+GYD,VNO,zm.wego.com,airport,false,*,*,true,*
 DUB,BUD,zm.wego.com,airport,false,*,*,true,*
 ISK,VNS,zm.wego.com,airport,false,*,*,true,*
 SBW,TWU,zm.wego.com,airport,false,*,*,true,*
@@ -22779,7 +22779,7 @@ COK,FRA,zm.wego.com,airport,false,*,*,true,*
 IST,IXC,zm.wego.com,airport,false,*,*,true,*
 DWC,IST,zm.wego.com,airport,false,*,*,true,*
 EVN,JAI,zm.wego.com,airport,false,*,*,true,*
-,false,MCT,zm.wego.com,airport,false,*,*,true,*
+KNO,MCT,zm.wego.com,airport,false,*,*,true,*
 STV,SHJ,zm.wego.com,airport,false,*,*,true,*
 CJB,AYJ,zm.wego.com,airport,false,*,*,true,*
 RJA,PAT,zm.wego.com,airport,false,*,*,true,*
@@ -22802,7 +22802,7 @@ AMS,FNC,zm.wego.com,airport,false,*,*,true,*
 HGH,JED,zm.wego.com,airport,false,*,*,true,*
 ORY,MIA,zm.wego.com,airport,false,*,*,true,*
 MAN,DLM,zm.wego.com,airport,false,*,*,true,*
-,false,LHE,zm.wego.com,airport,false,*,*,true,*
+VNO,LHE,zm.wego.com,airport,false,*,*,true,*
 BXU,DMM,zm.wego.com,airport,false,*,*,true,*
 TIA,AYT,zm.wego.com,airport,false,*,*,true,*
 CCJ,RPR,zm.wego.com,airport,false,*,*,true,*
@@ -22990,7 +22990,7 @@ GVA,DUS,zm.wego.com,airport,false,*,*,true,*
 PPS,ZAM,zm.wego.com,airport,false,*,*,true,*
 OPO,VLC,zm.wego.com,airport,false,*,*,true,*
 HKT,LPQ,zm.wego.com,airport,false,*,*,true,*
-TKG,,false,zm.wego.com,airport,false,*,*,true,*
+TKG,KNO,zm.wego.com,airport,false,*,*,true,*
 KCH,KWI,zm.wego.com,airport,false,*,*,true,*
 DXB,LPL,zm.wego.com,airport,false,*,*,true,*
 KUT,SSH,zm.wego.com,airport,false,*,*,true,*
@@ -23024,7 +23024,7 @@ MAN,SVG,zm.wego.com,airport,false,*,*,true,*
 BPN,SOC,zm.wego.com,airport,false,*,*,true,*
 PKU,DEL,zm.wego.com,airport,false,*,*,true,*
 KHI,ALG,zm.wego.com,airport,false,*,*,true,*
-LTN,,false,zm.wego.com,airport,false,*,*,true,*
+LTN,VNO,zm.wego.com,airport,false,*,*,true,*
 SAP,MCO,zm.wego.com,airport,false,*,*,true,*
 CCU,FRA,zm.wego.com,airport,false,*,*,true,*
 AJF,ASM,zm.wego.com,airport,false,*,*,true,*
@@ -23054,7 +23054,7 @@ SOQ,UPG,zm.wego.com,airport,false,*,*,true,*
 IXC,JRH,zm.wego.com,airport,false,*,*,true,*
 PNH,VTZ,zm.wego.com,airport,false,*,*,true,*
 TUU,SSH,zm.wego.com,airport,false,*,*,true,*
-,false,DEL,zm.wego.com,airport,false,*,*,true,*
+KNO,DEL,zm.wego.com,airport,false,*,*,true,*
 OSL,BLL,zm.wego.com,airport,false,*,*,true,*
 TIF,TUI,zm.wego.com,airport,false,*,*,true,*
 ZAM,CGY,zm.wego.com,airport,false,*,*,true,*
@@ -23200,7 +23200,7 @@ BSR,OSL,zm.wego.com,airport,false,*,*,true,*
 ELQ,MXP,zm.wego.com,airport,false,*,*,true,*
 CPH,VTZ,zm.wego.com,airport,false,*,*,true,*
 KLH,JAI,zm.wego.com,airport,false,*,*,true,*
-OTP,,false,zm.wego.com,airport,false,*,*,true,*
+OTP,VNO,zm.wego.com,airport,false,*,*,true,*
 ESB,MNL,zm.wego.com,airport,false,*,*,true,*
 CDG,ORN,zm.wego.com,airport,false,*,*,true,*
 CDG,MPH,zm.wego.com,airport,false,*,*,true,*
@@ -23400,7 +23400,7 @@ BER,TZX,zm.wego.com,airport,false,*,*,true,*
 MLA,GOI,zm.wego.com,airport,false,*,*,true,*
 MXP,DAM,zm.wego.com,airport,false,*,*,true,*
 NRT,BAH,zm.wego.com,airport,false,*,*,true,*
-,false,DXB,zm.wego.com,airport,false,*,*,true,*
+VNO,DXB,zm.wego.com,airport,false,*,*,true,*
 RIX,BER,zm.wego.com,airport,false,*,*,true,*
 FEZ,TNG,zm.wego.com,airport,false,*,*,true,*
 GZT,SJJ,zm.wego.com,airport,false,*,*,true,*
@@ -23604,7 +23604,7 @@ LYS,FEZ,zm.wego.com,airport,false,*,*,true,*
 MLA,VGA,zm.wego.com,airport,false,*,*,true,*
 CRL,ECN,zm.wego.com,airport,false,*,*,true,*
 DIB,CJB,zm.wego.com,airport,false,*,*,true,*
-,false,KIX,zm.wego.com,airport,false,*,*,true,*
+KNO,KIX,zm.wego.com,airport,false,*,*,true,*
 BRU,LIS,zm.wego.com,airport,false,*,*,true,*
 BGW,GZP,zm.wego.com,airport,false,*,*,true,*
 SLC,LAS,zm.wego.com,airport,false,*,*,true,*
@@ -23663,7 +23663,7 @@ BIO,ALC,zm.wego.com,airport,false,*,*,true,*
 BOM,ESB,zm.wego.com,airport,false,*,*,true,*
 CGY,MCT,zm.wego.com,airport,false,*,*,true,*
 SZX,CGQ,zm.wego.com,airport,false,*,*,true,*
-,false,AUH,zm.wego.com,airport,false,*,*,true,*
+VNO,AUH,zm.wego.com,airport,false,*,*,true,*
 AMM,PHL,zm.wego.com,airport,false,*,*,true,*
 FRU,LYP,zm.wego.com,airport,false,*,*,true,*
 FMM,SKG,zm.wego.com,airport,false,*,*,true,*
@@ -23816,7 +23816,7 @@ SAW,DOM,zm.wego.com,airport,false,*,*,true,*
 BBI,IMF,zm.wego.com,airport,false,*,*,true,*
 KUT,FCO,zm.wego.com,airport,false,*,*,true,*
 GAU,FCO,zm.wego.com,airport,false,*,*,true,*
-TPE,,false,zm.wego.com,airport,false,*,*,true,*
+TPE,VNO,zm.wego.com,airport,false,*,*,true,*
 BWI,BOS,zm.wego.com,airport,false,*,*,true,*
 BLQ,STN,zm.wego.com,airport,false,*,*,true,*
 FCO,LEJ,zm.wego.com,airport,false,*,*,true,*
@@ -23914,7 +23914,7 @@ NBE,BFS,zm.wego.com,airport,false,*,*,true,*
 AGA,ARN,zm.wego.com,airport,false,*,*,true,*
 MEL,PVG,zm.wego.com,airport,false,*,*,true,*
 MXP,KUN,zm.wego.com,airport,false,*,*,true,*
-LAX,,false,zm.wego.com,airport,false,*,*,true,*
+LAX,RNO,zm.wego.com,airport,false,*,*,true,*
 CDG,AGP,zm.wego.com,airport,false,*,*,true,*
 MAN,MHD,zm.wego.com,airport,false,*,*,true,*
 DPS,KTM,zm.wego.com,airport,false,*,*,true,*
@@ -23935,7 +23935,7 @@ DOH,MIR,zm.wego.com,airport,false,*,*,true,*
 PSA,LGW,zm.wego.com,airport,false,*,*,true,*
 BUD,OPO,zm.wego.com,airport,false,*,*,true,*
 ALA,DAC,zm.wego.com,airport,false,*,*,true,*
-,false,HHN,zm.wego.com,airport,false,*,*,true,*
+VNO,HHN,zm.wego.com,airport,false,*,*,true,*
 PEN,CNX,zm.wego.com,airport,false,*,*,true,*
 DMM,DGT,zm.wego.com,airport,false,*,*,true,*
 TIF,RAE,zm.wego.com,airport,false,*,*,true,*
@@ -24035,7 +24035,7 @@ GYD,COV,zm.wego.com,airport,false,*,*,true,*
 CGK,ACC,zm.wego.com,airport,false,*,*,true,*
 MCT,BHH,zm.wego.com,airport,false,*,*,true,*
 LCA,SAW,zm.wego.com,airport,false,*,*,true,*
-,false,RUH,zm.wego.com,airport,false,*,*,true,*
+KNO,RUH,zm.wego.com,airport,false,*,*,true,*
 GAU,DAD,zm.wego.com,airport,false,*,*,true,*
 PNY,AMD,zm.wego.com,airport,false,*,*,true,*
 SIN,BER,zm.wego.com,airport,false,*,*,true,*
@@ -24191,7 +24191,7 @@ RSI,AMM,zm.wego.com,airport,false,*,*,true,*
 LAX,KIX,zm.wego.com,airport,false,*,*,true,*
 HHN,DEL,zm.wego.com,airport,false,*,*,true,*
 BCN,MRU,zm.wego.com,airport,false,*,*,true,*
-LPL,falseC,zm.wego.com,airport,false,*,*,true,*
+LPL,NOC,zm.wego.com,airport,false,*,*,true,*
 CJB,ATL,zm.wego.com,airport,false,*,*,true,*
 GIZ,HLP,zm.wego.com,airport,false,*,*,true,*
 BAH,AGA,zm.wego.com,airport,false,*,*,true,*
@@ -24284,7 +24284,7 @@ ALA,KWI,zm.wego.com,airport,false,*,*,true,*
 AMS,BUD,zm.wego.com,airport,false,*,*,true,*
 JED,VVI,zm.wego.com,airport,false,*,*,true,*
 BKK,MRU,zm.wego.com,airport,false,*,*,true,*
-,false,NRT,zm.wego.com,airport,false,*,*,true,*
+KNO,NRT,zm.wego.com,airport,false,*,*,true,*
 IXC,YTZ,zm.wego.com,airport,false,*,*,true,*
 BOM,GDB,zm.wego.com,airport,false,*,*,true,*
 MLA,BBI,zm.wego.com,airport,false,*,*,true,*
@@ -24424,7 +24424,7 @@ TUG,KUL,zm.wego.com,airport,false,*,*,true,*
 LIS,HYD,zm.wego.com,airport,false,*,*,true,*
 IAD,LAX,zm.wego.com,airport,false,*,*,true,*
 CRL,TFS,zm.wego.com,airport,false,*,*,true,*
-BDJ,,false,zm.wego.com,airport,false,*,*,true,*
+BDJ,KNO,zm.wego.com,airport,false,*,*,true,*
 KQH,AMD,zm.wego.com,airport,false,*,*,true,*
 AMD,LUN,zm.wego.com,airport,false,*,*,true,*
 WLG,MAA,zm.wego.com,airport,false,*,*,true,*
@@ -24495,7 +24495,7 @@ TPE,FCO,zm.wego.com,airport,false,*,*,true,*
 EIN,ARN,zm.wego.com,airport,false,*,*,true,*
 IKA,TIA,zm.wego.com,airport,false,*,*,true,*
 PPS,BCD,zm.wego.com,airport,false,*,*,true,*
-,false,KWI,zm.wego.com,airport,false,*,*,true,*
+VNO,KWI,zm.wego.com,airport,false,*,*,true,*
 CCU,BGO,zm.wego.com,airport,false,*,*,true,*
 HRG,OSS,zm.wego.com,airport,false,*,*,true,*
 DOH,DVO,zm.wego.com,airport,false,*,*,true,*
@@ -24773,7 +24773,7 @@ CCJ,BHH,zm.wego.com,airport,false,*,*,true,*
 HYD,ERI,zm.wego.com,airport,false,*,*,true,*
 MCT,ZAM,zm.wego.com,airport,false,*,*,true,*
 COK,ORD,zm.wego.com,airport,false,*,*,true,*
-,false,UPG,zm.wego.com,airport,false,*,*,true,*
+KNO,UPG,zm.wego.com,airport,false,*,*,true,*
 PMI,FRA,zm.wego.com,airport,false,*,*,true,*
 BAH,BHD,zm.wego.com,airport,false,*,*,true,*
 MCT,MIR,zm.wego.com,airport,false,*,*,true,*
@@ -24966,7 +24966,7 @@ SLL,SJJ,zm.wego.com,airport,false,*,*,true,*
 DMM,JRH,zm.wego.com,airport,false,*,*,true,*
 EVN,VGA,zm.wego.com,airport,false,*,*,true,*
 LTN,YVR,zm.wego.com,airport,false,*,*,true,*
-,false,LCA,zm.wego.com,airport,false,*,*,true,*
+VNO,LCA,zm.wego.com,airport,false,*,*,true,*
 TAC,AUH,zm.wego.com,airport,false,*,*,true,*
 OPO,EDI,zm.wego.com,airport,false,*,*,true,*
 RZV,BUD,zm.wego.com,airport,false,*,*,true,*
@@ -25111,7 +25111,7 @@ LAS,PHX,zm.wego.com,airport,false,*,*,true,*
 LGK,HDY,zm.wego.com,airport,false,*,*,true,*
 KRK,HER,zm.wego.com,airport,false,*,*,true,*
 LTN,BOJ,zm.wego.com,airport,false,*,*,true,*
-BKK,,false,zm.wego.com,airport,false,*,*,true,*
+BKK,KNO,zm.wego.com,airport,false,*,*,true,*
 SYD,HAS,zm.wego.com,airport,false,*,*,true,*
 ABZ,AGA,zm.wego.com,airport,false,*,*,true,*
 EBL,SHA,zm.wego.com,airport,false,*,*,true,*
@@ -25269,7 +25269,7 @@ AGR,DMM,zm.wego.com,airport,false,*,*,true,*
 MIA,RDU,zm.wego.com,airport,false,*,*,true,*
 BER,OSS,zm.wego.com,airport,false,*,*,true,*
 LPA,OTP,zm.wego.com,airport,false,*,*,true,*
-,false,LAX,zm.wego.com,airport,false,*,*,true,*
+KNO,LAX,zm.wego.com,airport,false,*,*,true,*
 RTM,HRG,zm.wego.com,airport,false,*,*,true,*
 BDS,VCE,zm.wego.com,airport,false,*,*,true,*
 BTS,BAH,zm.wego.com,airport,false,*,*,true,*
@@ -25629,7 +25629,7 @@ EBL,BRI,zm.wego.com,airport,false,*,*,true,*
 LGK,NAG,zm.wego.com,airport,false,*,*,true,*
 EIN,IAS,zm.wego.com,airport,false,*,*,true,*
 WAW,TBS,zm.wego.com,airport,false,*,*,true,*
-OPO,,false,zm.wego.com,airport,false,*,*,true,*
+OPO,VNO,zm.wego.com,airport,false,*,*,true,*
 JED,EMA,zm.wego.com,airport,false,*,*,true,*
 BRU,CDG,zm.wego.com,airport,false,*,*,true,*
 CDG,OLB,zm.wego.com,airport,false,*,*,true,*
@@ -25658,7 +25658,7 @@ RSI,BBI,zm.wego.com,airport,false,*,*,true,*
 BBI,DUB,zm.wego.com,airport,false,*,*,true,*
 LED,BSR,zm.wego.com,airport,false,*,*,true,*
 CEB,LHR,zm.wego.com,airport,false,*,*,true,*
-EIN,,false,zm.wego.com,airport,false,*,*,true,*
+EIN,VNO,zm.wego.com,airport,false,*,*,true,*
 BUD,BHX,zm.wego.com,airport,false,*,*,true,*
 PQC,DLI,zm.wego.com,airport,false,*,*,true,*
 GWL,DED,zm.wego.com,airport,false,*,*,true,*
@@ -25708,7 +25708,7 @@ OPO,MLA,zm.wego.com,airport,false,*,*,true,*
 JED,DNZ,zm.wego.com,airport,false,*,*,true,*
 ICN,KUA,zm.wego.com,airport,false,*,*,true,*
 BLR,LTN,zm.wego.com,airport,false,*,*,true,*
-DJB,,false,zm.wego.com,airport,false,*,*,true,*
+DJB,KNO,zm.wego.com,airport,false,*,*,true,*
 LYS,DAC,zm.wego.com,airport,false,*,*,true,*
 AMM,MMX,zm.wego.com,airport,false,*,*,true,*
 MLA,BRI,zm.wego.com,airport,false,*,*,true,*
@@ -25782,7 +25782,7 @@ DTW,SFO,zm.wego.com,airport,false,*,*,true,*
 AUH,HLP,zm.wego.com,airport,false,*,*,true,*
 KZN,KWI,zm.wego.com,airport,false,*,*,true,*
 DOH,HLP,zm.wego.com,airport,false,*,*,true,*
-ATH,,false,zm.wego.com,airport,false,*,*,true,*
+ATH,KNO,zm.wego.com,airport,false,*,*,true,*
 KOJ,HND,zm.wego.com,airport,false,*,*,true,*
 HAS,ELQ,zm.wego.com,airport,false,*,*,true,*
 BCN,TBS,zm.wego.com,airport,false,*,*,true,*
@@ -25886,7 +25886,7 @@ MRS,BRI,zm.wego.com,airport,false,*,*,true,*
 MOL,YVR,zm.wego.com,airport,false,*,*,true,*
 BOM,PNQ,zm.wego.com,airport,false,*,*,true,*
 CAN,SLL,zm.wego.com,airport,false,*,*,true,*
-,false,AGP,zm.wego.com,airport,false,*,*,true,*
+VNO,AGP,zm.wego.com,airport,false,*,*,true,*
 HGI,AUH,zm.wego.com,airport,false,*,*,true,*
 ALA,IDR,zm.wego.com,airport,false,*,*,true,*
 VIE,TRF,zm.wego.com,airport,false,*,*,true,*
@@ -26073,7 +26073,7 @@ BLQ,LYS,zm.wego.com,airport,false,*,*,true,*
 LCA,KHI,zm.wego.com,airport,false,*,*,true,*
 NCE,BGY,zm.wego.com,airport,false,*,*,true,*
 STV,VTZ,zm.wego.com,airport,false,*,*,true,*
-,false,CAI,zm.wego.com,airport,false,*,*,true,*
+VNO,CAI,zm.wego.com,airport,false,*,*,true,*
 DUS,PFO,zm.wego.com,airport,false,*,*,true,*
 MAD,LYS,zm.wego.com,airport,false,*,*,true,*
 TJQ,PKU,zm.wego.com,airport,false,*,*,true,*
@@ -26084,7 +26084,7 @@ OGU,BAH,zm.wego.com,airport,false,*,*,true,*
 VLC,RUH,zm.wego.com,airport,false,*,*,true,*
 PIT,EWR,zm.wego.com,airport,false,*,*,true,*
 PER,DUS,zm.wego.com,airport,false,*,*,true,*
-,false,SOC,zm.wego.com,airport,false,*,*,true,*
+KNO,SOC,zm.wego.com,airport,false,*,*,true,*
 KWI,AGA,zm.wego.com,airport,false,*,*,true,*
 KUL,IDR,zm.wego.com,airport,false,*,*,true,*
 JED,TFU,zm.wego.com,airport,false,*,*,true,*
@@ -26142,7 +26142,7 @@ HRG,ZRH,zm.wego.com,airport,false,*,*,true,*
 RDU,IKA,zm.wego.com,airport,false,*,*,true,*
 AMD,KHI,zm.wego.com,airport,false,*,*,true,*
 DAC,TUI,zm.wego.com,airport,false,*,*,true,*
-EVN,,false,zm.wego.com,airport,false,*,*,true,*
+EVN,VNO,zm.wego.com,airport,false,*,*,true,*
 DTM,MUC,zm.wego.com,airport,false,*,*,true,*
 SKG,BUD,zm.wego.com,airport,false,*,*,true,*
 FUK,TBS,zm.wego.com,airport,false,*,*,true,*
@@ -26167,7 +26167,7 @@ DBR,IDR,zm.wego.com,airport,false,*,*,true,*
 VCE,LPA,zm.wego.com,airport,false,*,*,true,*
 PNH,PVG,zm.wego.com,airport,false,*,*,true,*
 KHH,PEN,zm.wego.com,airport,false,*,*,true,*
-SRG,,false,zm.wego.com,airport,false,*,*,true,*
+SRG,KNO,zm.wego.com,airport,false,*,*,true,*
 FKB,LIS,zm.wego.com,airport,false,*,*,true,*
 PFO,CAI,zm.wego.com,airport,false,*,*,true,*
 CTA,ATH,zm.wego.com,airport,false,*,*,true,*
@@ -26182,7 +26182,7 @@ LYS,AMD,zm.wego.com,airport,false,*,*,true,*
 BVA,IKA,zm.wego.com,airport,false,*,*,true,*
 ORY,PZU,zm.wego.com,airport,false,*,*,true,*
 LGW,SCL,zm.wego.com,airport,false,*,*,true,*
-,false,BKS,zm.wego.com,airport,false,*,*,true,*
+KNO,BKS,zm.wego.com,airport,false,*,*,true,*
 CEB,KTM,zm.wego.com,airport,false,*,*,true,*
 KHI,LGW,zm.wego.com,airport,false,*,*,true,*
 OTP,MRS,zm.wego.com,airport,false,*,*,true,*
@@ -26267,7 +26267,7 @@ BER,FUE,zm.wego.com,airport,false,*,*,true,*
 ATH,LRS,zm.wego.com,airport,false,*,*,true,*
 NCL,HYD,zm.wego.com,airport,false,*,*,true,*
 TRF,BEY,zm.wego.com,airport,false,*,*,true,*
-,false,RUH,zm.wego.com,airport,false,*,*,true,*
+RNO,RUH,zm.wego.com,airport,false,*,*,true,*
 FRA,OMS,zm.wego.com,airport,false,*,*,true,*
 UPG,AMQ,zm.wego.com,airport,false,*,*,true,*
 DOH,OPO,zm.wego.com,airport,false,*,*,true,*
@@ -26287,7 +26287,7 @@ MRS,MAD,zm.wego.com,airport,false,*,*,true,*
 BUD,SVQ,zm.wego.com,airport,false,*,*,true,*
 VKO,TIA,zm.wego.com,airport,false,*,*,true,*
 JED,RAI,zm.wego.com,airport,false,*,*,true,*
-MNL,,false,zm.wego.com,airport,false,*,*,true,*
+MNL,KNO,zm.wego.com,airport,false,*,*,true,*
 NAG,TBS,zm.wego.com,airport,false,*,*,true,*
 GOX,AGX,zm.wego.com,airport,false,*,*,true,*
 AMD,DAR,zm.wego.com,airport,false,*,*,true,*
@@ -26571,7 +26571,7 @@ DEN,AMD,zm.wego.com,airport,false,*,*,true,*
 BVA,LEJ,zm.wego.com,airport,false,*,*,true,*
 KUT,TNG,zm.wego.com,airport,false,*,*,true,*
 RAK,NBE,zm.wego.com,airport,false,*,*,true,*
-AGP,,false,zm.wego.com,airport,false,*,*,true,*
+AGP,VNO,zm.wego.com,airport,false,*,*,true,*
 KRK,SPX,zm.wego.com,airport,false,*,*,true,*
 OSL,DWC,zm.wego.com,airport,false,*,*,true,*
 SUB,JAI,zm.wego.com,airport,false,*,*,true,*
@@ -26702,7 +26702,7 @@ CAI,KEF,zm.wego.com,airport,false,*,*,true,*
 DMM,CBO,zm.wego.com,airport,false,*,*,true,*
 DMM,NGB,zm.wego.com,airport,false,*,*,true,*
 ORY,BOB,zm.wego.com,airport,false,*,*,true,*
-,false,MED,zm.wego.com,airport,false,*,*,true,*
+KNO,MED,zm.wego.com,airport,false,*,*,true,*
 NTE,PMI,zm.wego.com,airport,false,*,*,true,*
 CDP,DXB,zm.wego.com,airport,false,*,*,true,*
 CCJ,SUB,zm.wego.com,airport,false,*,*,true,*
@@ -26988,7 +26988,7 @@ AGR,KWI,zm.wego.com,airport,false,*,*,true,*
 AMS,JTR,zm.wego.com,airport,false,*,*,true,*
 BKK,BDQ,zm.wego.com,airport,false,*,*,true,*
 FLL,LEX,zm.wego.com,airport,false,*,*,true,*
-LCA,,false,zm.wego.com,airport,false,*,*,true,*
+LCA,VNO,zm.wego.com,airport,false,*,*,true,*
 FRA,CCJ,zm.wego.com,airport,false,*,*,true,*
 BCN,FUE,zm.wego.com,airport,false,*,*,true,*
 EIN,TUN,zm.wego.com,airport,false,*,*,true,*
@@ -27015,7 +27015,7 @@ PPS,FRA,zm.wego.com,airport,false,*,*,true,*
 WAW,CCJ,zm.wego.com,airport,false,*,*,true,*
 HYD,YUL,zm.wego.com,airport,false,*,*,true,*
 BOM,CKG,zm.wego.com,airport,false,*,*,true,*
-MYY,,false,zm.wego.com,airport,false,*,*,true,*
+MYY,KNO,zm.wego.com,airport,false,*,*,true,*
 HKG,SHJ,zm.wego.com,airport,false,*,*,true,*
 GDL,YVR,zm.wego.com,airport,false,*,*,true,*
 MCT,LUX,zm.wego.com,airport,false,*,*,true,*
@@ -27181,7 +27181,7 @@ ALA,STV,zm.wego.com,airport,false,*,*,true,*
 TIR,BKK,zm.wego.com,airport,false,*,*,true,*
 KUL,IXE,zm.wego.com,airport,false,*,*,true,*
 DUB,CCJ,zm.wego.com,airport,false,*,*,true,*
-,false,CMN,zm.wego.com,airport,false,*,*,true,*
+VNO,CMN,zm.wego.com,airport,false,*,*,true,*
 LUX,BGW,zm.wego.com,airport,false,*,*,true,*
 RAK,ADD,zm.wego.com,airport,false,*,*,true,*
 KCH,NRT,zm.wego.com,airport,false,*,*,true,*
@@ -27260,7 +27260,7 @@ NBO,SGN,zm.wego.com,airport,false,*,*,true,*
 SLL,IKA,zm.wego.com,airport,false,*,*,true,*
 TLV,JED,zm.wego.com,airport,false,*,*,true,*
 ATH,DAC,zm.wego.com,airport,false,*,*,true,*
-,false,MEL,zm.wego.com,airport,false,*,*,true,*
+KNO,MEL,zm.wego.com,airport,false,*,*,true,*
 MLA,KHI,zm.wego.com,airport,false,*,*,true,*
 LAX,SJC,zm.wego.com,airport,false,*,*,true,*
 SZX,PEN,zm.wego.com,airport,false,*,*,true,*
@@ -27315,7 +27315,7 @@ ARN,DWC,zm.wego.com,airport,false,*,*,true,*
 CDG,SYD,zm.wego.com,airport,false,*,*,true,*
 WUH,GAY,zm.wego.com,airport,false,*,*,true,*
 JAI,MFM,zm.wego.com,airport,false,*,*,true,*
-,false,ATQ,zm.wego.com,airport,false,*,*,true,*
+VNO,ATQ,zm.wego.com,airport,false,*,*,true,*
 EWR,BEY,zm.wego.com,airport,false,*,*,true,*
 GOP,PAT,zm.wego.com,airport,false,*,*,true,*
 VNS,IXL,zm.wego.com,airport,false,*,*,true,*
@@ -27465,7 +27465,7 @@ FUK,DRP,zm.wego.com,airport,false,*,*,true,*
 OTP,IKA,zm.wego.com,airport,false,*,*,true,*
 MRS,NTE,zm.wego.com,airport,false,*,*,true,*
 NAP,HHN,zm.wego.com,airport,false,*,*,true,*
-,false,IST,zm.wego.com,airport,false,*,*,true,*
+VNO,IST,zm.wego.com,airport,false,*,*,true,*
 DUB,TIA,zm.wego.com,airport,false,*,*,true,*
 SOF,LYS,zm.wego.com,airport,false,*,*,true,*
 SGN,IKA,zm.wego.com,airport,false,*,*,true,*
@@ -27473,7 +27473,7 @@ HEL,SHJ,zm.wego.com,airport,false,*,*,true,*
 NBO,HAS,zm.wego.com,airport,false,*,*,true,*
 ZAM,MFM,zm.wego.com,airport,false,*,*,true,*
 RBA,PRG,zm.wego.com,airport,false,*,*,true,*
-,false,TIA,zm.wego.com,airport,false,*,*,true,*
+VNO,TIA,zm.wego.com,airport,false,*,*,true,*
 SVG,MXP,zm.wego.com,airport,false,*,*,true,*
 KUL,ROR,zm.wego.com,airport,false,*,*,true,*
 DAC,BBI,zm.wego.com,airport,false,*,*,true,*
@@ -27488,11 +27488,11 @@ TPA,MSY,zm.wego.com,airport,false,*,*,true,*
 MUC,ARN,zm.wego.com,airport,false,*,*,true,*
 KLH,GOI,zm.wego.com,airport,false,*,*,true,*
 VIE,ALC,zm.wego.com,airport,false,*,*,true,*
-SYD,,false,zm.wego.com,airport,false,*,*,true,*
+SYD,KNO,zm.wego.com,airport,false,*,*,true,*
 KRK,PSA,zm.wego.com,airport,false,*,*,true,*
 RUH,DFW,zm.wego.com,airport,false,*,*,true,*
 BEG,GYD,zm.wego.com,airport,false,*,*,true,*
-SHJ,,false,zm.wego.com,airport,false,*,*,true,*
+SHJ,VNO,zm.wego.com,airport,false,*,*,true,*
 IXE,NRT,zm.wego.com,airport,false,*,*,true,*
 MEL,DMK,zm.wego.com,airport,false,*,*,true,*
 AMS,NDR,zm.wego.com,airport,false,*,*,true,*
@@ -27550,7 +27550,7 @@ MRS,LUX,zm.wego.com,airport,false,*,*,true,*
 JED,GRX,zm.wego.com,airport,false,*,*,true,*
 CDG,VIE,zm.wego.com,airport,false,*,*,true,*
 MAN,GOI,zm.wego.com,airport,false,*,*,true,*
-,false,OKA,zm.wego.com,airport,false,*,*,true,*
+KNO,OKA,zm.wego.com,airport,false,*,*,true,*
 NRT,NKG,zm.wego.com,airport,false,*,*,true,*
 ECN,NQZ,zm.wego.com,airport,false,*,*,true,*
 FEZ,PMI,zm.wego.com,airport,false,*,*,true,*
@@ -27576,7 +27576,7 @@ AHB,GAY,zm.wego.com,airport,false,*,*,true,*
 DMM,YWG,zm.wego.com,airport,false,*,*,true,*
 MLX,LHR,zm.wego.com,airport,false,*,*,true,*
 HBE,KUT,zm.wego.com,airport,false,*,*,true,*
-,false,SLL,zm.wego.com,airport,false,*,*,true,*
+KNO,SLL,zm.wego.com,airport,false,*,*,true,*
 PGH,IXD,zm.wego.com,airport,false,*,*,true,*
 BKK,DMU,zm.wego.com,airport,false,*,*,true,*
 DTW,BAH,zm.wego.com,airport,false,*,*,true,*
@@ -27607,7 +27607,7 @@ PNY,NAG,zm.wego.com,airport,false,*,*,true,*
 TNG,YUL,zm.wego.com,airport,false,*,*,true,*
 URT,BLR,zm.wego.com,airport,false,*,*,true,*
 BOM,LAD,zm.wego.com,airport,false,*,*,true,*
-ATQ,,false,zm.wego.com,airport,false,*,*,true,*
+ATQ,VNO,zm.wego.com,airport,false,*,*,true,*
 AMM,MHD,zm.wego.com,airport,false,*,*,true,*
 AMS,DUS,zm.wego.com,airport,false,*,*,true,*
 EIN,IKA,zm.wego.com,airport,false,*,*,true,*
@@ -27794,7 +27794,7 @@ TLV,BER,zm.wego.com,airport,false,*,*,true,*
 NTE,NAP,zm.wego.com,airport,false,*,*,true,*
 BSL,TLS,zm.wego.com,airport,false,*,*,true,*
 NCE,TNG,zm.wego.com,airport,false,*,*,true,*
-,false,HKG,zm.wego.com,airport,false,*,*,true,*
+KNO,HKG,zm.wego.com,airport,false,*,*,true,*
 GOP,AYJ,zm.wego.com,airport,false,*,*,true,*
 BEK,IXE,zm.wego.com,airport,false,*,*,true,*
 VTZ,MLA,zm.wego.com,airport,false,*,*,true,*
@@ -28303,7 +28303,7 @@ ZAG,KHI,zm.wego.com,airport,false,*,*,true,*
 BGW,SXR,zm.wego.com,airport,false,*,*,true,*
 CTA,SSH,zm.wego.com,airport,false,*,*,true,*
 KIN,OAK,zm.wego.com,airport,false,*,*,true,*
-,false,ATH,zm.wego.com,airport,false,*,*,true,*
+VNO,ATH,zm.wego.com,airport,false,*,*,true,*
 AMS,ALA,zm.wego.com,airport,false,*,*,true,*
 CEB,WAW,zm.wego.com,airport,false,*,*,true,*
 MUX,TUU,zm.wego.com,airport,false,*,*,true,*
@@ -28311,7 +28311,7 @@ DTW,KEF,zm.wego.com,airport,false,*,*,true,*
 MKE,ATL,zm.wego.com,airport,false,*,*,true,*
 BRS,SPX,zm.wego.com,airport,false,*,*,true,*
 KUT,SVG,zm.wego.com,airport,false,*,*,true,*
-,false,HLP,zm.wego.com,airport,false,*,*,true,*
+KNO,HLP,zm.wego.com,airport,false,*,*,true,*
 BHO,KNU,zm.wego.com,airport,false,*,*,true,*
 BBI,HDY,zm.wego.com,airport,false,*,*,true,*
 TOS,PSA,zm.wego.com,airport,false,*,*,true,*
@@ -28398,9 +28398,9 @@ DQM,CAI,zm.wego.com,airport,false,*,*,true,*
 MED,RQY,zm.wego.com,airport,false,*,*,true,*
 TSR,AMS,zm.wego.com,airport,false,*,*,true,*
 ATQ,LST,zm.wego.com,airport,false,*,*,true,*
-,false,COK,zm.wego.com,airport,false,*,*,true,*
+KNO,COK,zm.wego.com,airport,false,*,*,true,*
 PER,IST,zm.wego.com,airport,false,*,*,true,*
-SOF,,false,zm.wego.com,airport,false,*,*,true,*
+SOF,VNO,zm.wego.com,airport,false,*,*,true,*
 GVA,MED,zm.wego.com,airport,false,*,*,true,*
 ECN,STR,zm.wego.com,airport,false,*,*,true,*
 TLL,PRG,zm.wego.com,airport,false,*,*,true,*
@@ -28424,7 +28424,7 @@ KJB,IXM,zm.wego.com,airport,false,*,*,true,*
 CEB,TRZ,zm.wego.com,airport,false,*,*,true,*
 IAH,PHL,zm.wego.com,airport,false,*,*,true,*
 TIR,RDP,zm.wego.com,airport,false,*,*,true,*
-,false,AAP,zm.wego.com,airport,false,*,*,true,*
+KNO,AAP,zm.wego.com,airport,false,*,*,true,*
 BKK,APW,zm.wego.com,airport,false,*,*,true,*
 AGR,LKO,zm.wego.com,airport,false,*,*,true,*
 ESB,DLM,zm.wego.com,airport,false,*,*,true,*
@@ -28509,7 +28509,7 @@ PSA,VLC,zm.wego.com,airport,false,*,*,true,*
 FCO,GDN,zm.wego.com,airport,false,*,*,true,*
 EIN,FNC,zm.wego.com,airport,false,*,*,true,*
 OSL,HHN,zm.wego.com,airport,false,*,*,true,*
-SKT,,false,zm.wego.com,airport,false,*,*,true,*
+SKT,VNO,zm.wego.com,airport,false,*,*,true,*
 KHI,MCO,zm.wego.com,airport,false,*,*,true,*
 ARN,BGO,zm.wego.com,airport,false,*,*,true,*
 DEN,PIT,zm.wego.com,airport,false,*,*,true,*
@@ -28752,7 +28752,7 @@ SAW,ERC,zm.wego.com,airport,false,*,*,true,*
 ADD,ORY,zm.wego.com,airport,false,*,*,true,*
 KCH,TFU,zm.wego.com,airport,false,*,*,true,*
 RKT,HBE,zm.wego.com,airport,false,*,*,true,*
-,false,CKG,zm.wego.com,airport,false,*,*,true,*
+KNO,CKG,zm.wego.com,airport,false,*,*,true,*
 EBL,TLL,zm.wego.com,airport,false,*,*,true,*
 MEM,MCO,zm.wego.com,airport,false,*,*,true,*
 STN,WRO,zm.wego.com,airport,false,*,*,true,*
@@ -28930,7 +28930,7 @@ PHS,URT,zm.wego.com,airport,false,*,*,true,*
 TIR,JED,zm.wego.com,airport,false,*,*,true,*
 EBL,GVA,zm.wego.com,airport,false,*,*,true,*
 AMM,SIN,zm.wego.com,airport,false,*,*,true,*
-,false,SVQ,zm.wego.com,airport,false,*,*,true,*
+VNO,SVQ,zm.wego.com,airport,false,*,*,true,*
 KBV,LGK,zm.wego.com,airport,false,*,*,true,*
 TAS,BAH,zm.wego.com,airport,false,*,*,true,*
 CAI,PMI,zm.wego.com,airport,false,*,*,true,*
@@ -29107,7 +29107,7 @@ DCA,ORD,zm.wego.com,airport,false,*,*,true,*
 SGN,GCM,zm.wego.com,airport,false,*,*,true,*
 BLR,OTP,zm.wego.com,airport,false,*,*,true,*
 NAP,RBA,zm.wego.com,airport,false,*,*,true,*
-BOM,,false,zm.wego.com,airport,false,*,*,true,*
+BOM,VNO,zm.wego.com,airport,false,*,*,true,*
 KUT,IST,zm.wego.com,airport,false,*,*,true,*
 RTM,SSH,zm.wego.com,airport,false,*,*,true,*
 DAD,CNX,zm.wego.com,airport,false,*,*,true,*
@@ -29161,7 +29161,7 @@ BHH,GOP,zm.wego.com,airport,false,*,*,true,*
 SYD,JNB,zm.wego.com,airport,false,*,*,true,*
 BAH,ALC,zm.wego.com,airport,false,*,*,true,*
 BER,NKT,zm.wego.com,airport,false,*,*,true,*
-HRG,,false,zm.wego.com,airport,false,*,*,true,*
+HRG,VNO,zm.wego.com,airport,false,*,*,true,*
 JAI,PVG,zm.wego.com,airport,false,*,*,true,*
 GOI,GDN,zm.wego.com,airport,false,*,*,true,*
 IFN,HAM,zm.wego.com,airport,false,*,*,true,*
@@ -29332,7 +29332,7 @@ IXC,DIU,zm.wego.com,airport,false,*,*,true,*
 KUL,OVB,zm.wego.com,airport,false,*,*,true,*
 MNL,MYR,zm.wego.com,airport,false,*,*,true,*
 BTS,MED,zm.wego.com,airport,false,*,*,true,*
-,false,MFM,zm.wego.com,airport,false,*,*,true,*
+KNO,MFM,zm.wego.com,airport,false,*,*,true,*
 PKX,HND,zm.wego.com,airport,false,*,*,true,*
 DXB,PEN,zm.wego.com,airport,false,*,*,true,*
 CDG,EVN,zm.wego.com,airport,false,*,*,true,*
@@ -29379,9 +29379,9 @@ BCN,SJJ,zm.wego.com,airport,false,*,*,true,*
 HRG,LIS,zm.wego.com,airport,false,*,*,true,*
 GAY,MED,zm.wego.com,airport,false,*,*,true,*
 SKG,RUH,zm.wego.com,airport,false,*,*,true,*
-HYD,,false,zm.wego.com,airport,false,*,*,true,*
+HYD,KNO,zm.wego.com,airport,false,*,*,true,*
 CMN,ZAG,zm.wego.com,airport,false,*,*,true,*
-,false,VAR,zm.wego.com,airport,false,*,*,true,*
+VNO,VAR,zm.wego.com,airport,false,*,*,true,*
 SYD,NRT,zm.wego.com,airport,false,*,*,true,*
 TRS,AUH,zm.wego.com,airport,false,*,*,true,*
 GYD,MLA,zm.wego.com,airport,false,*,*,true,*
@@ -29718,7 +29718,7 @@ BOM,BSL,zm.wego.com,airport,false,*,*,true,*
 BGW,LOS,zm.wego.com,airport,false,*,*,true,*
 IKA,IXJ,zm.wego.com,airport,false,*,*,true,*
 CJU,VTE,zm.wego.com,airport,false,*,*,true,*
-,false,STN,zm.wego.com,airport,false,*,*,true,*
+VNO,STN,zm.wego.com,airport,false,*,*,true,*
 SKT,GIZ,zm.wego.com,airport,false,*,*,true,*
 CLE,MEM,zm.wego.com,airport,false,*,*,true,*
 DAC,MSQ,zm.wego.com,airport,false,*,*,true,*
@@ -29731,7 +29731,7 @@ JFK,BKK,zm.wego.com,airport,false,*,*,true,*
 EZE,BIO,zm.wego.com,airport,false,*,*,true,*
 TBS,ESB,zm.wego.com,airport,false,*,*,true,*
 SKG,LRS,zm.wego.com,airport,false,*,*,true,*
-,false,TRN,zm.wego.com,airport,false,*,*,true,*
+VNO,TRN,zm.wego.com,airport,false,*,*,true,*
 BGO,CPH,zm.wego.com,airport,false,*,*,true,*
 WAW,LOS,zm.wego.com,airport,false,*,*,true,*
 DMM,BNE,zm.wego.com,airport,false,*,*,true,*
@@ -29891,7 +29891,7 @@ CXR,HKT,zm.wego.com,airport,false,*,*,true,*
 HOF,JFK,zm.wego.com,airport,false,*,*,true,*
 AJF,BAH,zm.wego.com,airport,false,*,*,true,*
 AMS,PRN,zm.wego.com,airport,false,*,*,true,*
-,false,TFS,zm.wego.com,airport,false,*,*,true,*
+VNO,TFS,zm.wego.com,airport,false,*,*,true,*
 BCN,BCM,zm.wego.com,airport,false,*,*,true,*
 BER,FRU,zm.wego.com,airport,false,*,*,true,*
 BEK,DPS,zm.wego.com,airport,false,*,*,true,*
@@ -30051,7 +30051,7 @@ YUL,FRU,zm.wego.com,airport,false,*,*,true,*
 SSH,AGP,zm.wego.com,airport,false,*,*,true,*
 CDG,CMN,zm.wego.com,airport,false,*,*,true,*
 UDR,DBR,zm.wego.com,airport,false,*,*,true,*
-,false,MUX,zm.wego.com,airport,false,*,*,true,*
+VNO,MUX,zm.wego.com,airport,false,*,*,true,*
 CMN,NUE,zm.wego.com,airport,false,*,*,true,*
 GIZ,ASW,zm.wego.com,airport,false,*,*,true,*
 DWC,PEW,zm.wego.com,airport,false,*,*,true,*
@@ -30134,11 +30134,11 @@ ZRH,GZT,zm.wego.com,airport,false,*,*,true,*
 BRE,PMI,zm.wego.com,airport,false,*,*,true,*
 AGP,ADB,zm.wego.com,airport,false,*,*,true,*
 STN,LKO,zm.wego.com,airport,false,*,*,true,*
-TLV,,false,zm.wego.com,airport,false,*,*,true,*
+TLV,VNO,zm.wego.com,airport,false,*,*,true,*
 FEZ,BIO,zm.wego.com,airport,false,*,*,true,*
 AMS,BGO,zm.wego.com,airport,false,*,*,true,*
 DWC,JER,zm.wego.com,airport,false,*,*,true,*
-,false,PER,zm.wego.com,airport,false,*,*,true,*
+KNO,PER,zm.wego.com,airport,false,*,*,true,*
 GOP,IXR,zm.wego.com,airport,false,*,*,true,*
 RQY,VTZ,zm.wego.com,airport,false,*,*,true,*
 IXC,TCR,zm.wego.com,airport,false,*,*,true,*
@@ -30273,7 +30273,7 @@ GLA,BNA,zm.wego.com,airport,false,*,*,true,*
 ELQ,RPR,zm.wego.com,airport,false,*,*,true,*
 OPO,CMN,zm.wego.com,airport,false,*,*,true,*
 BKK,AYJ,zm.wego.com,airport,false,*,*,true,*
-VIE,,false,zm.wego.com,airport,false,*,*,true,*
+VIE,VNO,zm.wego.com,airport,false,*,*,true,*
 AUH,NCL,zm.wego.com,airport,false,*,*,true,*
 BRU,IBZ,zm.wego.com,airport,false,*,*,true,*
 IXE,LGK,zm.wego.com,airport,false,*,*,true,*
@@ -30328,7 +30328,7 @@ BGW,NKT,zm.wego.com,airport,false,*,*,true,*
 TPA,DFW,zm.wego.com,airport,false,*,*,true,*
 BDQ,HSR,zm.wego.com,airport,false,*,*,true,*
 DEL,UBN,zm.wego.com,airport,false,*,*,true,*
-,false,DAD,zm.wego.com,airport,false,*,*,true,*
+KNO,DAD,zm.wego.com,airport,false,*,*,true,*
 HKG,BAH,zm.wego.com,airport,false,*,*,true,*
 UDR,MCT,zm.wego.com,airport,false,*,*,true,*
 KUL,ALG,zm.wego.com,airport,false,*,*,true,*
@@ -30432,7 +30432,7 @@ COK,GAY,zm.wego.com,airport,false,*,*,true,*
 HYD,BWI,zm.wego.com,airport,false,*,*,true,*
 AMD,TUU,zm.wego.com,airport,false,*,*,true,*
 CAI,BOS,zm.wego.com,airport,false,*,*,true,*
-KRK,,false,zm.wego.com,airport,false,*,*,true,*
+KRK,VNO,zm.wego.com,airport,false,*,*,true,*
 CGP,BAH,zm.wego.com,airport,false,*,*,true,*
 RUH,LEB,zm.wego.com,airport,false,*,*,true,*
 TRN,LGW,zm.wego.com,airport,false,*,*,true,*
@@ -30552,7 +30552,7 @@ MAA,SHE,zm.wego.com,airport,false,*,*,true,*
 CGK,TAS,zm.wego.com,airport,false,*,*,true,*
 NAV,TBS,zm.wego.com,airport,false,*,*,true,*
 ORD,MCT,zm.wego.com,airport,false,*,*,true,*
-,false,BKK,zm.wego.com,airport,false,*,*,true,*
+KNO,BKK,zm.wego.com,airport,false,*,*,true,*
 BLR,YYZ,zm.wego.com,airport,false,*,*,true,*
 AHB,KUT,zm.wego.com,airport,false,*,*,true,*
 ARN,TOS,zm.wego.com,airport,false,*,*,true,*
@@ -30770,7 +30770,7 @@ NRN,BEM,zm.wego.com,airport,false,*,*,true,*
 IXE,TAS,zm.wego.com,airport,false,*,*,true,*
 RBA,NTE,zm.wego.com,airport,false,*,*,true,*
 SLL,VIE,zm.wego.com,airport,false,*,*,true,*
-,false,TSF,zm.wego.com,airport,false,*,*,true,*
+VNO,TSF,zm.wego.com,airport,false,*,*,true,*
 AMS,OTP,zm.wego.com,airport,false,*,*,true,*
 PAT,CNN,zm.wego.com,airport,false,*,*,true,*
 TTU,LIS,zm.wego.com,airport,false,*,*,true,*
@@ -30801,7 +30801,7 @@ HEL,DIY,zm.wego.com,airport,false,*,*,true,*
 EDI,EIN,zm.wego.com,airport,false,*,*,true,*
 RHO,HRG,zm.wego.com,airport,false,*,*,true,*
 TRK,YIA,zm.wego.com,airport,false,*,*,true,*
-,false,MDC,zm.wego.com,airport,false,*,*,true,*
+KNO,MDC,zm.wego.com,airport,false,*,*,true,*
 GOP,CMB,zm.wego.com,airport,false,*,*,true,*
 WAW,CTG,zm.wego.com,airport,false,*,*,true,*
 MED,BEN,zm.wego.com,airport,false,*,*,true,*
@@ -30853,7 +30853,7 @@ GIZ,PRG,zm.wego.com,airport,false,*,*,true,*
 BNA,SFO,zm.wego.com,airport,false,*,*,true,*
 PGH,VNS,zm.wego.com,airport,false,*,*,true,*
 IST,GOX,zm.wego.com,airport,false,*,*,true,*
-,false,TPE,zm.wego.com,airport,false,*,*,true,*
+KNO,TPE,zm.wego.com,airport,false,*,*,true,*
 SRG,JED,zm.wego.com,airport,false,*,*,true,*
 PFO,SKG,zm.wego.com,airport,false,*,*,true,*
 CCU,FUK,zm.wego.com,airport,false,*,*,true,*
@@ -30892,7 +30892,7 @@ HVN,FLL,zm.wego.com,airport,false,*,*,true,*
 DUS,MRS,zm.wego.com,airport,false,*,*,true,*
 IDR,GYD,zm.wego.com,airport,false,*,*,true,*
 IKA,MIA,zm.wego.com,airport,false,*,*,true,*
-,false,BRI,zm.wego.com,airport,false,*,*,true,*
+VNO,BRI,zm.wego.com,airport,false,*,*,true,*
 AGA,CGK,zm.wego.com,airport,false,*,*,true,*
 MUX,AHB,zm.wego.com,airport,false,*,*,true,*
 WAW,OTP,zm.wego.com,airport,false,*,*,true,*
@@ -31118,7 +31118,7 @@ DIU,MAA,zm.wego.com,airport,false,*,*,true,*
 MCT,BNE,zm.wego.com,airport,false,*,*,true,*
 LHE,DPS,zm.wego.com,airport,false,*,*,true,*
 AJF,TUN,zm.wego.com,airport,false,*,*,true,*
-MED,falseP,zm.wego.com,airport,false,*,*,true,*
+MED,NOP,zm.wego.com,airport,false,*,*,true,*
 DTW,MED,zm.wego.com,airport,false,*,*,true,*
 YVR,AMM,zm.wego.com,airport,false,*,*,true,*
 JDH,IXJ,zm.wego.com,airport,false,*,*,true,*
@@ -31127,7 +31127,7 @@ DOH,SID,zm.wego.com,airport,false,*,*,true,*
 ATL,SLC,zm.wego.com,airport,false,*,*,true,*
 AMM,FMO,zm.wego.com,airport,false,*,*,true,*
 KCH,KHH,zm.wego.com,airport,false,*,*,true,*
-,false,BWN,zm.wego.com,airport,false,*,*,true,*
+KNO,BWN,zm.wego.com,airport,false,*,*,true,*
 TAC,DMM,zm.wego.com,airport,false,*,*,true,*
 DXB,TLV,zm.wego.com,airport,false,*,*,true,*
 AVV,RUH,zm.wego.com,airport,false,*,*,true,*
@@ -31241,7 +31241,7 @@ BLR,CHQ,zm.wego.com,airport,false,*,*,true,*
 AMD,SEZ,zm.wego.com,airport,false,*,*,true,*
 AMD,MSY,zm.wego.com,airport,false,*,*,true,*
 KWI,MIA,zm.wego.com,airport,false,*,*,true,*
-ALF,,false,zm.wego.com,airport,false,*,*,true,*
+ALF,VNO,zm.wego.com,airport,false,*,*,true,*
 SAW,DWC,zm.wego.com,airport,false,*,*,true,*
 SLC,CCS,zm.wego.com,airport,false,*,*,true,*
 SZG,MXP,zm.wego.com,airport,false,*,*,true,*
@@ -31390,7 +31390,7 @@ EWR,ESU,zm.wego.com,airport,false,*,*,true,*
 SHJ,UDR,zm.wego.com,airport,false,*,*,true,*
 YUL,DJE,zm.wego.com,airport,false,*,*,true,*
 COK,CAI,zm.wego.com,airport,false,*,*,true,*
-TRV,,false,zm.wego.com,airport,false,*,*,true,*
+TRV,VNO,zm.wego.com,airport,false,*,*,true,*
 FCO,MAA,zm.wego.com,airport,false,*,*,true,*
 KIN,DTW,zm.wego.com,airport,false,*,*,true,*
 SAW,BLR,zm.wego.com,airport,false,*,*,true,*
@@ -31618,7 +31618,7 @@ JAI,IXL,zm.wego.com,airport,false,*,*,true,*
 MXP,MJT,zm.wego.com,airport,false,*,*,true,*
 MED,MZR,zm.wego.com,airport,false,*,*,true,*
 ADB,NUE,zm.wego.com,airport,false,*,*,true,*
-KWI,,false,zm.wego.com,airport,false,*,*,true,*
+KWI,VNO,zm.wego.com,airport,false,*,*,true,*
 ECN,ATH,zm.wego.com,airport,false,*,*,true,*
 PNH,CJU,zm.wego.com,airport,false,*,*,true,*
 SZZ,BEY,zm.wego.com,airport,false,*,*,true,*
@@ -31676,7 +31676,7 @@ YYC,LAS,zm.wego.com,airport,false,*,*,true,*
 LCA,TOS,zm.wego.com,airport,false,*,*,true,*
 OVD,BOM,zm.wego.com,airport,false,*,*,true,*
 JTR,RUH,zm.wego.com,airport,false,*,*,true,*
-COK,,false,zm.wego.com,airport,false,*,*,true,*
+COK,KNO,zm.wego.com,airport,false,*,*,true,*
 CMB,TCR,zm.wego.com,airport,false,*,*,true,*
 OPO,LGW,zm.wego.com,airport,false,*,*,true,*
 MED,SEA,zm.wego.com,airport,false,*,*,true,*
@@ -31729,7 +31729,7 @@ AMD,JGB,zm.wego.com,airport,false,*,*,true,*
 VTZ,GAY,zm.wego.com,airport,false,*,*,true,*
 LIS,TRN,zm.wego.com,airport,false,*,*,true,*
 MDW,BOS,zm.wego.com,airport,false,*,*,true,*
-BAH,,false,zm.wego.com,airport,false,*,*,true,*
+BAH,VNO,zm.wego.com,airport,false,*,*,true,*
 CPH,YYC,zm.wego.com,airport,false,*,*,true,*
 IBZ,ATH,zm.wego.com,airport,false,*,*,true,*
 ORK,ALC,zm.wego.com,airport,false,*,*,true,*
@@ -31866,7 +31866,7 @@ KLU,BSL,zm.wego.com,airport,false,*,*,true,*
 RVN,RUH,zm.wego.com,airport,false,*,*,true,*
 JMK,IBZ,zm.wego.com,airport,false,*,*,true,*
 TRZ,NNG,zm.wego.com,airport,false,*,*,true,*
-SAW,falseP,zm.wego.com,airport,false,*,*,true,*
+SAW,NOP,zm.wego.com,airport,false,*,*,true,*
 ATH,AGP,zm.wego.com,airport,false,*,*,true,*
 ATQ,MUC,zm.wego.com,airport,false,*,*,true,*
 IMF,DIB,zm.wego.com,airport,false,*,*,true,*
@@ -31896,7 +31896,7 @@ KIX,TAG,zm.wego.com,airport,false,*,*,true,*
 LGW,UGC,zm.wego.com,airport,false,*,*,true,*
 PRG,VTZ,zm.wego.com,airport,false,*,*,true,*
 TZL,DOH,zm.wego.com,airport,false,*,*,true,*
-SPX,falseC,zm.wego.com,airport,false,*,*,true,*
+SPX,NOC,zm.wego.com,airport,false,*,*,true,*
 CCJ,SGN,zm.wego.com,airport,false,*,*,true,*
 MXP,ACE,zm.wego.com,airport,false,*,*,true,*
 CRK,CBO,zm.wego.com,airport,false,*,*,true,*
@@ -32175,7 +32175,7 @@ NKT,GYD,zm.wego.com,airport,false,*,*,true,*
 SVQ,MLA,zm.wego.com,airport,false,*,*,true,*
 ORY,CMN,zm.wego.com,airport,false,*,*,true,*
 BGW,GOT,zm.wego.com,airport,false,*,*,true,*
-,false,RUH,zm.wego.com,airport,false,*,*,true,*
+VNO,RUH,zm.wego.com,airport,false,*,*,true,*
 KUL,USU,zm.wego.com,airport,false,*,*,true,*
 MCT,EWR,zm.wego.com,airport,false,*,*,true,*
 MAN,EVN,zm.wego.com,airport,false,*,*,true,*
@@ -32225,7 +32225,7 @@ TLV,VNS,zm.wego.com,airport,false,*,*,true,*
 HSR,CMB,zm.wego.com,airport,false,*,*,true,*
 STV,CMB,zm.wego.com,airport,false,*,*,true,*
 BGY,LUX,zm.wego.com,airport,false,*,*,true,*
-,false,DMM,zm.wego.com,airport,false,*,*,true,*
+VNO,DMM,zm.wego.com,airport,false,*,*,true,*
 AGA,KRK,zm.wego.com,airport,false,*,*,true,*
 MNL,DUB,zm.wego.com,airport,false,*,*,true,*
 GIZ,CGP,zm.wego.com,airport,false,*,*,true,*
@@ -32260,7 +32260,7 @@ TPE,IST,zm.wego.com,airport,false,*,*,true,*
 SZG,BCN,zm.wego.com,airport,false,*,*,true,*
 NRT,AUH,zm.wego.com,airport,false,*,*,true,*
 JED,MRA,zm.wego.com,airport,false,*,*,true,*
-,false,DMM,zm.wego.com,airport,false,*,*,true,*
+KNO,DMM,zm.wego.com,airport,false,*,*,true,*
 CGY,MPH,zm.wego.com,airport,false,*,*,true,*
 DAC,LGW,zm.wego.com,airport,false,*,*,true,*
 GDB,KUL,zm.wego.com,airport,false,*,*,true,*
@@ -32572,7 +32572,7 @@ FAO,ORK,zm.wego.com,airport,false,*,*,true,*
 LUV,CGK,zm.wego.com,airport,false,*,*,true,*
 DPS,BTH,zm.wego.com,airport,false,*,*,true,*
 IDR,DEN,zm.wego.com,airport,false,*,*,true,*
-KHH,,false,zm.wego.com,airport,false,*,*,true,*
+KHH,KNO,zm.wego.com,airport,false,*,*,true,*
 MLA,TNG,zm.wego.com,airport,false,*,*,true,*
 PEN,SAI,zm.wego.com,airport,false,*,*,true,*
 BOI,CLO,zm.wego.com,airport,false,*,*,true,*
@@ -32590,7 +32590,7 @@ SOF,CLJ,zm.wego.com,airport,false,*,*,true,*
 TLS,MLA,zm.wego.com,airport,false,*,*,true,*
 BLR,LAS,zm.wego.com,airport,false,*,*,true,*
 FEZ,MLE,zm.wego.com,airport,false,*,*,true,*
-TPE,,false,zm.wego.com,airport,false,*,*,true,*
+TPE,KNO,zm.wego.com,airport,false,*,*,true,*
 ADL,YYZ,zm.wego.com,airport,false,*,*,true,*
 DBR,IXM,zm.wego.com,airport,false,*,*,true,*
 KWI,SXV,zm.wego.com,airport,false,*,*,true,*
@@ -32716,7 +32716,7 @@ DRS,BEY,zm.wego.com,airport,false,*,*,true,*
 UPG,TRK,zm.wego.com,airport,false,*,*,true,*
 MNL,RAE,zm.wego.com,airport,false,*,*,true,*
 SJU,ORD,zm.wego.com,airport,false,*,*,true,*
-,false,LHE,zm.wego.com,airport,false,*,*,true,*
+KNO,LHE,zm.wego.com,airport,false,*,*,true,*
 IXC,MAN,zm.wego.com,airport,false,*,*,true,*
 DTM,GOT,zm.wego.com,airport,false,*,*,true,*
 SLL,TNR,zm.wego.com,airport,false,*,*,true,*
@@ -32745,7 +32745,7 @@ ICN,MPH,zm.wego.com,airport,false,*,*,true,*
 TAS,DED,zm.wego.com,airport,false,*,*,true,*
 BGW,ERZ,zm.wego.com,airport,false,*,*,true,*
 KLH,DAC,zm.wego.com,airport,false,*,*,true,*
-,false,AMD,zm.wego.com,airport,false,*,*,true,*
+KNO,AMD,zm.wego.com,airport,false,*,*,true,*
 SCV,DXB,zm.wego.com,airport,false,*,*,true,*
 DGH,BDQ,zm.wego.com,airport,false,*,*,true,*
 TIA,DUB,zm.wego.com,airport,false,*,*,true,*
@@ -32823,7 +32823,7 @@ ISK,BBI,zm.wego.com,airport,false,*,*,true,*
 FUK,NGO,zm.wego.com,airport,false,*,*,true,*
 CDP,BLR,zm.wego.com,airport,false,*,*,true,*
 BLL,AYT,zm.wego.com,airport,false,*,*,true,*
-,false,SZX,zm.wego.com,airport,false,*,*,true,*
+VNO,SZX,zm.wego.com,airport,false,*,*,true,*
 TAS,AHB,zm.wego.com,airport,false,*,*,true,*
 IXM,IXB,zm.wego.com,airport,false,*,*,true,*
 EVN,BLR,zm.wego.com,airport,false,*,*,true,*
@@ -32851,7 +32851,7 @@ DOH,HRE,zm.wego.com,airport,false,*,*,true,*
 KIX,EBB,zm.wego.com,airport,false,*,*,true,*
 CGN,SYZ,zm.wego.com,airport,false,*,*,true,*
 FMM,DAM,zm.wego.com,airport,false,*,*,true,*
-CGK,,false,zm.wego.com,airport,false,*,*,true,*
+CGK,VNO,zm.wego.com,airport,false,*,*,true,*
 GOI,GIZ,zm.wego.com,airport,false,*,*,true,*
 CMN,BGY,zm.wego.com,airport,false,*,*,true,*
 AMM,LLA,zm.wego.com,airport,false,*,*,true,*
@@ -32934,7 +32934,7 @@ AGA,MCO,zm.wego.com,airport,false,*,*,true,*
 SHJ,NBO,zm.wego.com,airport,false,*,*,true,*
 JED,CYZ,zm.wego.com,airport,false,*,*,true,*
 OVD,STN,zm.wego.com,airport,false,*,*,true,*
-,false,PKX,zm.wego.com,airport,false,*,*,true,*
+KNO,PKX,zm.wego.com,airport,false,*,*,true,*
 MXP,CMB,zm.wego.com,airport,false,*,*,true,*
 HKT,DAC,zm.wego.com,airport,false,*,*,true,*
 DUS,RVN,zm.wego.com,airport,false,*,*,true,*
@@ -33093,7 +33093,7 @@ KWI,CEB,zm.wego.com,airport,false,*,*,true,*
 TNG,KUL,zm.wego.com,airport,false,*,*,true,*
 OSL,LCA,zm.wego.com,airport,false,*,*,true,*
 GOT,TIA,zm.wego.com,airport,false,*,*,true,*
-COK,,false,zm.wego.com,airport,false,*,*,true,*
+COK,VNO,zm.wego.com,airport,false,*,*,true,*
 ECN,FIH,zm.wego.com,airport,false,*,*,true,*
 BGW,LCA,zm.wego.com,airport,false,*,*,true,*
 DTW,RUH,zm.wego.com,airport,false,*,*,true,*
@@ -33116,7 +33116,7 @@ MXP,PFO,zm.wego.com,airport,false,*,*,true,*
 BVA,SSH,zm.wego.com,airport,false,*,*,true,*
 VGA,FCO,zm.wego.com,airport,false,*,*,true,*
 MAA,SVO,zm.wego.com,airport,false,*,*,true,*
-AMS,,false,zm.wego.com,airport,false,*,*,true,*
+AMS,VNO,zm.wego.com,airport,false,*,*,true,*
 OSL,MLA,zm.wego.com,airport,false,*,*,true,*
 LTN,PMI,zm.wego.com,airport,false,*,*,true,*
 SUB,PEK,zm.wego.com,airport,false,*,*,true,*
@@ -33143,7 +33143,7 @@ JSA,LKO,zm.wego.com,airport,false,*,*,true,*
 MED,TUI,zm.wego.com,airport,false,*,*,true,*
 EWR,AMM,zm.wego.com,airport,false,*,*,true,*
 LGW,LAX,zm.wego.com,airport,false,*,*,true,*
-,false,BWX,zm.wego.com,airport,false,*,*,true,*
+KNO,BWX,zm.wego.com,airport,false,*,*,true,*
 DMK,BNE,zm.wego.com,airport,false,*,*,true,*
 SAW,ATQ,zm.wego.com,airport,false,*,*,true,*
 BRU,SVQ,zm.wego.com,airport,false,*,*,true,*
@@ -33264,7 +33264,7 @@ CGK,PMR,zm.wego.com,airport,false,*,*,true,*
 IXE,GIZ,zm.wego.com,airport,false,*,*,true,*
 BCN,NCL,zm.wego.com,airport,false,*,*,true,*
 BOM,DGT,zm.wego.com,airport,false,*,*,true,*
-LIS,,false,zm.wego.com,airport,false,*,*,true,*
+LIS,VNO,zm.wego.com,airport,false,*,*,true,*
 EVN,SKD,zm.wego.com,airport,false,*,*,true,*
 NAG,CCJ,zm.wego.com,airport,false,*,*,true,*
 TNG,LCY,zm.wego.com,airport,false,*,*,true,*
@@ -33307,7 +33307,7 @@ BEY,DME,zm.wego.com,airport,false,*,*,true,*
 LOE,HKT,zm.wego.com,airport,false,*,*,true,*
 HKG,MED,zm.wego.com,airport,false,*,*,true,*
 LPA,DVO,zm.wego.com,airport,false,*,*,true,*
-,false,HAN,zm.wego.com,airport,false,*,*,true,*
+KNO,HAN,zm.wego.com,airport,false,*,*,true,*
 DGH,RJA,zm.wego.com,airport,false,*,*,true,*
 ALA,SGN,zm.wego.com,airport,false,*,*,true,*
 KUL,UNN,zm.wego.com,airport,false,*,*,true,*
@@ -33412,7 +33412,7 @@ GNY,OSL,zm.wego.com,airport,false,*,*,true,*
 DUS,MSR,zm.wego.com,airport,false,*,*,true,*
 PNQ,RQY,zm.wego.com,airport,false,*,*,true,*
 DXB,BNE,zm.wego.com,airport,false,*,*,true,*
-,false,BKI,zm.wego.com,airport,false,*,*,true,*
+KNO,BKI,zm.wego.com,airport,false,*,*,true,*
 SKG,FKB,zm.wego.com,airport,false,*,*,true,*
 CCU,LHE,zm.wego.com,airport,false,*,*,true,*
 SUB,DAD,zm.wego.com,airport,false,*,*,true,*
@@ -33455,7 +33455,7 @@ ZRH,NJF,zm.wego.com,airport,false,*,*,true,*
 IST,EBB,zm.wego.com,airport,false,*,*,true,*
 MSP,SAL,zm.wego.com,airport,false,*,*,true,*
 EVN,CDG,zm.wego.com,airport,false,*,*,true,*
-FCO,,false,zm.wego.com,airport,false,*,*,true,*
+FCO,VNO,zm.wego.com,airport,false,*,*,true,*
 NRT,DLC,zm.wego.com,airport,false,*,*,true,*
 EAM,IXB,zm.wego.com,airport,false,*,*,true,*
 GTO,SUB,zm.wego.com,airport,false,*,*,true,*
@@ -33485,7 +33485,7 @@ DRP,HKG,zm.wego.com,airport,false,*,*,true,*
 JGB,DBR,zm.wego.com,airport,false,*,*,true,*
 AMQ,DJJ,zm.wego.com,airport,false,*,*,true,*
 HOF,BOM,zm.wego.com,airport,false,*,*,true,*
-CRK,,false,zm.wego.com,airport,false,*,*,true,*
+CRK,VNO,zm.wego.com,airport,false,*,*,true,*
 HAM,LDE,zm.wego.com,airport,false,*,*,true,*
 SVQ,PHL,zm.wego.com,airport,false,*,*,true,*
 LGW,ASM,zm.wego.com,airport,false,*,*,true,*
@@ -33672,7 +33672,8 @@ SAW,OUA,zm.wego.com,airport,false,*,*,true,*
 SSH,GUW,zm.wego.com,airport,false,*,*,true,*
 CAI,NUM,zm.wego.com,airport,false,*,*,true,*
 HEL,CLJ,zm.wego.com,airport,false,*,*,true,*
-ATH,AGA,zm.wego.com,airport,false,*,*,true,*,falseC,IST,zm.wego.com,airport,false,*,*,true,*
+ATH,AGA,zm.wego.com,airport,false,*,*,true,*
+NOC,IST,zm.wego.com,airport,false,*,*,true,*
 JDH,AJL,zm.wego.com,airport,false,*,*,true,*
 GWL,NAG,zm.wego.com,airport,false,*,*,true,*
 COK,MPH,zm.wego.com,airport,false,*,*,true,*
@@ -33714,7 +33715,7 @@ NRT,TAK,zm.wego.com,airport,false,*,*,true,*
 RAK,FNC,zm.wego.com,airport,false,*,*,true,*
 KTM,HPH,zm.wego.com,airport,false,*,*,true,*
 YNB,LYP,zm.wego.com,airport,false,*,*,true,*
-MRS,,false,zm.wego.com,airport,false,*,*,true,*
+MRS,VNO,zm.wego.com,airport,false,*,*,true,*
 PKU,TJQ,zm.wego.com,airport,false,*,*,true,*
 GZT,HMB,zm.wego.com,airport,false,*,*,true,*
 LPL,EDI,zm.wego.com,airport,false,*,*,true,*
@@ -33848,7 +33849,7 @@ PUJ,SJO,zm.wego.com,airport,false,*,*,true,*
 MLA,WRO,zm.wego.com,airport,false,*,*,true,*
 SGF,PIE,zm.wego.com,airport,false,*,*,true,*
 TCR,CMB,zm.wego.com,airport,false,*,*,true,*
-,false,SPU,zm.wego.com,airport,false,*,*,true,*
+VNO,SPU,zm.wego.com,airport,false,*,*,true,*
 BNE,CCU,zm.wego.com,airport,false,*,*,true,*
 DWC,KUL,zm.wego.com,airport,false,*,*,true,*
 ORD,RDU,zm.wego.com,airport,false,*,*,true,*
@@ -33883,7 +33884,7 @@ DEL,SBZ,zm.wego.com,airport,false,*,*,true,*
 CIA,CMB,zm.wego.com,airport,false,*,*,true,*
 NRT,GAJ,zm.wego.com,airport,false,*,*,true,*
 BEY,FMM,zm.wego.com,airport,false,*,*,true,*
-CMN,,false,zm.wego.com,airport,false,*,*,true,*
+CMN,KNO,zm.wego.com,airport,false,*,*,true,*
 RMO,MCT,zm.wego.com,airport,false,*,*,true,*
 TZX,COV,zm.wego.com,airport,false,*,*,true,*
 ATL,TFU,zm.wego.com,airport,false,*,*,true,*
@@ -34052,7 +34053,7 @@ PDG,SYD,zm.wego.com,airport,false,*,*,true,*
 IXZ,RKT,zm.wego.com,airport,false,*,*,true,*
 CJB,YIW,zm.wego.com,airport,false,*,*,true,*
 FCO,CRL,zm.wego.com,airport,false,*,*,true,*
-,false,DAC,zm.wego.com,airport,false,*,*,true,*
+VNO,DAC,zm.wego.com,airport,false,*,*,true,*
 DOH,OUL,zm.wego.com,airport,false,*,*,true,*
 CNX,CAI,zm.wego.com,airport,false,*,*,true,*
 DJE,ARN,zm.wego.com,airport,false,*,*,true,*
@@ -34166,10 +34167,11 @@ CTA,FMM,zm.wego.com,airport,false,*,*,true,*
 BLQ,CIY,zm.wego.com,airport,false,*,*,true,*
 DJE,NTE,zm.wego.com,airport,false,*,*,true,*
 MSP,HKT,zm.wego.com,airport,false,*,*,true,*
-SAN,,false,zm.wego.com,airport,false,*,*,true,*
+SAN,RNO,zm.wego.com,airport,false,*,*,true,*
 FMM,HTY,zm.wego.com,airport,false,*,*,true,*
 CDG,MRA,zm.wego.com,airport,false,*,*,true,*
-MDC,TRK,zm.wego.com,airport,false,*,*,true,*,falseC,STN,zm.wego.com,airport,false,*,*,true,*
+MDC,TRK,zm.wego.com,airport,false,*,*,true,*
+NOC,STN,zm.wego.com,airport,false,*,*,true,*
 TLV,CCU,zm.wego.com,airport,false,*,*,true,*
 KLH,KUL,zm.wego.com,airport,false,*,*,true,*
 BGY,NTE,zm.wego.com,airport,false,*,*,true,*
@@ -34189,7 +34191,7 @@ FKB,ATH,zm.wego.com,airport,false,*,*,true,*
 BRS,TMM,zm.wego.com,airport,false,*,*,true,*
 BFS,TZX,zm.wego.com,airport,false,*,*,true,*
 SRG,PLM,zm.wego.com,airport,false,*,*,true,*
-,false,LBJ,zm.wego.com,airport,false,*,*,true,*
+KNO,LBJ,zm.wego.com,airport,false,*,*,true,*
 SUB,AOR,zm.wego.com,airport,false,*,*,true,*
 DUB,HHN,zm.wego.com,airport,false,*,*,true,*
 COK,RMO,zm.wego.com,airport,false,*,*,true,*
@@ -34311,7 +34313,7 @@ STV,HND,zm.wego.com,airport,false,*,*,true,*
 ICN,ILO,zm.wego.com,airport,false,*,*,true,*
 WMI,LUX,zm.wego.com,airport,false,*,*,true,*
 PRN,TZX,zm.wego.com,airport,false,*,*,true,*
-SYD,falseU,zm.wego.com,airport,false,*,*,true,*
+SYD,NOU,zm.wego.com,airport,false,*,*,true,*
 CPH,EBB,zm.wego.com,airport,false,*,*,true,*
 AGP,DAM,zm.wego.com,airport,false,*,*,true,*
 JSA,PNQ,zm.wego.com,airport,false,*,*,true,*
@@ -34433,7 +34435,7 @@ HSR,TRV,zm.wego.com,airport,false,*,*,true,*
 BLR,UFA,zm.wego.com,airport,false,*,*,true,*
 KUN,AAR,zm.wego.com,airport,false,*,*,true,*
 AOR,PKU,zm.wego.com,airport,false,*,*,true,*
-KUL,,false,zm.wego.com,airport,false,*,*,true,*
+KUL,VNO,zm.wego.com,airport,false,*,*,true,*
 BEG,DME,zm.wego.com,airport,false,*,*,true,*
 ESB,KSY,zm.wego.com,airport,false,*,*,true,*
 PER,NRT,zm.wego.com,airport,false,*,*,true,*
@@ -34558,7 +34560,7 @@ BLR,DTW,zm.wego.com,airport,false,*,*,true,*
 DTW,SZX,zm.wego.com,airport,false,*,*,true,*
 ATQ,YLW,zm.wego.com,airport,false,*,*,true,*
 MQM,CDG,zm.wego.com,airport,false,*,*,true,*
-,false,TRZ,zm.wego.com,airport,false,*,*,true,*
+VNO,TRZ,zm.wego.com,airport,false,*,*,true,*
 SYD,SZB,zm.wego.com,airport,false,*,*,true,*
 AMM,BJM,zm.wego.com,airport,false,*,*,true,*
 YIA,DEL,zm.wego.com,airport,false,*,*,true,*
@@ -34618,7 +34620,7 @@ PFO,BCN,zm.wego.com,airport,false,*,*,true,*
 BHO,ORD,zm.wego.com,airport,false,*,*,true,*
 DXB,CCS,zm.wego.com,airport,false,*,*,true,*
 KHI,SOF,zm.wego.com,airport,false,*,*,true,*
-,false,SHJ,zm.wego.com,airport,false,*,*,true,*
+VNO,SHJ,zm.wego.com,airport,false,*,*,true,*
 IXA,NAG,zm.wego.com,airport,false,*,*,true,*
 TNG,HAN,zm.wego.com,airport,false,*,*,true,*
 KCH,KBV,zm.wego.com,airport,false,*,*,true,*
@@ -34665,7 +34667,7 @@ KTW,CDG,zm.wego.com,airport,false,*,*,true,*
 IAS,DUB,zm.wego.com,airport,false,*,*,true,*
 YNB,HAS,zm.wego.com,airport,false,*,*,true,*
 HAS,SHW,zm.wego.com,airport,false,*,*,true,*
-BKK,,false,zm.wego.com,airport,false,*,*,true,*
+BKK,VNO,zm.wego.com,airport,false,*,*,true,*
 SAW,MZR,zm.wego.com,airport,false,*,*,true,*
 CGN,TRV,zm.wego.com,airport,false,*,*,true,*
 PMI,ACE,zm.wego.com,airport,false,*,*,true,*
@@ -34955,7 +34957,7 @@ TIF,MEL,zm.wego.com,airport,false,*,*,true,*
 COV,MLA,zm.wego.com,airport,false,*,*,true,*
 LGA,CUN,zm.wego.com,airport,false,*,*,true,*
 RDU,SFO,zm.wego.com,airport,false,*,*,true,*
-SVQ,falseC,zm.wego.com,airport,false,*,*,true,*
+SVQ,NOC,zm.wego.com,airport,false,*,*,true,*
 LIL,NAP,zm.wego.com,airport,false,*,*,true,*
 AGX,NAG,zm.wego.com,airport,false,*,*,true,*
 PSR,CMN,zm.wego.com,airport,false,*,*,true,*
@@ -35035,7 +35037,7 @@ TNG,EZE,zm.wego.com,airport,false,*,*,true,*
 AOR,ICN,zm.wego.com,airport,false,*,*,true,*
 SJU,LGA,zm.wego.com,airport,false,*,*,true,*
 OTP,VKO,zm.wego.com,airport,false,*,*,true,*
-DMM,,false,zm.wego.com,airport,false,*,*,true,*
+DMM,VNO,zm.wego.com,airport,false,*,*,true,*
 BNA,CDG,zm.wego.com,airport,false,*,*,true,*
 DAC,JHB,zm.wego.com,airport,false,*,*,true,*
 MUC,JFK,zm.wego.com,airport,false,*,*,true,*
@@ -35354,7 +35356,7 @@ CHQ,RAK,zm.wego.com,airport,false,*,*,true,*
 HKG,YYZ,zm.wego.com,airport,false,*,*,true,*
 BLR,YIA,zm.wego.com,airport,false,*,*,true,*
 CCU,BGW,zm.wego.com,airport,false,*,*,true,*
-,false,CIA,zm.wego.com,airport,false,*,*,true,*
+VNO,CIA,zm.wego.com,airport,false,*,*,true,*
 DMK,UTP,zm.wego.com,airport,false,*,*,true,*
 PHX,MCT,zm.wego.com,airport,false,*,*,true,*
 CLT,DSS,zm.wego.com,airport,false,*,*,true,*
@@ -35441,7 +35443,7 @@ KCH,HKT,zm.wego.com,airport,false,*,*,true,*
 BUR,ACV,zm.wego.com,airport,false,*,*,true,*
 EVN,AQJ,zm.wego.com,airport,false,*,*,true,*
 ADL,AMM,zm.wego.com,airport,false,*,*,true,*
-DJJ,,false,zm.wego.com,airport,false,*,*,true,*
+DJJ,KNO,zm.wego.com,airport,false,*,*,true,*
 TLV,KGS,zm.wego.com,airport,false,*,*,true,*
 HYD,LOS,zm.wego.com,airport,false,*,*,true,*
 BLR,BEG,zm.wego.com,airport,false,*,*,true,*
@@ -35529,7 +35531,7 @@ FUE,BER,zm.wego.com,airport,false,*,*,true,*
 VLL,ACE,zm.wego.com,airport,false,*,*,true,*
 ATQ,USM,zm.wego.com,airport,false,*,*,true,*
 ATQ,IAD,zm.wego.com,airport,false,*,*,true,*
-,false,BEY,zm.wego.com,airport,false,*,*,true,*
+VNO,BEY,zm.wego.com,airport,false,*,*,true,*
 FEZ,PHL,zm.wego.com,airport,false,*,*,true,*
 FNC,TLV,zm.wego.com,airport,false,*,*,true,*
 PNS,LAS,zm.wego.com,airport,false,*,*,true,*
@@ -35629,7 +35631,7 @@ SOQ,BPN,zm.wego.com,airport,false,*,*,true,*
 FAO,LTN,zm.wego.com,airport,false,*,*,true,*
 BLR,LUN,zm.wego.com,airport,false,*,*,true,*
 MAA,CEI,zm.wego.com,airport,false,*,*,true,*
-AGA,,false,zm.wego.com,airport,false,*,*,true,*
+AGA,VNO,zm.wego.com,airport,false,*,*,true,*
 DUB,SXR,zm.wego.com,airport,false,*,*,true,*
 EDI,MHD,zm.wego.com,airport,false,*,*,true,*
 JDH,NST,zm.wego.com,airport,false,*,*,true,*
@@ -35850,7 +35852,7 @@ DED,BIR,zm.wego.com,airport,false,*,*,true,*
 ISB,ORD,zm.wego.com,airport,false,*,*,true,*
 RDP,LHR,zm.wego.com,airport,false,*,*,true,*
 MEL,CNX,zm.wego.com,airport,false,*,*,true,*
-,false,BEJ,zm.wego.com,airport,false,*,*,true,*
+KNO,BEJ,zm.wego.com,airport,false,*,*,true,*
 IXE,HEL,zm.wego.com,airport,false,*,*,true,*
 CCJ,ISK,zm.wego.com,airport,false,*,*,true,*
 ZRH,PEW,zm.wego.com,airport,false,*,*,true,*
@@ -35914,7 +35916,7 @@ FLR,BRU,zm.wego.com,airport,false,*,*,true,*
 TTU,BSL,zm.wego.com,airport,false,*,*,true,*
 DUS,PZU,zm.wego.com,airport,false,*,*,true,*
 CRK,TUN,zm.wego.com,airport,false,*,*,true,*
-,false,YVR,zm.wego.com,airport,false,*,*,true,*
+RNO,YVR,zm.wego.com,airport,false,*,*,true,*
 TBS,PZU,zm.wego.com,airport,false,*,*,true,*
 HDY,LGK,zm.wego.com,airport,false,*,*,true,*
 VIE,MMX,zm.wego.com,airport,false,*,*,true,*
@@ -36020,7 +36022,7 @@ SUG,LHR,zm.wego.com,airport,false,*,*,true,*
 TPA,ISP,zm.wego.com,airport,false,*,*,true,*
 GAU,CDG,zm.wego.com,airport,false,*,*,true,*
 LIL,EBL,zm.wego.com,airport,false,*,*,true,*
-STN,falseS,zm.wego.com,airport,false,*,*,true,*
+STN,NOS,zm.wego.com,airport,false,*,*,true,*
 ATH,SOQ,zm.wego.com,airport,false,*,*,true,*
 TRZ,NKG,zm.wego.com,airport,false,*,*,true,*
 IXM,NKG,zm.wego.com,airport,false,*,*,true,*
@@ -36077,7 +36079,7 @@ SZG,DMM,zm.wego.com,airport,false,*,*,true,*
 FKB,GDN,zm.wego.com,airport,false,*,*,true,*
 MAD,SUF,zm.wego.com,airport,false,*,*,true,*
 CDG,TLL,zm.wego.com,airport,false,*,*,true,*
-,false,PQC,zm.wego.com,airport,false,*,*,true,*
+KNO,PQC,zm.wego.com,airport,false,*,*,true,*
 SNN,AMS,zm.wego.com,airport,false,*,*,true,*
 IKA,SVQ,zm.wego.com,airport,false,*,*,true,*
 LUX,MLA,zm.wego.com,airport,false,*,*,true,*
@@ -36169,7 +36171,7 @@ STV,HSR,zm.wego.com,airport,false,*,*,true,*
 AMM,MCI,zm.wego.com,airport,false,*,*,true,*
 OKA,ASU,zm.wego.com,airport,false,*,*,true,*
 KHI,HYD,zm.wego.com,airport,false,*,*,true,*
-RUH,,false,zm.wego.com,airport,false,*,*,true,*
+RUH,KNO,zm.wego.com,airport,false,*,*,true,*
 AHB,DMU,zm.wego.com,airport,false,*,*,true,*
 DMM,WLG,zm.wego.com,airport,false,*,*,true,*
 GOT,BRS,zm.wego.com,airport,false,*,*,true,*
@@ -36326,7 +36328,7 @@ CCJ,WAE,zm.wego.com,airport,false,*,*,true,*
 BGY,CHQ,zm.wego.com,airport,false,*,*,true,*
 PSA,MHD,zm.wego.com,airport,false,*,*,true,*
 HND,GRU,zm.wego.com,airport,false,*,*,true,*
-,false,RVN,zm.wego.com,airport,false,*,*,true,*
+VNO,RVN,zm.wego.com,airport,false,*,*,true,*
 ESB,MEL,zm.wego.com,airport,false,*,*,true,*
 AYT,CMB,zm.wego.com,airport,false,*,*,true,*
 MAD,SJJ,zm.wego.com,airport,false,*,*,true,*
@@ -36660,7 +36662,7 @@ BNE,FLN,zm.wego.com,airport,false,*,*,true,*
 PER,MRU,zm.wego.com,airport,false,*,*,true,*
 ECN,MMX,zm.wego.com,airport,false,*,*,true,*
 CGN,SXB,zm.wego.com,airport,false,*,*,true,*
-SCQ,falseC,zm.wego.com,airport,false,*,*,true,*
+SCQ,NOC,zm.wego.com,airport,false,*,*,true,*
 PLM,LOP,zm.wego.com,airport,false,*,*,true,*
 DUB,VLC,zm.wego.com,airport,false,*,*,true,*
 IXM,GIZ,zm.wego.com,airport,false,*,*,true,*
@@ -36845,7 +36847,7 @@ CRK,PHL,zm.wego.com,airport,false,*,*,true,*
 MED,DAD,zm.wego.com,airport,false,*,*,true,*
 CAI,RXS,zm.wego.com,airport,false,*,*,true,*
 PIK,CMN,zm.wego.com,airport,false,*,*,true,*
-BOM,,false,zm.wego.com,airport,false,*,*,true,*
+BOM,KNO,zm.wego.com,airport,false,*,*,true,*
 DED,CCJ,zm.wego.com,airport,false,*,*,true,*
 VNS,RDP,zm.wego.com,airport,false,*,*,true,*
 LKO,RQY,zm.wego.com,airport,false,*,*,true,*
@@ -36986,7 +36988,7 @@ MCT,GMP,zm.wego.com,airport,false,*,*,true,*
 KRK,SUB,zm.wego.com,airport,false,*,*,true,*
 HPH,HEL,zm.wego.com,airport,false,*,*,true,*
 JDH,IXU,zm.wego.com,airport,false,*,*,true,*
-ATL,,false,zm.wego.com,airport,false,*,*,true,*
+ATL,RNO,zm.wego.com,airport,false,*,*,true,*
 VTZ,ADL,zm.wego.com,airport,false,*,*,true,*
 CGK,MUX,zm.wego.com,airport,false,*,*,true,*
 ATH,LEJ,zm.wego.com,airport,false,*,*,true,*
@@ -37253,12 +37255,12 @@ IXC,AGR,zm.wego.com,airport,false,*,*,true,*
 IXZ,VGA,zm.wego.com,airport,false,*,*,true,*
 AGR,IXM,zm.wego.com,airport,false,*,*,true,*
 CJU,VVO,zm.wego.com,airport,false,*,*,true,*
-CMB,,false,zm.wego.com,airport,false,*,*,true,*
+CMB,VNO,zm.wego.com,airport,false,*,*,true,*
 RXS,TBS,zm.wego.com,airport,false,*,*,true,*
 JED,OUA,zm.wego.com,airport,false,*,*,true,*
 SFT,AMS,zm.wego.com,airport,false,*,*,true,*
 EWR,BER,zm.wego.com,airport,false,*,*,true,*
-,false,BOM,zm.wego.com,airport,false,*,*,true,*
+RNO,BOM,zm.wego.com,airport,false,*,*,true,*
 DWC,YVR,zm.wego.com,airport,false,*,*,true,*
 BCN,GOA,zm.wego.com,airport,false,*,*,true,*
 HKG,DMM,zm.wego.com,airport,false,*,*,true,*
@@ -37327,7 +37329,7 @@ ZRH,KTM,zm.wego.com,airport,false,*,*,true,*
 NKG,SWA,zm.wego.com,airport,false,*,*,true,*
 CAN,MKZ,zm.wego.com,airport,false,*,*,true,*
 ECN,ADD,zm.wego.com,airport,false,*,*,true,*
-,false,KHI,zm.wego.com,airport,false,*,*,true,*
+VNO,KHI,zm.wego.com,airport,false,*,*,true,*
 EWR,CPH,zm.wego.com,airport,false,*,*,true,*
 SFO,UBN,zm.wego.com,airport,false,*,*,true,*
 SDQ,MIA,zm.wego.com,airport,false,*,*,true,*
@@ -37413,7 +37415,7 @@ CJB,MAN,zm.wego.com,airport,false,*,*,true,*
 IXC,TBS,zm.wego.com,airport,false,*,*,true,*
 TRZ,ATQ,zm.wego.com,airport,false,*,*,true,*
 NGS,FSZ,zm.wego.com,airport,false,*,*,true,*
-KOS,,false,zm.wego.com,airport,false,*,*,true,*
+KOS,KNO,zm.wego.com,airport,false,*,*,true,*
 KCH,HGH,zm.wego.com,airport,false,*,*,true,*
 ISB,RAE,zm.wego.com,airport,false,*,*,true,*
 IAS,AMM,zm.wego.com,airport,false,*,*,true,*
@@ -37453,7 +37455,7 @@ AMS,LED,zm.wego.com,airport,false,*,*,true,*
 RHO,BKK,zm.wego.com,airport,false,*,*,true,*
 RMQ,URC,zm.wego.com,airport,false,*,*,true,*
 RUH,PBH,zm.wego.com,airport,false,*,*,true,*
-,false,COK,zm.wego.com,airport,false,*,*,true,*
+VNO,COK,zm.wego.com,airport,false,*,*,true,*
 OTP,HEL,zm.wego.com,airport,false,*,*,true,*
 STN,WIL,zm.wego.com,airport,false,*,*,true,*
 MSP,NBO,zm.wego.com,airport,false,*,*,true,*
@@ -37477,7 +37479,7 @@ DMK,RMQ,zm.wego.com,airport,false,*,*,true,*
 BVA,ZAZ,zm.wego.com,airport,false,*,*,true,*
 ISB,ORY,zm.wego.com,airport,false,*,*,true,*
 DEL,VLC,zm.wego.com,airport,false,*,*,true,*
-ARN,,false,zm.wego.com,airport,false,*,*,true,*
+ARN,VNO,zm.wego.com,airport,false,*,*,true,*
 VCE,TNG,zm.wego.com,airport,false,*,*,true,*
 RUH,NWI,zm.wego.com,airport,false,*,*,true,*
 BER,DPS,zm.wego.com,airport,false,*,*,true,*
@@ -37530,7 +37532,7 @@ MYY,PER,zm.wego.com,airport,false,*,*,true,*
 DOH,HDY,zm.wego.com,airport,false,*,*,true,*
 BUR,DTW,zm.wego.com,airport,false,*,*,true,*
 DUS,LRS,zm.wego.com,airport,false,*,*,true,*
-MAN,,false,zm.wego.com,airport,false,*,*,true,*
+MAN,VNO,zm.wego.com,airport,false,*,*,true,*
 LBA,WAW,zm.wego.com,airport,false,*,*,true,*
 PLW,BPN,zm.wego.com,airport,false,*,*,true,*
 CCU,MDL,zm.wego.com,airport,false,*,*,true,*
@@ -37557,7 +37559,7 @@ ORK,LGW,zm.wego.com,airport,false,*,*,true,*
 CMB,BSL,zm.wego.com,airport,false,*,*,true,*
 ICN,FDF,zm.wego.com,airport,false,*,*,true,*
 CVG,JED,zm.wego.com,airport,false,*,*,true,*
-,false,BOD,zm.wego.com,airport,false,*,*,true,*
+VNO,BOD,zm.wego.com,airport,false,*,*,true,*
 CAI,NRN,zm.wego.com,airport,false,*,*,true,*
 MCT,KGL,zm.wego.com,airport,false,*,*,true,*
 DXB,FMM,zm.wego.com,airport,false,*,*,true,*
@@ -37798,7 +37800,7 @@ TTU,CMN,zm.wego.com,airport,false,*,*,true,*
 STR,SPC,zm.wego.com,airport,false,*,*,true,*
 PHL,YWG,zm.wego.com,airport,false,*,*,true,*
 LAS,YBL,zm.wego.com,airport,false,*,*,true,*
-SYD,,false,zm.wego.com,airport,false,*,*,true,*
+SYD,VNO,zm.wego.com,airport,false,*,*,true,*
 IXB,GYD,zm.wego.com,airport,false,*,*,true,*
 BOM,ORY,zm.wego.com,airport,false,*,*,true,*
 DMM,JTR,zm.wego.com,airport,false,*,*,true,*
@@ -38061,7 +38063,7 @@ DBR,IST,zm.wego.com,airport,false,*,*,true,*
 DXB,LEJ,zm.wego.com,airport,false,*,*,true,*
 SZG,AHB,zm.wego.com,airport,false,*,*,true,*
 SOF,MQM,zm.wego.com,airport,false,*,*,true,*
-CAN,,false,zm.wego.com,airport,false,*,*,true,*
+CAN,KNO,zm.wego.com,airport,false,*,*,true,*
 NUE,MAD,zm.wego.com,airport,false,*,*,true,*
 AGP,SJJ,zm.wego.com,airport,false,*,*,true,*
 SOQ,PNK,zm.wego.com,airport,false,*,*,true,*
@@ -38179,7 +38181,7 @@ SDR,CAI,zm.wego.com,airport,false,*,*,true,*
 ADD,PVG,zm.wego.com,airport,false,*,*,true,*
 CDG,PDV,zm.wego.com,airport,false,*,*,true,*
 LTN,CND,zm.wego.com,airport,false,*,*,true,*
-,false,DAC,zm.wego.com,airport,false,*,*,true,*
+KNO,DAC,zm.wego.com,airport,false,*,*,true,*
 DEL,ACC,zm.wego.com,airport,false,*,*,true,*
 VTZ,TUU,zm.wego.com,airport,false,*,*,true,*
 AMM,INI,zm.wego.com,airport,false,*,*,true,*
@@ -38281,7 +38283,7 @@ BAH,RTM,zm.wego.com,airport,false,*,*,true,*
 YYZ,PIT,zm.wego.com,airport,false,*,*,true,*
 SCQ,PSA,zm.wego.com,airport,false,*,*,true,*
 LDE,OTP,zm.wego.com,airport,false,*,*,true,*
-STN,,false,zm.wego.com,airport,false,*,*,true,*
+STN,VNO,zm.wego.com,airport,false,*,*,true,*
 HER,BEY,zm.wego.com,airport,false,*,*,true,*
 HBX,MLE,zm.wego.com,airport,false,*,*,true,*
 CCJ,TWU,zm.wego.com,airport,false,*,*,true,*
@@ -38461,7 +38463,7 @@ HAN,JHB,zm.wego.com,airport,false,*,*,true,*
 CDG,CIY,zm.wego.com,airport,false,*,*,true,*
 ZAG,GYD,zm.wego.com,airport,false,*,*,true,*
 BAH,TAC,zm.wego.com,airport,false,*,*,true,*
-GAU,,false,zm.wego.com,airport,false,*,*,true,*
+GAU,KNO,zm.wego.com,airport,false,*,*,true,*
 SXR,DUB,zm.wego.com,airport,false,*,*,true,*
 AMD,BGW,zm.wego.com,airport,false,*,*,true,*
 MAA,UKA,zm.wego.com,airport,false,*,*,true,*
@@ -38956,7 +38958,7 @@ VST,TUN,zm.wego.com,airport,false,*,*,true,*
 AUH,ULH,zm.wego.com,airport,false,*,*,true,*
 PAD,AMM,zm.wego.com,airport,false,*,*,true,*
 TLL,BER,zm.wego.com,airport,false,*,*,true,*
-,false,ALA,zm.wego.com,airport,false,*,*,true,*
+KNO,ALA,zm.wego.com,airport,false,*,*,true,*
 AYJ,IXD,zm.wego.com,airport,false,*,*,true,*
 RAK,ESB,zm.wego.com,airport,false,*,*,true,*
 KRK,AQJ,zm.wego.com,airport,false,*,*,true,*
@@ -39189,7 +39191,7 @@ KRK,COV,zm.wego.com,airport,false,*,*,true,*
 HKT,BBI,zm.wego.com,airport,false,*,*,true,*
 TPA,YYZ,zm.wego.com,airport,false,*,*,true,*
 LAX,ZRH,zm.wego.com,airport,false,*,*,true,*
-,false,LGW,zm.wego.com,airport,false,*,*,true,*
+RNO,LGW,zm.wego.com,airport,false,*,*,true,*
 AJF,MCT,zm.wego.com,airport,false,*,*,true,*
 FNC,MXP,zm.wego.com,airport,false,*,*,true,*
 BLR,LIS,zm.wego.com,airport,false,*,*,true,*
@@ -39220,7 +39222,7 @@ HEL,NJF,zm.wego.com,airport,false,*,*,true,*
 ORY,YHM,zm.wego.com,airport,false,*,*,true,*
 MRS,TKU,zm.wego.com,airport,false,*,*,true,*
 MAN,WRO,zm.wego.com,airport,false,*,*,true,*
-,false,PNH,zm.wego.com,airport,false,*,*,true,*
+KNO,PNH,zm.wego.com,airport,false,*,*,true,*
 GOI,BSL,zm.wego.com,airport,false,*,*,true,*
 BOM,PRN,zm.wego.com,airport,false,*,*,true,*
 IKA,BHX,zm.wego.com,airport,false,*,*,true,*
@@ -39292,12 +39294,12 @@ SKP,IST,zm.wego.com,airport,false,*,*,true,*
 TIF,DAM,zm.wego.com,airport,false,*,*,true,*
 MQM,RAK,zm.wego.com,airport,false,*,*,true,*
 TAS,AJF,zm.wego.com,airport,false,*,*,true,*
-,false,ARN,zm.wego.com,airport,false,*,*,true,*
+VNO,ARN,zm.wego.com,airport,false,*,*,true,*
 LHE,EWR,zm.wego.com,airport,false,*,*,true,*
 MSR,KTM,zm.wego.com,airport,false,*,*,true,*
 BLL,ALC,zm.wego.com,airport,false,*,*,true,*
 IXR,SVO,zm.wego.com,airport,false,*,*,true,*
-,false,JHB,zm.wego.com,airport,false,*,*,true,*
+KNO,JHB,zm.wego.com,airport,false,*,*,true,*
 AGP,DMU,zm.wego.com,airport,false,*,*,true,*
 ECN,AMD,zm.wego.com,airport,false,*,*,true,*
 BNA,AMS,zm.wego.com,airport,false,*,*,true,*
@@ -39413,7 +39415,7 @@ TRV,BDQ,zm.wego.com,airport,false,*,*,true,*
 JDH,RDP,zm.wego.com,airport,false,*,*,true,*
 GIZ,YNT,zm.wego.com,airport,false,*,*,true,*
 BKK,PHX,zm.wego.com,airport,false,*,*,true,*
-,false,MIA,zm.wego.com,airport,false,*,*,true,*
+RNO,MIA,zm.wego.com,airport,false,*,*,true,*
 HAN,VNS,zm.wego.com,airport,false,*,*,true,*
 NKG,SUB,zm.wego.com,airport,false,*,*,true,*
 PRG,MJT,zm.wego.com,airport,false,*,*,true,*
@@ -39560,7 +39562,8 @@ BLQ,COO,zm.wego.com,airport,false,*,*,true,*
 SSH,KZO,zm.wego.com,airport,false,*,*,true,*
 HBE,CUZ,zm.wego.com,airport,false,*,*,true,*
 LHR,CRL,zm.wego.com,airport,false,*,*,true,*
-RPR,GAY,zm.wego.com,airport,false,*,*,true,*,falseC,GOT,zm.wego.com,airport,false,*,*,true,*
+RPR,GAY,zm.wego.com,airport,false,*,*,true,*
+NOC,GOT,zm.wego.com,airport,false,*,*,true,*
 SPX,IKA,zm.wego.com,airport,false,*,*,true,*
 STR,EIN,zm.wego.com,airport,false,*,*,true,*
 BCN,TLV,zm.wego.com,airport,false,*,*,true,*
@@ -39606,7 +39609,7 @@ LKO,LAS,zm.wego.com,airport,false,*,*,true,*
 BSR,SVO,zm.wego.com,airport,false,*,*,true,*
 BGW,MSO,zm.wego.com,airport,false,*,*,true,*
 NAP,UET,zm.wego.com,airport,false,*,*,true,*
-,false,VLC,zm.wego.com,airport,false,*,*,true,*
+VNO,VLC,zm.wego.com,airport,false,*,*,true,*
 RBA,HAS,zm.wego.com,airport,false,*,*,true,*
 BKK,IXL,zm.wego.com,airport,false,*,*,true,*
 KHH,BNE,zm.wego.com,airport,false,*,*,true,*
@@ -39674,7 +39677,7 @@ NBE,RAK,zm.wego.com,airport,false,*,*,true,*
 FKB,TFN,zm.wego.com,airport,false,*,*,true,*
 DTM,LOS,zm.wego.com,airport,false,*,*,true,*
 STN,MSQ,zm.wego.com,airport,false,*,*,true,*
-HND,,false,zm.wego.com,airport,false,*,*,true,*
+HND,KNO,zm.wego.com,airport,false,*,*,true,*
 MAD,AGP,zm.wego.com,airport,false,*,*,true,*
 BHD,VIE,zm.wego.com,airport,false,*,*,true,*
 TPA,DCA,zm.wego.com,airport,false,*,*,true,*
@@ -39722,7 +39725,7 @@ MIA,IST,zm.wego.com,airport,false,*,*,true,*
 YEG,MNL,zm.wego.com,airport,false,*,*,true,*
 BRI,CGN,zm.wego.com,airport,false,*,*,true,*
 GLA,HRE,zm.wego.com,airport,false,*,*,true,*
-KTW,,false,zm.wego.com,airport,false,*,*,true,*
+KTW,VNO,zm.wego.com,airport,false,*,*,true,*
 PPS,HKG,zm.wego.com,airport,false,*,*,true,*
 RUH,VAR,zm.wego.com,airport,false,*,*,true,*
 BHX,PEK,zm.wego.com,airport,false,*,*,true,*
@@ -39786,7 +39789,7 @@ ATH,TNG,zm.wego.com,airport,false,*,*,true,*
 LOP,VNS,zm.wego.com,airport,false,*,*,true,*
 IXU,AGR,zm.wego.com,airport,false,*,*,true,*
 VTZ,JFK,zm.wego.com,airport,false,*,*,true,*
-TNG,,false,zm.wego.com,airport,false,*,*,true,*
+TNG,VNO,zm.wego.com,airport,false,*,*,true,*
 RTM,LHE,zm.wego.com,airport,false,*,*,true,*
 SLL,LTN,zm.wego.com,airport,false,*,*,true,*
 GIZ,KEP,zm.wego.com,airport,false,*,*,true,*
@@ -39805,7 +39808,8 @@ BUR,SAT,zm.wego.com,airport,false,*,*,true,*
 ZRH,UET,zm.wego.com,airport,false,*,*,true,*
 DTM,TBS,zm.wego.com,airport,false,*,*,true,*
 MAN,LYP,zm.wego.com,airport,false,*,*,true,*
-MDC,BDJ,zm.wego.com,airport,false,*,*,true,*,falseC,BER,zm.wego.com,airport,false,*,*,true,*
+MDC,BDJ,zm.wego.com,airport,false,*,*,true,*
+NOC,BER,zm.wego.com,airport,false,*,*,true,*
 AMD,LCY,zm.wego.com,airport,false,*,*,true,*
 JAI,PZU,zm.wego.com,airport,false,*,*,true,*
 GOP,KBV,zm.wego.com,airport,false,*,*,true,*
@@ -39861,7 +39865,8 @@ WAW,GRX,zm.wego.com,airport,false,*,*,true,*
 MED,ABJ,zm.wego.com,airport,false,*,*,true,*
 SHJ,XRY,zm.wego.com,airport,false,*,*,true,*
 STN,FNC,zm.wego.com,airport,false,*,*,true,*
-ATH,DLM,zm.wego.com,airport,false,*,*,true,*,falseC,LTN,zm.wego.com,airport,false,*,*,true,*
+ATH,DLM,zm.wego.com,airport,false,*,*,true,*
+NOC,LTN,zm.wego.com,airport,false,*,*,true,*
 NAG,GWL,zm.wego.com,airport,false,*,*,true,*
 RQY,AGR,zm.wego.com,airport,false,*,*,true,*
 SAI,GAU,zm.wego.com,airport,false,*,*,true,*
@@ -39997,7 +40002,8 @@ PRG,ALG,zm.wego.com,airport,false,*,*,true,*
 BRE,OPO,zm.wego.com,airport,false,*,*,true,*
 SVQ,ILD,zm.wego.com,airport,false,*,*,true,*
 SMI,CHQ,zm.wego.com,airport,false,*,*,true,*
-GUA,LGA,zm.wego.com,airport,false,*,*,true,*,falseC,FAO,zm.wego.com,airport,false,*,*,true,*
+GUA,LGA,zm.wego.com,airport,false,*,*,true,*
+NOC,FAO,zm.wego.com,airport,false,*,*,true,*
 ATQ,KHH,zm.wego.com,airport,false,*,*,true,*
 CMN,SKP,zm.wego.com,airport,false,*,*,true,*
 KCH,HIR,zm.wego.com,airport,false,*,*,true,*
@@ -40199,7 +40205,7 @@ DAC,JNB,zm.wego.com,airport,false,*,*,true,*
 TIA,VKO,zm.wego.com,airport,false,*,*,true,*
 HSR,BGW,zm.wego.com,airport,false,*,*,true,*
 PAT,DMK,zm.wego.com,airport,false,*,*,true,*
-,false,LAS,zm.wego.com,airport,false,*,*,true,*
+RNO,LAS,zm.wego.com,airport,false,*,*,true,*
 SJU,ACY,zm.wego.com,airport,false,*,*,true,*
 CRL,GLA,zm.wego.com,airport,false,*,*,true,*
 CMB,YUL,zm.wego.com,airport,false,*,*,true,*
@@ -40279,7 +40285,7 @@ HRG,BEY,zm.wego.com,airport,false,*,*,true,*
 HEL,LYS,zm.wego.com,airport,false,*,*,true,*
 MAN,AQJ,zm.wego.com,airport,false,*,*,true,*
 ATH,ASM,zm.wego.com,airport,false,*,*,true,*
-,false,MLG,zm.wego.com,airport,false,*,*,true,*
+KNO,MLG,zm.wego.com,airport,false,*,*,true,*
 DJB,KUL,zm.wego.com,airport,false,*,*,true,*
 TCR,GOI,zm.wego.com,airport,false,*,*,true,*
 CCU,IAH,zm.wego.com,airport,false,*,*,true,*
@@ -40469,7 +40475,7 @@ BEG,NBO,zm.wego.com,airport,false,*,*,true,*
 KHH,HNL,zm.wego.com,airport,false,*,*,true,*
 DXB,VDH,zm.wego.com,airport,false,*,*,true,*
 HAM,TRV,zm.wego.com,airport,false,*,*,true,*
-MAD,,false,zm.wego.com,airport,false,*,*,true,*
+MAD,VNO,zm.wego.com,airport,false,*,*,true,*
 BOD,SAW,zm.wego.com,airport,false,*,*,true,*
 TBS,SHW,zm.wego.com,airport,false,*,*,true,*
 PGK,BTH,zm.wego.com,airport,false,*,*,true,*
@@ -40633,7 +40639,7 @@ IXU,CCJ,zm.wego.com,airport,false,*,*,true,*
 BOM,VDO,zm.wego.com,airport,false,*,*,true,*
 LBA,RAK,zm.wego.com,airport,false,*,*,true,*
 AMD,DLC,zm.wego.com,airport,false,*,*,true,*
-,false,YYZ,zm.wego.com,airport,false,*,*,true,*
+KNO,YYZ,zm.wego.com,airport,false,*,*,true,*
 BOD,DUB,zm.wego.com,airport,false,*,*,true,*
 BRS,MCT,zm.wego.com,airport,false,*,*,true,*
 SAW,RVN,zm.wego.com,airport,false,*,*,true,*
@@ -40929,7 +40935,7 @@ WAW,SCQ,zm.wego.com,airport,false,*,*,true,*
 GDN,ZAD,zm.wego.com,airport,false,*,*,true,*
 DWC,ABT,zm.wego.com,airport,false,*,*,true,*
 ORN,HKG,zm.wego.com,airport,false,*,*,true,*
-LOP,,false,zm.wego.com,airport,false,*,*,true,*
+LOP,KNO,zm.wego.com,airport,false,*,*,true,*
 AGR,IXD,zm.wego.com,airport,false,*,*,true,*
 BSR,RUH,zm.wego.com,airport,false,*,*,true,*
 KIN,LAS,zm.wego.com,airport,false,*,*,true,*
@@ -41018,7 +41024,7 @@ ORY,ZRH,zm.wego.com,airport,false,*,*,true,*
 BLR,TGD,zm.wego.com,airport,false,*,*,true,*
 MLA,HAN,zm.wego.com,airport,false,*,*,true,*
 VIE,MUX,zm.wego.com,airport,false,*,*,true,*
-,false,SAW,zm.wego.com,airport,false,*,*,true,*
+VNO,SAW,zm.wego.com,airport,false,*,*,true,*
 SLC,PHL,zm.wego.com,airport,false,*,*,true,*
 BAH,RVN,zm.wego.com,airport,false,*,*,true,*
 BAH,TAS,zm.wego.com,airport,false,*,*,true,*
@@ -41120,7 +41126,7 @@ CMB,MLE,zm.wego.com,airport,false,*,*,true,*
 WAW,HAN,zm.wego.com,airport,false,*,*,true,*
 LED,TUN,zm.wego.com,airport,false,*,*,true,*
 AUS,BGW,zm.wego.com,airport,false,*,*,true,*
-,false,EWR,zm.wego.com,airport,false,*,*,true,*
+RNO,EWR,zm.wego.com,airport,false,*,*,true,*
 IBZ,TNG,zm.wego.com,airport,false,*,*,true,*
 BUD,HEL,zm.wego.com,airport,false,*,*,true,*
 IDR,DMU,zm.wego.com,airport,false,*,*,true,*
@@ -41253,7 +41259,7 @@ SYD,PKX,zm.wego.com,airport,false,*,*,true,*
 FKB,SKG,zm.wego.com,airport,false,*,*,true,*
 JSA,BBI,zm.wego.com,airport,false,*,*,true,*
 ALC,KIR,zm.wego.com,airport,false,*,*,true,*
-,false,SAW,zm.wego.com,airport,false,*,*,true,*
+KNO,SAW,zm.wego.com,airport,false,*,*,true,*
 AGX,BOM,zm.wego.com,airport,false,*,*,true,*
 BEY,CUR,zm.wego.com,airport,false,*,*,true,*
 CHC,EZE,zm.wego.com,airport,false,*,*,true,*
@@ -41371,10 +41377,11 @@ KLH,VGA,zm.wego.com,airport,false,*,*,true,*
 LUX,RAK,zm.wego.com,airport,false,*,*,true,*
 WAW,CCU,zm.wego.com,airport,false,*,*,true,*
 OTP,DBV,zm.wego.com,airport,false,*,*,true,*
-GIZ,DBB,zm.wego.com,airport,false,*,*,true,*,falseP,SAW,zm.wego.com,airport,false,*,*,true,*
+GIZ,DBB,zm.wego.com,airport,false,*,*,true,*
+NOP,SAW,zm.wego.com,airport,false,*,*,true,*
 OKC,AMM,zm.wego.com,airport,false,*,*,true,*
 SAT,TPA,zm.wego.com,airport,false,*,*,true,*
-MEL,,false,zm.wego.com,airport,false,*,*,true,*
+MEL,KNO,zm.wego.com,airport,false,*,*,true,*
 CRL,CEB,zm.wego.com,airport,false,*,*,true,*
 CGN,DJE,zm.wego.com,airport,false,*,*,true,*
 EMA,DUS,zm.wego.com,airport,false,*,*,true,*
@@ -41545,7 +41552,7 @@ NTE,TFN,zm.wego.com,airport,false,*,*,true,*
 AGA,LEJ,zm.wego.com,airport,false,*,*,true,*
 HYD,MCX,zm.wego.com,airport,false,*,*,true,*
 KLO,TAG,zm.wego.com,airport,false,*,*,true,*
-SOQ,,false,zm.wego.com,airport,false,*,*,true,*
+SOQ,KNO,zm.wego.com,airport,false,*,*,true,*
 BJV,SSH,zm.wego.com,airport,false,*,*,true,*
 LGW,DFW,zm.wego.com,airport,false,*,*,true,*
 AUH,SHA,zm.wego.com,airport,false,*,*,true,*
@@ -41676,7 +41683,7 @@ CGP,HAS,zm.wego.com,airport,false,*,*,true,*
 RAR,CGK,zm.wego.com,airport,false,*,*,true,*
 ALG,KRK,zm.wego.com,airport,false,*,*,true,*
 LTN,BGY,zm.wego.com,airport,false,*,*,true,*
-LBJ,,false,zm.wego.com,airport,false,*,*,true,*
+LBJ,KNO,zm.wego.com,airport,false,*,*,true,*
 MDC,CNX,zm.wego.com,airport,false,*,*,true,*
 VNS,MNL,zm.wego.com,airport,false,*,*,true,*
 EBL,CZL,zm.wego.com,airport,false,*,*,true,*
@@ -41704,7 +41711,7 @@ GOI,SAG,zm.wego.com,airport,false,*,*,true,*
 STV,RQY,zm.wego.com,airport,false,*,*,true,*
 DGH,DMK,zm.wego.com,airport,false,*,*,true,*
 KUL,GUM,zm.wego.com,airport,false,*,*,true,*
-KTM,,false,zm.wego.com,airport,false,*,*,true,*
+KTM,VNO,zm.wego.com,airport,false,*,*,true,*
 BEG,SIN,zm.wego.com,airport,false,*,*,true,*
 RUH,CUZ,zm.wego.com,airport,false,*,*,true,*
 TIF,KGL,zm.wego.com,airport,false,*,*,true,*
@@ -41781,7 +41788,7 @@ NAP,NCE,zm.wego.com,airport,false,*,*,true,*
 OSL,BOJ,zm.wego.com,airport,false,*,*,true,*
 GES,CAN,zm.wego.com,airport,false,*,*,true,*
 DOH,TEQ,zm.wego.com,airport,false,*,*,true,*
-MED,,false,zm.wego.com,airport,false,*,*,true,*
+MED,VNO,zm.wego.com,airport,false,*,*,true,*
 NBE,CZL,zm.wego.com,airport,false,*,*,true,*
 EDI,ALC,zm.wego.com,airport,false,*,*,true,*
 ZAG,VLC,zm.wego.com,airport,false,*,*,true,*
@@ -41834,7 +41841,7 @@ BBI,MEL,zm.wego.com,airport,false,*,*,true,*
 NCE,AUH,zm.wego.com,airport,false,*,*,true,*
 DEL,VHM,zm.wego.com,airport,false,*,*,true,*
 DXB,VRN,zm.wego.com,airport,false,*,*,true,*
-HAN,,false,zm.wego.com,airport,false,*,*,true,*
+HAN,KNO,zm.wego.com,airport,false,*,*,true,*
 HRG,CKY,zm.wego.com,airport,false,*,*,true,*
 SLL,ICN,zm.wego.com,airport,false,*,*,true,*
 KTM,BTS,zm.wego.com,airport,false,*,*,true,*
@@ -41843,7 +41850,7 @@ GRZ,BEY,zm.wego.com,airport,false,*,*,true,*
 YNJ,TPE,zm.wego.com,airport,false,*,*,true,*
 BER,OUD,zm.wego.com,airport,false,*,*,true,*
 TKU,ALG,zm.wego.com,airport,false,*,*,true,*
-KUT,,false,zm.wego.com,airport,false,*,*,true,*
+KUT,VNO,zm.wego.com,airport,false,*,*,true,*
 IXB,IXG,zm.wego.com,airport,false,*,*,true,*
 FCO,YVR,zm.wego.com,airport,false,*,*,true,*
 AGA,HAN,zm.wego.com,airport,false,*,*,true,*
@@ -41894,7 +41901,7 @@ TIF,FRA,zm.wego.com,airport,false,*,*,true,*
 TIF,MLE,zm.wego.com,airport,false,*,*,true,*
 BKK,HAV,zm.wego.com,airport,false,*,*,true,*
 FKB,BIO,zm.wego.com,airport,false,*,*,true,*
-,false,KBU,zm.wego.com,airport,false,*,*,true,*
+KNO,KBU,zm.wego.com,airport,false,*,*,true,*
 DUB,RAI,zm.wego.com,airport,false,*,*,true,*
 VNS,IXD,zm.wego.com,airport,false,*,*,true,*
 NAG,AUS,zm.wego.com,airport,false,*,*,true,*
@@ -41963,7 +41970,7 @@ CLJ,AYT,zm.wego.com,airport,false,*,*,true,*
 MCO,MBJ,zm.wego.com,airport,false,*,*,true,*
 DHM,AMD,zm.wego.com,airport,false,*,*,true,*
 MAN,LED,zm.wego.com,airport,false,*,*,true,*
-,false,CAI,zm.wego.com,airport,false,*,*,true,*
+KNO,CAI,zm.wego.com,airport,false,*,*,true,*
 GAY,DAC,zm.wego.com,airport,false,*,*,true,*
 LKO,TUI,zm.wego.com,airport,false,*,*,true,*
 PUS,TSA,zm.wego.com,airport,false,*,*,true,*
@@ -42086,7 +42093,7 @@ RUH,YTZ,zm.wego.com,airport,false,*,*,true,*
 TIF,KLO,zm.wego.com,airport,false,*,*,true,*
 ATH,JIB,zm.wego.com,airport,false,*,*,true,*
 PMO,HAM,zm.wego.com,airport,false,*,*,true,*
-,false,JAI,zm.wego.com,airport,false,*,*,true,*
+VNO,JAI,zm.wego.com,airport,false,*,*,true,*
 AMS,SFA,zm.wego.com,airport,false,*,*,true,*
 RUH,RBR,zm.wego.com,airport,false,*,*,true,*
 TUN,BLQ,zm.wego.com,airport,false,*,*,true,*
@@ -42215,7 +42222,7 @@ GOT,ORK,zm.wego.com,airport,false,*,*,true,*
 PDX,LHR,zm.wego.com,airport,false,*,*,true,*
 MCO,GOI,zm.wego.com,airport,false,*,*,true,*
 PHL,SAN,zm.wego.com,airport,false,*,*,true,*
-EWR,,false,zm.wego.com,airport,false,*,*,true,*
+EWR,RNO,zm.wego.com,airport,false,*,*,true,*
 PRN,CMB,zm.wego.com,airport,false,*,*,true,*
 TLL,JED,zm.wego.com,airport,false,*,*,true,*
 SVQ,SPX,zm.wego.com,airport,false,*,*,true,*
@@ -42246,7 +42253,7 @@ DRP,BXU,zm.wego.com,airport,false,*,*,true,*
 GOT,PRG,zm.wego.com,airport,false,*,*,true,*
 DMK,RSU,zm.wego.com,airport,false,*,*,true,*
 VAS,BGW,zm.wego.com,airport,false,*,*,true,*
-GZP,,false,zm.wego.com,airport,false,*,*,true,*
+GZP,VNO,zm.wego.com,airport,false,*,*,true,*
 BPN,CRK,zm.wego.com,airport,false,*,*,true,*
 PHX,CLT,zm.wego.com,airport,false,*,*,true,*
 HKG,VVO,zm.wego.com,airport,false,*,*,true,*
@@ -42267,7 +42274,7 @@ IXR,DMK,zm.wego.com,airport,false,*,*,true,*
 SYZ,JAI,zm.wego.com,airport,false,*,*,true,*
 KIX,NAN,zm.wego.com,airport,false,*,*,true,*
 KIX,AKL,zm.wego.com,airport,false,*,*,true,*
-PNH,,false,zm.wego.com,airport,false,*,*,true,*
+PNH,KNO,zm.wego.com,airport,false,*,*,true,*
 CJJ,DYG,zm.wego.com,airport,false,*,*,true,*
 AGA,WRO,zm.wego.com,airport,false,*,*,true,*
 RTM,DOH,zm.wego.com,airport,false,*,*,true,*
@@ -42448,7 +42455,7 @@ KUL,PNI,zm.wego.com,airport,false,*,*,true,*
 SRG,SOQ,zm.wego.com,airport,false,*,*,true,*
 BHX,AGA,zm.wego.com,airport,false,*,*,true,*
 DAD,IAD,zm.wego.com,airport,false,*,*,true,*
-,false,TRZ,zm.wego.com,airport,false,*,*,true,*
+KNO,TRZ,zm.wego.com,airport,false,*,*,true,*
 PAT,ICN,zm.wego.com,airport,false,*,*,true,*
 PQC,MAA,zm.wego.com,airport,false,*,*,true,*
 POZ,AUH,zm.wego.com,airport,false,*,*,true,*
@@ -42604,7 +42611,7 @@ VCA,HUI,zm.wego.com,airport,false,*,*,true,*
 DAC,RAH,zm.wego.com,airport,false,*,*,true,*
 BRQ,MYR,zm.wego.com,airport,false,*,*,true,*
 NTE,MED,zm.wego.com,airport,false,*,*,true,*
-,false,SGN,zm.wego.com,airport,false,*,*,true,*
+KNO,SGN,zm.wego.com,airport,false,*,*,true,*
 IDR,PNY,zm.wego.com,airport,false,*,*,true,*
 NRT,UEO,zm.wego.com,airport,false,*,*,true,*
 CMN,CAN,zm.wego.com,airport,false,*,*,true,*
@@ -42631,7 +42638,7 @@ FDH,AMM,zm.wego.com,airport,false,*,*,true,*
 MAN,PDV,zm.wego.com,airport,false,*,*,true,*
 EDI,IAD,zm.wego.com,airport,false,*,*,true,*
 JTR,NUE,zm.wego.com,airport,false,*,*,true,*
-,false,PKY,zm.wego.com,airport,false,*,*,true,*
+KNO,PKY,zm.wego.com,airport,false,*,*,true,*
 GOX,DPS,zm.wego.com,airport,false,*,*,true,*
 MLE,SAW,zm.wego.com,airport,false,*,*,true,*
 VKO,MIR,zm.wego.com,airport,false,*,*,true,*
@@ -42665,7 +42672,7 @@ LGW,GCI,zm.wego.com,airport,false,*,*,true,*
 LGW,ICN,zm.wego.com,airport,false,*,*,true,*
 ZAG,SSH,zm.wego.com,airport,false,*,*,true,*
 PLM,JED,zm.wego.com,airport,false,*,*,true,*
-,false,AMM,zm.wego.com,airport,false,*,*,true,*
+VNO,AMM,zm.wego.com,airport,false,*,*,true,*
 MLA,LEI,zm.wego.com,airport,false,*,*,true,*
 MRU,KUL,zm.wego.com,airport,false,*,*,true,*
 TUU,BUS,zm.wego.com,airport,false,*,*,true,*
@@ -42726,7 +42733,7 @@ IXZ,VVO,zm.wego.com,airport,false,*,*,true,*
 BOM,VDH,zm.wego.com,airport,false,*,*,true,*
 VRN,AMS,zm.wego.com,airport,false,*,*,true,*
 AMM,IGU,zm.wego.com,airport,false,*,*,true,*
-VKO,,false,zm.wego.com,airport,false,*,*,true,*
+VKO,VNO,zm.wego.com,airport,false,*,*,true,*
 LAX,TPE,zm.wego.com,airport,false,*,*,true,*
 CPH,ZRH,zm.wego.com,airport,false,*,*,true,*
 KOS,BKI,zm.wego.com,airport,false,*,*,true,*
@@ -42782,9 +42789,9 @@ TUU,LEB,zm.wego.com,airport,false,*,*,true,*
 ADB,NAV,zm.wego.com,airport,false,*,*,true,*
 BRU,JKL,zm.wego.com,airport,false,*,*,true,*
 FRA,SPN,zm.wego.com,airport,false,*,*,true,*
-LTN,falseC,zm.wego.com,airport,false,*,*,true,*
+LTN,NOC,zm.wego.com,airport,false,*,*,true,*
 PIK,RAK,zm.wego.com,airport,false,*,*,true,*
-DUB,,false,zm.wego.com,airport,false,*,*,true,*
+DUB,VNO,zm.wego.com,airport,false,*,*,true,*
 AMD,BIR,zm.wego.com,airport,false,*,*,true,*
 HAS,MLE,zm.wego.com,airport,false,*,*,true,*
 SAW,LBA,zm.wego.com,airport,false,*,*,true,*
@@ -42822,7 +42829,7 @@ HKG,BEG,zm.wego.com,airport,false,*,*,true,*
 CNS,ADL,zm.wego.com,airport,false,*,*,true,*
 CAI,PVG,zm.wego.com,airport,false,*,*,true,*
 ATH,BUS,zm.wego.com,airport,false,*,*,true,*
-,false,DME,zm.wego.com,airport,false,*,*,true,*
+KNO,DME,zm.wego.com,airport,false,*,*,true,*
 MAA,BTH,zm.wego.com,airport,false,*,*,true,*
 KEF,DUB,zm.wego.com,airport,false,*,*,true,*
 KOS,DAC,zm.wego.com,airport,false,*,*,true,*
@@ -42869,7 +42876,7 @@ LST,BNE,zm.wego.com,airport,false,*,*,true,*
 CPH,ORK,zm.wego.com,airport,false,*,*,true,*
 SUB,KBL,zm.wego.com,airport,false,*,*,true,*
 BGW,VCE,zm.wego.com,airport,false,*,*,true,*
-,false,GRU,zm.wego.com,airport,false,*,*,true,*
+VNO,GRU,zm.wego.com,airport,false,*,*,true,*
 MNL,IXE,zm.wego.com,airport,false,*,*,true,*
 BBU,MAD,zm.wego.com,airport,false,*,*,true,*
 VKO,KWI,zm.wego.com,airport,false,*,*,true,*
@@ -43058,7 +43065,7 @@ DXB,MDL,zm.wego.com,airport,false,*,*,true,*
 CGK,BEG,zm.wego.com,airport,false,*,*,true,*
 KSC,LPA,zm.wego.com,airport,false,*,*,true,*
 DUS,ZNZ,zm.wego.com,airport,false,*,*,true,*
-,false,BIO,zm.wego.com,airport,false,*,*,true,*
+VNO,BIO,zm.wego.com,airport,false,*,*,true,*
 DEN,KUL,zm.wego.com,airport,false,*,*,true,*
 OVD,GRX,zm.wego.com,airport,false,*,*,true,*
 CMB,BOS,zm.wego.com,airport,false,*,*,true,*
@@ -43144,7 +43151,7 @@ RIX,GOT,zm.wego.com,airport,false,*,*,true,*
 TKU,DXB,zm.wego.com,airport,false,*,*,true,*
 KUT,POZ,zm.wego.com,airport,false,*,*,true,*
 BUD,BIO,zm.wego.com,airport,false,*,*,true,*
-CCJ,,false,zm.wego.com,airport,false,*,*,true,*
+CCJ,KNO,zm.wego.com,airport,false,*,*,true,*
 MBT,ILO,zm.wego.com,airport,false,*,*,true,*
 MSP,IAD,zm.wego.com,airport,false,*,*,true,*
 NCE,KUT,zm.wego.com,airport,false,*,*,true,*
@@ -43310,7 +43317,7 @@ MCT,SEA,zm.wego.com,airport,false,*,*,true,*
 ISB,DMK,zm.wego.com,airport,false,*,*,true,*
 AJF,SJJ,zm.wego.com,airport,false,*,*,true,*
 JED,DIN,zm.wego.com,airport,false,*,*,true,*
-HKT,,false,zm.wego.com,airport,false,*,*,true,*
+HKT,KNO,zm.wego.com,airport,false,*,*,true,*
 NBO,TRZ,zm.wego.com,airport,false,*,*,true,*
 DAC,SLC,zm.wego.com,airport,false,*,*,true,*
 WLG,TRV,zm.wego.com,airport,false,*,*,true,*
@@ -43351,7 +43358,7 @@ JAI,JFK,zm.wego.com,airport,false,*,*,true,*
 MXP,LED,zm.wego.com,airport,false,*,*,true,*
 WLG,SZX,zm.wego.com,airport,false,*,*,true,*
 MED,LEJ,zm.wego.com,airport,false,*,*,true,*
-SZB,,false,zm.wego.com,airport,false,*,*,true,*
+SZB,VNO,zm.wego.com,airport,false,*,*,true,*
 LHE,ATH,zm.wego.com,airport,false,*,*,true,*
 AYT,ZAG,zm.wego.com,airport,false,*,*,true,*
 MPH,HKT,zm.wego.com,airport,false,*,*,true,*
@@ -43453,7 +43460,7 @@ BVA,FRA,zm.wego.com,airport,false,*,*,true,*
 LIG,RAK,zm.wego.com,airport,false,*,*,true,*
 JTR,DEL,zm.wego.com,airport,false,*,*,true,*
 IXZ,CNN,zm.wego.com,airport,false,*,*,true,*
-AMD,,false,zm.wego.com,airport,false,*,*,true,*
+AMD,VNO,zm.wego.com,airport,false,*,*,true,*
 KIX,ATQ,zm.wego.com,airport,false,*,*,true,*
 LAO,GES,zm.wego.com,airport,false,*,*,true,*
 STR,TSF,zm.wego.com,airport,false,*,*,true,*
@@ -43644,7 +43651,7 @@ DEL,GOT,zm.wego.com,airport,false,*,*,true,*
 AGA,TFN,zm.wego.com,airport,false,*,*,true,*
 MXP,DJE,zm.wego.com,airport,false,*,*,true,*
 JHB,LWY,zm.wego.com,airport,false,*,*,true,*
-,false,BAH,zm.wego.com,airport,false,*,*,true,*
+VNO,BAH,zm.wego.com,airport,false,*,*,true,*
 MUC,YYZ,zm.wego.com,airport,false,*,*,true,*
 ALC,SGD,zm.wego.com,airport,false,*,*,true,*
 AJL,LKO,zm.wego.com,airport,false,*,*,true,*
@@ -43958,7 +43965,7 @@ SEA,STL,zm.wego.com,airport,false,*,*,true,*
 CPH,SJJ,zm.wego.com,airport,false,*,*,true,*
 HRG,NCL,zm.wego.com,airport,false,*,*,true,*
 STN,HKG,zm.wego.com,airport,false,*,*,true,*
-DPS,,false,zm.wego.com,airport,false,*,*,true,*
+DPS,RNO,zm.wego.com,airport,false,*,*,true,*
 KCZ,KTM,zm.wego.com,airport,false,*,*,true,*
 OSS,BOM,zm.wego.com,airport,false,*,*,true,*
 LGK,SHJ,zm.wego.com,airport,false,*,*,true,*
@@ -44058,7 +44065,7 @@ BKK,SKT,zm.wego.com,airport,false,*,*,true,*
 OKC,DFW,zm.wego.com,airport,false,*,*,true,*
 GRR,SFB,zm.wego.com,airport,false,*,*,true,*
 PRG,RIX,zm.wego.com,airport,false,*,*,true,*
-,false,KRK,zm.wego.com,airport,false,*,*,true,*
+VNO,KRK,zm.wego.com,airport,false,*,*,true,*
 ECN,WAW,zm.wego.com,airport,false,*,*,true,*
 CHS,MCO,zm.wego.com,airport,false,*,*,true,*
 AMD,ALB,zm.wego.com,airport,false,*,*,true,*
@@ -44532,7 +44539,7 @@ DSS,MED,zm.wego.com,airport,false,*,*,true,*
 MKE,CLE,zm.wego.com,airport,false,*,*,true,*
 DOH,ABT,zm.wego.com,airport,false,*,*,true,*
 BCN,SGN,zm.wego.com,airport,false,*,*,true,*
-TIM,,false,zm.wego.com,airport,false,*,*,true,*
+TIM,KNO,zm.wego.com,airport,false,*,*,true,*
 RKT,ACC,zm.wego.com,airport,false,*,*,true,*
 TAG,KIX,zm.wego.com,airport,false,*,*,true,*
 MDT,IAH,zm.wego.com,airport,false,*,*,true,*
@@ -44595,8 +44602,8 @@ ATH,ZTH,zm.wego.com,airport,false,*,*,true,*
 SUB,PQC,zm.wego.com,airport,false,*,*,true,*
 VTZ,FRA,zm.wego.com,airport,false,*,*,true,*
 AMM,PER,zm.wego.com,airport,false,*,*,true,*
-,false,SOF,zm.wego.com,airport,false,*,*,true,*
-,false,SSH,zm.wego.com,airport,false,*,*,true,*
+VNO,SOF,zm.wego.com,airport,false,*,*,true,*
+VNO,SSH,zm.wego.com,airport,false,*,*,true,*
 AJF,ALG,zm.wego.com,airport,false,*,*,true,*
 CLE,BLR,zm.wego.com,airport,false,*,*,true,*
 MDC,DVO,zm.wego.com,airport,false,*,*,true,*
@@ -44775,13 +44782,13 @@ HYD,BHU,zm.wego.com,airport,false,*,*,true,*
 LBA,AGA,zm.wego.com,airport,false,*,*,true,*
 DUB,OPO,zm.wego.com,airport,false,*,*,true,*
 AJF,MAA,zm.wego.com,airport,false,*,*,true,*
-,false,PVG,zm.wego.com,airport,false,*,*,true,*
+KNO,PVG,zm.wego.com,airport,false,*,*,true,*
 CMN,ZRH,zm.wego.com,airport,false,*,*,true,*
 ALG,PHL,zm.wego.com,airport,false,*,*,true,*
 MAA,EWR,zm.wego.com,airport,false,*,*,true,*
 SHJ,RZV,zm.wego.com,airport,false,*,*,true,*
 VIE,HAN,zm.wego.com,airport,false,*,*,true,*
-DWC,,false,zm.wego.com,airport,false,*,*,true,*
+DWC,VNO,zm.wego.com,airport,false,*,*,true,*
 IBZ,SVQ,zm.wego.com,airport,false,*,*,true,*
 RHO,BUD,zm.wego.com,airport,false,*,*,true,*
 IXC,BUD,zm.wego.com,airport,false,*,*,true,*
@@ -44855,7 +44862,7 @@ CCU,LYI,zm.wego.com,airport,false,*,*,true,*
 BEK,JED,zm.wego.com,airport,false,*,*,true,*
 OKA,BEG,zm.wego.com,airport,false,*,*,true,*
 KOJ,TPE,zm.wego.com,airport,false,*,*,true,*
-RAK,,false,zm.wego.com,airport,false,*,*,true,*
+RAK,VNO,zm.wego.com,airport,false,*,*,true,*
 DVO,UTP,zm.wego.com,airport,false,*,*,true,*
 OPO,IKA,zm.wego.com,airport,false,*,*,true,*
 YYZ,MSP,zm.wego.com,airport,false,*,*,true,*
@@ -44991,7 +44998,7 @@ RUH,VRA,zm.wego.com,airport,false,*,*,true,*
 UTH,BLR,zm.wego.com,airport,false,*,*,true,*
 ADB,YKO,zm.wego.com,airport,false,*,*,true,*
 CKG,CCU,zm.wego.com,airport,false,*,*,true,*
-SSH,,false,zm.wego.com,airport,false,*,*,true,*
+SSH,VNO,zm.wego.com,airport,false,*,*,true,*
 TLS,CGN,zm.wego.com,airport,false,*,*,true,*
 MAN,NTE,zm.wego.com,airport,false,*,*,true,*
 STN,BUQ,zm.wego.com,airport,false,*,*,true,*
@@ -45000,7 +45007,7 @@ CGK,YNB,zm.wego.com,airport,false,*,*,true,*
 BOM,YWG,zm.wego.com,airport,false,*,*,true,*
 JGB,UDR,zm.wego.com,airport,false,*,*,true,*
 NBO,IXC,zm.wego.com,airport,false,*,*,true,*
-,false,HAM,zm.wego.com,airport,false,*,*,true,*
+VNO,HAM,zm.wego.com,airport,false,*,*,true,*
 RBA,FRA,zm.wego.com,airport,false,*,*,true,*
 ILO,TLV,zm.wego.com,airport,false,*,*,true,*
 AHB,DED,zm.wego.com,airport,false,*,*,true,*
@@ -45040,7 +45047,7 @@ MKQ,MDC,zm.wego.com,airport,false,*,*,true,*
 LHR,TRV,zm.wego.com,airport,false,*,*,true,*
 IND,MBJ,zm.wego.com,airport,false,*,*,true,*
 BUD,TRZ,zm.wego.com,airport,false,*,*,true,*
-,false,HKT,zm.wego.com,airport,false,*,*,true,*
+SNO,HKT,zm.wego.com,airport,false,*,*,true,*
 LGW,PRN,zm.wego.com,airport,false,*,*,true,*
 BDQ,FRA,zm.wego.com,airport,false,*,*,true,*
 KTM,BER,zm.wego.com,airport,false,*,*,true,*
@@ -45081,11 +45088,11 @@ RTM,MJI,zm.wego.com,airport,false,*,*,true,*
 RUH,MBT,zm.wego.com,airport,false,*,*,true,*
 UTH,PNH,zm.wego.com,airport,false,*,*,true,*
 COV,MQM,zm.wego.com,airport,false,*,*,true,*
-,false,MSP,zm.wego.com,airport,false,*,*,true,*
+RNO,MSP,zm.wego.com,airport,false,*,*,true,*
 AES,HAU,zm.wego.com,airport,false,*,*,true,*
 HYD,BHH,zm.wego.com,airport,false,*,*,true,*
 KRK,MAH,zm.wego.com,airport,false,*,*,true,*
-,false,LYS,zm.wego.com,airport,false,*,*,true,*
+VNO,LYS,zm.wego.com,airport,false,*,*,true,*
 BNE,TPE,zm.wego.com,airport,false,*,*,true,*
 IND,DEN,zm.wego.com,airport,false,*,*,true,*
 FCO,POZ,zm.wego.com,airport,false,*,*,true,*
@@ -45230,7 +45237,7 @@ HGH,KBV,zm.wego.com,airport,false,*,*,true,*
 LYS,LPA,zm.wego.com,airport,false,*,*,true,*
 LIL,LYS,zm.wego.com,airport,false,*,*,true,*
 HER,HBE,zm.wego.com,airport,false,*,*,true,*
-MDC,,false,zm.wego.com,airport,false,*,*,true,*
+MDC,KNO,zm.wego.com,airport,false,*,*,true,*
 PSA,ALC,zm.wego.com,airport,false,*,*,true,*
 MXP,ASB,zm.wego.com,airport,false,*,*,true,*
 FRU,PEN,zm.wego.com,airport,false,*,*,true,*
@@ -45284,7 +45291,7 @@ VGA,LGW,zm.wego.com,airport,false,*,*,true,*
 FRA,DWC,zm.wego.com,airport,false,*,*,true,*
 HAM,SVO,zm.wego.com,airport,false,*,*,true,*
 LUX,OVD,zm.wego.com,airport,false,*,*,true,*
-LUX,,false,zm.wego.com,airport,false,*,*,true,*
+LUX,VNO,zm.wego.com,airport,false,*,*,true,*
 PMO,SAW,zm.wego.com,airport,false,*,*,true,*
 STR,JFK,zm.wego.com,airport,false,*,*,true,*
 TGM,LTN,zm.wego.com,airport,false,*,*,true,*
@@ -45295,7 +45302,7 @@ HOF,MLE,zm.wego.com,airport,false,*,*,true,*
 ZAZ,LIS,zm.wego.com,airport,false,*,*,true,*
 MCI,MTY,zm.wego.com,airport,false,*,*,true,*
 BVA,BKK,zm.wego.com,airport,false,*,*,true,*
-STR,,false,zm.wego.com,airport,false,*,*,true,*
+STR,VNO,zm.wego.com,airport,false,*,*,true,*
 ZAZ,CAI,zm.wego.com,airport,false,*,*,true,*
 KRS,RUH,zm.wego.com,airport,false,*,*,true,*
 KTM,DAC,zm.wego.com,airport,false,*,*,true,*
@@ -45581,7 +45588,7 @@ SPX,BGG,zm.wego.com,airport,false,*,*,true,*
 CDG,BGY,zm.wego.com,airport,false,*,*,true,*
 POZ,VTZ,zm.wego.com,airport,false,*,*,true,*
 CLT,BOM,zm.wego.com,airport,false,*,*,true,*
-,false,IAH,zm.wego.com,airport,false,*,*,true,*
+RNO,IAH,zm.wego.com,airport,false,*,*,true,*
 DEL,DTW,zm.wego.com,airport,false,*,*,true,*
 ADL,DAM,zm.wego.com,airport,false,*,*,true,*
 RUH,TPA,zm.wego.com,airport,false,*,*,true,*
@@ -45982,7 +45989,7 @@ BOM,HRE,zm.wego.com,airport,false,*,*,true,*
 BGW,HGH,zm.wego.com,airport,false,*,*,true,*
 CTA,LOS,zm.wego.com,airport,false,*,*,true,*
 FCO,LED,zm.wego.com,airport,false,*,*,true,*
-,false,VIE,zm.wego.com,airport,false,*,*,true,*
+VNO,VIE,zm.wego.com,airport,false,*,*,true,*
 EIN,CND,zm.wego.com,airport,false,*,*,true,*
 ESB,DUB,zm.wego.com,airport,false,*,*,true,*
 SAW,CUN,zm.wego.com,airport,false,*,*,true,*
@@ -46024,7 +46031,7 @@ VTZ,CVG,zm.wego.com,airport,false,*,*,true,*
 HBE,MLX,zm.wego.com,airport,false,*,*,true,*
 TFN,STR,zm.wego.com,airport,false,*,*,true,*
 BKK,JRG,zm.wego.com,airport,false,*,*,true,*
-,false,HKT,zm.wego.com,airport,false,*,*,true,*
+KNO,HKT,zm.wego.com,airport,false,*,*,true,*
 BNE,CAN,zm.wego.com,airport,false,*,*,true,*
 MMX,AMS,zm.wego.com,airport,false,*,*,true,*
 FLL,MBJ,zm.wego.com,airport,false,*,*,true,*
@@ -46121,7 +46128,7 @@ RTM,BKK,zm.wego.com,airport,false,*,*,true,*
 JIB,TRV,zm.wego.com,airport,false,*,*,true,*
 VTZ,PZU,zm.wego.com,airport,false,*,*,true,*
 CRV,TRN,zm.wego.com,airport,false,*,*,true,*
-,false,MAA,zm.wego.com,airport,false,*,*,true,*
+VNO,MAA,zm.wego.com,airport,false,*,*,true,*
 DAC,RMO,zm.wego.com,airport,false,*,*,true,*
 NUE,MSR,zm.wego.com,airport,false,*,*,true,*
 CAI,YHZ,zm.wego.com,airport,false,*,*,true,*
@@ -46464,7 +46471,7 @@ RJA,CIY,zm.wego.com,airport,false,*,*,true,*
 ATL,EBL,zm.wego.com,airport,false,*,*,true,*
 TTU,TUN,zm.wego.com,airport,false,*,*,true,*
 WRO,PSA,zm.wego.com,airport,false,*,*,true,*
-MCI,,false,zm.wego.com,airport,false,*,*,true,*
+MCI,RNO,zm.wego.com,airport,false,*,*,true,*
 CGO,AMD,zm.wego.com,airport,false,*,*,true,*
 ZRH,KUL,zm.wego.com,airport,false,*,*,true,*
 AUH,FIH,zm.wego.com,airport,false,*,*,true,*
@@ -46475,10 +46482,10 @@ IXU,IXM,zm.wego.com,airport,false,*,*,true,*
 BGW,GSP,zm.wego.com,airport,false,*,*,true,*
 MXP,AER,zm.wego.com,airport,false,*,*,true,*
 RAK,TIV,zm.wego.com,airport,false,*,*,true,*
-JHB,,false,zm.wego.com,airport,false,*,*,true,*
+JHB,KNO,zm.wego.com,airport,false,*,*,true,*
 CEB,MFM,zm.wego.com,airport,false,*,*,true,*
 ADB,DTM,zm.wego.com,airport,false,*,*,true,*
-HHN,,false,zm.wego.com,airport,false,*,*,true,*
+HHN,VNO,zm.wego.com,airport,false,*,*,true,*
 LYS,FRA,zm.wego.com,airport,false,*,*,true,*
 ORK,TUN,zm.wego.com,airport,false,*,*,true,*
 BOM,BUS,zm.wego.com,airport,false,*,*,true,*
@@ -46711,7 +46718,7 @@ SXR,CGK,zm.wego.com,airport,false,*,*,true,*
 RPR,RJA,zm.wego.com,airport,false,*,*,true,*
 IXR,MLE,zm.wego.com,airport,false,*,*,true,*
 RDP,KAN,zm.wego.com,airport,false,*,*,true,*
-,false,IXC,zm.wego.com,airport,false,*,*,true,*
+VNO,IXC,zm.wego.com,airport,false,*,*,true,*
 BRU,COK,zm.wego.com,airport,false,*,*,true,*
 RVN,PRG,zm.wego.com,airport,false,*,*,true,*
 SXR,JDH,zm.wego.com,airport,false,*,*,true,*
@@ -46979,7 +46986,7 @@ EAM,ILO,zm.wego.com,airport,false,*,*,true,*
 LCA,MAN,zm.wego.com,airport,false,*,*,true,*
 BBI,MYQ,zm.wego.com,airport,false,*,*,true,*
 MAA,BKI,zm.wego.com,airport,false,*,*,true,*
-BGW,,false,zm.wego.com,airport,false,*,*,true,*
+BGW,VNO,zm.wego.com,airport,false,*,*,true,*
 EBL,PZU,zm.wego.com,airport,false,*,*,true,*
 SYZ,LKO,zm.wego.com,airport,false,*,*,true,*
 IKA,POM,zm.wego.com,airport,false,*,*,true,*
@@ -47592,7 +47599,7 @@ MAD,ESB,zm.wego.com,airport,false,*,*,true,*
 LHR,IAD,zm.wego.com,airport,false,*,*,true,*
 JKH,HAJ,zm.wego.com,airport,false,*,*,true,*
 ATH,PHL,zm.wego.com,airport,false,*,*,true,*
-,false,AUH,zm.wego.com,airport,false,*,*,true,*
+KNO,AUH,zm.wego.com,airport,false,*,*,true,*
 TTE,PLW,zm.wego.com,airport,false,*,*,true,*
 CDP,SHJ,zm.wego.com,airport,false,*,*,true,*
 CJB,ADL,zm.wego.com,airport,false,*,*,true,*
@@ -47753,7 +47760,7 @@ BKK,PEW,zm.wego.com,airport,false,*,*,true,*
 RKT,PNQ,zm.wego.com,airport,false,*,*,true,*
 CMB,RJA,zm.wego.com,airport,false,*,*,true,*
 BLR,NAN,zm.wego.com,airport,false,*,*,true,*
-,false,DUB,zm.wego.com,airport,false,*,*,true,*
+VNO,DUB,zm.wego.com,airport,false,*,*,true,*
 HAU,OSL,zm.wego.com,airport,false,*,*,true,*
 DWC,ZRH,zm.wego.com,airport,false,*,*,true,*
 DWC,ELQ,zm.wego.com,airport,false,*,*,true,*
